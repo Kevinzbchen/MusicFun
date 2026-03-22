@@ -12,7 +12,7 @@ from loguru import logger
 # Add project root to path
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
-from src.platforms.netease.crawler import NeteaseCrawler
+from src.platforms.netease.crawler import NeteaseCrawlerFixed as NeteaseCrawler
 from src.core.logger import setup_logger
 from config.settings import LOG_DIR
 
