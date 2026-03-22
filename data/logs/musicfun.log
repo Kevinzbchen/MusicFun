@@ -1999,3 +1999,1167 @@ created_at
 2026-03-22 21:48:28 | INFO     | __main__:main:74 | ==================================================
 2026-03-22 21:48:28 | DEBUG    | src.core.base_crawler:close:84 | Session closed
 2026-03-22 21:48:28 | DEBUG    | src.core.base_crawler:close:84 | Session closed
+2026-03-22 22:54:24 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 22:54:24 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 22:54:24 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 22:54:24 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 22:54:24 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 22:54:24 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 22:54:24 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 22:54:24 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 22:54:24 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 22:54:24 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 22:54:24 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 22:54:24 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 22:54:24 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 22:54:24 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 22:54:24 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 22:54:24 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 22:54:24 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 22:54:24 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 22:54:24 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 22:54:24 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 22:54:24 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 22:54:24 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 22:54:24 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 22:54:24 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 22:54:24 | INFO     | __main__:main:37 | ==================================================
+2026-03-22 22:54:24 | INFO     | __main__:main:37 | ==================================================
+2026-03-22 22:54:24 | INFO     | __main__:main:37 | ==================================================
+2026-03-22 22:54:24 | INFO     | __main__:main:38 | Netease Music Crawler Started
+2026-03-22 22:54:24 | INFO     | __main__:main:38 | Netease Music Crawler Started
+2026-03-22 22:54:24 | INFO     | __main__:main:38 | Netease Music Crawler Started
+2026-03-22 22:54:24 | INFO     | __main__:main:39 | Keyword: mihoyo
+2026-03-22 22:54:24 | INFO     | __main__:main:39 | Keyword: mihoyo
+2026-03-22 22:54:24 | INFO     | __main__:main:39 | Keyword: mihoyo
+2026-03-22 22:54:24 | INFO     | __main__:main:40 | Max songs: 3
+2026-03-22 22:54:24 | INFO     | __main__:main:40 | Max songs: 3
+2026-03-22 22:54:24 | INFO     | __main__:main:40 | Max songs: 3
+2026-03-22 22:54:24 | INFO     | __main__:main:41 | Comments per song: 10
+2026-03-22 22:54:24 | INFO     | __main__:main:41 | Comments per song: 10
+2026-03-22 22:54:24 | INFO     | __main__:main:41 | Comments per song: 10
+2026-03-22 22:54:24 | INFO     | __main__:main:42 | Mock only: False
+2026-03-22 22:54:24 | INFO     | __main__:main:42 | Mock only: False
+2026-03-22 22:54:24 | INFO     | __main__:main:42 | Mock only: False
+2026-03-22 22:54:24 | INFO     | __main__:main:43 | ==================================================
+2026-03-22 22:54:24 | INFO     | __main__:main:43 | ==================================================
+2026-03-22 22:54:24 | INFO     | __main__:main:43 | ==================================================
+2026-03-22 22:54:24 | INFO     | src.core.base_crawler:__init__:31 | Crawler initialized: NeteaseCrawler
+2026-03-22 22:54:24 | INFO     | src.core.base_crawler:__init__:31 | Crawler initialized: NeteaseCrawler
+2026-03-22 22:54:24 | INFO     | src.core.base_crawler:__init__:31 | Crawler initialized: NeteaseCrawler
+2026-03-22 22:54:24 | INFO     | src.platforms.netease.crawler:__init__:29 | NeteaseCrawler initialized (mock mode: False, api: http://localhost:3000)
+2026-03-22 22:54:24 | INFO     | src.platforms.netease.crawler:__init__:29 | NeteaseCrawler initialized (mock mode: False, api: http://localhost:3000)
+2026-03-22 22:54:24 | INFO     | src.platforms.netease.crawler:__init__:29 | NeteaseCrawler initialized (mock mode: False, api: http://localhost:3000)
+2026-03-22 22:54:24 | INFO     | __main__:main:50 | Starting search and comment extraction...
+2026-03-22 22:54:24 | INFO     | __main__:main:50 | Starting search and comment extraction...
+2026-03-22 22:54:24 | INFO     | __main__:main:50 | Starting search and comment extraction...
+2026-03-22 22:54:24 | INFO     | src.platforms.netease.crawler:search:33 | Searching: mihoyo
+2026-03-22 22:54:24 | INFO     | src.platforms.netease.crawler:search:33 | Searching: mihoyo
+2026-03-22 22:54:24 | INFO     | src.platforms.netease.crawler:search:33 | Searching: mihoyo
+2026-03-22 22:54:24 | INFO     | src.platforms.netease.crawler:search:60 | Found 3 songs from local API
+2026-03-22 22:54:24 | INFO     | src.platforms.netease.crawler:search:60 | Found 3 songs from local API
+2026-03-22 22:54:24 | INFO     | src.platforms.netease.crawler:search:60 | Found 3 songs from local API
+2026-03-22 22:54:24 | INFO     | src.platforms.netease.crawler:search_and_get_comments:241 | Processing 1/3: 痴人说梦
+2026-03-22 22:54:24 | INFO     | src.platforms.netease.crawler:search_and_get_comments:241 | Processing 1/3: 痴人说梦
+2026-03-22 22:54:24 | INFO     | src.platforms.netease.crawler:search_and_get_comments:241 | Processing 1/3: 痴人说梦
+2026-03-22 22:54:24 | INFO     | src.platforms.netease.crawler:get_comments:164 | Getting comments for song: 3357230091
+2026-03-22 22:54:24 | INFO     | src.platforms.netease.crawler:get_comments:164 | Getting comments for song: 3357230091
+2026-03-22 22:54:24 | INFO     | src.platforms.netease.crawler:get_comments:164 | Getting comments for song: 3357230091
+2026-03-22 22:54:25 | WARNING  | src.platforms.netease.crawler:get_comments:218 | API returned code 400 for song 3357230091
+2026-03-22 22:54:25 | WARNING  | src.platforms.netease.crawler:get_comments:218 | API returned code 400 for song 3357230091
+2026-03-22 22:54:25 | WARNING  | src.platforms.netease.crawler:get_comments:218 | API returned code 400 for song 3357230091
+2026-03-22 22:54:25 | INFO     | src.platforms.netease.crawler:get_comments:228 | Using mock comments for song 3357230091
+2026-03-22 22:54:25 | INFO     | src.platforms.netease.crawler:get_comments:228 | Using mock comments for song 3357230091
+2026-03-22 22:54:25 | INFO     | src.platforms.netease.crawler:get_comments:228 | Using mock comments for song 3357230091
+2026-03-22 22:54:25 | INFO     | src.platforms.netease.crawler:_generate_mock_comments:159 | Generated 5 mock comments
+2026-03-22 22:54:25 | INFO     | src.platforms.netease.crawler:_generate_mock_comments:159 | Generated 5 mock comments
+2026-03-22 22:54:25 | INFO     | src.platforms.netease.crawler:_generate_mock_comments:159 | Generated 5 mock comments
+2026-03-22 22:54:26 | INFO     | src.platforms.netease.crawler:search_and_get_comments:241 | Processing 2/3: 挪德卡莱 Nod-Krai
+2026-03-22 22:54:26 | INFO     | src.platforms.netease.crawler:search_and_get_comments:241 | Processing 2/3: 挪德卡莱 Nod-Krai
+2026-03-22 22:54:26 | INFO     | src.platforms.netease.crawler:search_and_get_comments:241 | Processing 2/3: 挪德卡莱 Nod-Krai
+2026-03-22 22:54:26 | INFO     | src.platforms.netease.crawler:get_comments:164 | Getting comments for song: 2756019200
+2026-03-22 22:54:26 | INFO     | src.platforms.netease.crawler:get_comments:164 | Getting comments for song: 2756019200
+2026-03-22 22:54:26 | INFO     | src.platforms.netease.crawler:get_comments:164 | Getting comments for song: 2756019200
+2026-03-22 22:54:26 | WARNING  | src.platforms.netease.crawler:get_comments:218 | API returned code 400 for song 2756019200
+2026-03-22 22:54:26 | WARNING  | src.platforms.netease.crawler:get_comments:218 | API returned code 400 for song 2756019200
+2026-03-22 22:54:26 | WARNING  | src.platforms.netease.crawler:get_comments:218 | API returned code 400 for song 2756019200
+2026-03-22 22:54:26 | INFO     | src.platforms.netease.crawler:get_comments:228 | Using mock comments for song 2756019200
+2026-03-22 22:54:26 | INFO     | src.platforms.netease.crawler:get_comments:228 | Using mock comments for song 2756019200
+2026-03-22 22:54:26 | INFO     | src.platforms.netease.crawler:get_comments:228 | Using mock comments for song 2756019200
+2026-03-22 22:54:26 | INFO     | src.platforms.netease.crawler:_generate_mock_comments:159 | Generated 5 mock comments
+2026-03-22 22:54:26 | INFO     | src.platforms.netease.crawler:_generate_mock_comments:159 | Generated 5 mock comments
+2026-03-22 22:54:26 | INFO     | src.platforms.netease.crawler:_generate_mock_comments:159 | Generated 5 mock comments
+2026-03-22 22:54:27 | INFO     | src.platforms.netease.crawler:search_and_get_comments:241 | Processing 3/3: 火力全开 Maximum Firepower
+2026-03-22 22:54:27 | INFO     | src.platforms.netease.crawler:search_and_get_comments:241 | Processing 3/3: 火力全开 Maximum Firepower
+2026-03-22 22:54:27 | INFO     | src.platforms.netease.crawler:search_and_get_comments:241 | Processing 3/3: 火力全开 Maximum Firepower
+2026-03-22 22:54:27 | INFO     | src.platforms.netease.crawler:get_comments:164 | Getting comments for song: 3360834542
+2026-03-22 22:54:27 | INFO     | src.platforms.netease.crawler:get_comments:164 | Getting comments for song: 3360834542
+2026-03-22 22:54:27 | INFO     | src.platforms.netease.crawler:get_comments:164 | Getting comments for song: 3360834542
+2026-03-22 22:54:27 | WARNING  | src.platforms.netease.crawler:get_comments:218 | API returned code 400 for song 3360834542
+2026-03-22 22:54:27 | WARNING  | src.platforms.netease.crawler:get_comments:218 | API returned code 400 for song 3360834542
+2026-03-22 22:54:27 | WARNING  | src.platforms.netease.crawler:get_comments:218 | API returned code 400 for song 3360834542
+2026-03-22 22:54:27 | INFO     | src.platforms.netease.crawler:get_comments:228 | Using mock comments for song 3360834542
+2026-03-22 22:54:27 | INFO     | src.platforms.netease.crawler:get_comments:228 | Using mock comments for song 3360834542
+2026-03-22 22:54:27 | INFO     | src.platforms.netease.crawler:get_comments:228 | Using mock comments for song 3360834542
+2026-03-22 22:54:27 | INFO     | src.platforms.netease.crawler:_generate_mock_comments:159 | Generated 5 mock comments
+2026-03-22 22:54:27 | INFO     | src.platforms.netease.crawler:_generate_mock_comments:159 | Generated 5 mock comments
+2026-03-22 22:54:27 | INFO     | src.platforms.netease.crawler:_generate_mock_comments:159 | Generated 5 mock comments
+2026-03-22 22:54:28 | INFO     | src.platforms.netease.crawler:search_and_get_comments:262 | Completed. Processed 3 songs
+2026-03-22 22:54:28 | INFO     | src.platforms.netease.crawler:search_and_get_comments:262 | Completed. Processed 3 songs
+2026-03-22 22:54:28 | INFO     | src.platforms.netease.crawler:search_and_get_comments:262 | Completed. Processed 3 songs
+2026-03-22 22:54:28 | INFO     | __main__:main:71 | ==================================================
+2026-03-22 22:54:28 | INFO     | __main__:main:71 | ==================================================
+2026-03-22 22:54:28 | INFO     | __main__:main:71 | ==================================================
+2026-03-22 22:54:28 | INFO     | __main__:main:72 | SUCCESS! Processed 3 songs
+2026-03-22 22:54:28 | INFO     | __main__:main:72 | SUCCESS! Processed 3 songs
+2026-03-22 22:54:28 | INFO     | __main__:main:72 | SUCCESS! Processed 3 songs
+2026-03-22 22:54:28 | INFO     | __main__:main:73 | Output saved to: data\processed\netease_mihoyo_20260322_225428.json
+2026-03-22 22:54:28 | INFO     | __main__:main:73 | Output saved to: data\processed\netease_mihoyo_20260322_225428.json
+2026-03-22 22:54:28 | INFO     | __main__:main:73 | Output saved to: data\processed\netease_mihoyo_20260322_225428.json
+2026-03-22 22:54:28 | INFO     | __main__:main:74 | ==================================================
+2026-03-22 22:54:28 | INFO     | __main__:main:74 | ==================================================
+2026-03-22 22:54:28 | INFO     | __main__:main:74 | ==================================================
+2026-03-22 22:55:04 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 22:55:04 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 22:55:04 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 22:55:04 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 22:55:05 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 22:55:05 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 22:55:05 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 22:55:05 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 22:55:05 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 22:55:05 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 22:55:05 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 22:55:05 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 22:55:05 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 22:55:05 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 22:55:05 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 22:55:05 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 22:55:05 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 22:55:05 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 22:55:05 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 22:55:05 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 22:55:05 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 22:55:05 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 22:55:05 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 22:55:05 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 22:55:05 | INFO     | __main__:main:37 | ==================================================
+2026-03-22 22:55:05 | INFO     | __main__:main:37 | ==================================================
+2026-03-22 22:55:05 | INFO     | __main__:main:37 | ==================================================
+2026-03-22 22:55:05 | INFO     | __main__:main:38 | Netease Music Crawler Started
+2026-03-22 22:55:05 | INFO     | __main__:main:38 | Netease Music Crawler Started
+2026-03-22 22:55:05 | INFO     | __main__:main:38 | Netease Music Crawler Started
+2026-03-22 22:55:05 | INFO     | __main__:main:39 | Keyword: genshin
+2026-03-22 22:55:05 | INFO     | __main__:main:39 | Keyword: genshin
+2026-03-22 22:55:05 | INFO     | __main__:main:39 | Keyword: genshin
+2026-03-22 22:55:05 | INFO     | __main__:main:40 | Max songs: 2
+2026-03-22 22:55:05 | INFO     | __main__:main:40 | Max songs: 2
+2026-03-22 22:55:05 | INFO     | __main__:main:40 | Max songs: 2
+2026-03-22 22:55:05 | INFO     | __main__:main:41 | Comments per song: 10
+2026-03-22 22:55:05 | INFO     | __main__:main:41 | Comments per song: 10
+2026-03-22 22:55:05 | INFO     | __main__:main:41 | Comments per song: 10
+2026-03-22 22:55:05 | INFO     | __main__:main:42 | Mock only: False
+2026-03-22 22:55:05 | INFO     | __main__:main:42 | Mock only: False
+2026-03-22 22:55:05 | INFO     | __main__:main:42 | Mock only: False
+2026-03-22 22:55:05 | INFO     | __main__:main:43 | ==================================================
+2026-03-22 22:55:05 | INFO     | __main__:main:43 | ==================================================
+2026-03-22 22:55:05 | INFO     | __main__:main:43 | ==================================================
+2026-03-22 22:55:05 | INFO     | src.core.base_crawler:__init__:31 | Crawler initialized: NeteaseCrawler
+2026-03-22 22:55:05 | INFO     | src.core.base_crawler:__init__:31 | Crawler initialized: NeteaseCrawler
+2026-03-22 22:55:05 | INFO     | src.core.base_crawler:__init__:31 | Crawler initialized: NeteaseCrawler
+2026-03-22 22:55:05 | INFO     | src.platforms.netease.crawler:__init__:29 | NeteaseCrawler initialized (mock mode: False, api: http://localhost:3000)
+2026-03-22 22:55:05 | INFO     | src.platforms.netease.crawler:__init__:29 | NeteaseCrawler initialized (mock mode: False, api: http://localhost:3000)
+2026-03-22 22:55:05 | INFO     | src.platforms.netease.crawler:__init__:29 | NeteaseCrawler initialized (mock mode: False, api: http://localhost:3000)
+2026-03-22 22:55:05 | INFO     | __main__:main:50 | Starting search and comment extraction...
+2026-03-22 22:55:05 | INFO     | __main__:main:50 | Starting search and comment extraction...
+2026-03-22 22:55:05 | INFO     | __main__:main:50 | Starting search and comment extraction...
+2026-03-22 22:55:05 | INFO     | src.platforms.netease.crawler:search:33 | Searching: genshin
+2026-03-22 22:55:05 | INFO     | src.platforms.netease.crawler:search:33 | Searching: genshin
+2026-03-22 22:55:05 | INFO     | src.platforms.netease.crawler:search:33 | Searching: genshin
+2026-03-22 22:55:05 | INFO     | src.platforms.netease.crawler:search:60 | Found 2 songs from local API
+2026-03-22 22:55:05 | INFO     | src.platforms.netease.crawler:search:60 | Found 2 songs from local API
+2026-03-22 22:55:05 | INFO     | src.platforms.netease.crawler:search:60 | Found 2 songs from local API
+2026-03-22 22:55:05 | INFO     | src.platforms.netease.crawler:search_and_get_comments:241 | Processing 1/2: 让风告诉你
+2026-03-22 22:55:05 | INFO     | src.platforms.netease.crawler:search_and_get_comments:241 | Processing 1/2: 让风告诉你
+2026-03-22 22:55:05 | INFO     | src.platforms.netease.crawler:search_and_get_comments:241 | Processing 1/2: 让风告诉你
+2026-03-22 22:55:05 | INFO     | src.platforms.netease.crawler:get_comments:164 | Getting comments for song: 1818031620
+2026-03-22 22:55:05 | INFO     | src.platforms.netease.crawler:get_comments:164 | Getting comments for song: 1818031620
+2026-03-22 22:55:05 | INFO     | src.platforms.netease.crawler:get_comments:164 | Getting comments for song: 1818031620
+2026-03-22 22:55:05 | WARNING  | src.platforms.netease.crawler:get_comments:218 | API returned code 400 for song 1818031620
+2026-03-22 22:55:05 | WARNING  | src.platforms.netease.crawler:get_comments:218 | API returned code 400 for song 1818031620
+2026-03-22 22:55:05 | WARNING  | src.platforms.netease.crawler:get_comments:218 | API returned code 400 for song 1818031620
+2026-03-22 22:55:05 | INFO     | src.platforms.netease.crawler:get_comments:228 | Using mock comments for song 1818031620
+2026-03-22 22:55:05 | INFO     | src.platforms.netease.crawler:get_comments:228 | Using mock comments for song 1818031620
+2026-03-22 22:55:05 | INFO     | src.platforms.netease.crawler:get_comments:228 | Using mock comments for song 1818031620
+2026-03-22 22:55:05 | INFO     | src.platforms.netease.crawler:_generate_mock_comments:159 | Generated 5 mock comments
+2026-03-22 22:55:05 | INFO     | src.platforms.netease.crawler:_generate_mock_comments:159 | Generated 5 mock comments
+2026-03-22 22:55:05 | INFO     | src.platforms.netease.crawler:_generate_mock_comments:159 | Generated 5 mock comments
+2026-03-22 22:55:06 | INFO     | src.platforms.netease.crawler:search_and_get_comments:241 | Processing 2/2: 白鸽之诗 Columbina's Poem
+2026-03-22 22:55:06 | INFO     | src.platforms.netease.crawler:search_and_get_comments:241 | Processing 2/2: 白鸽之诗 Columbina's Poem
+2026-03-22 22:55:06 | INFO     | src.platforms.netease.crawler:search_and_get_comments:241 | Processing 2/2: 白鸽之诗 Columbina's Poem
+2026-03-22 22:55:06 | INFO     | src.platforms.netease.crawler:get_comments:164 | Getting comments for song: 3358806553
+2026-03-22 22:55:06 | INFO     | src.platforms.netease.crawler:get_comments:164 | Getting comments for song: 3358806553
+2026-03-22 22:55:06 | INFO     | src.platforms.netease.crawler:get_comments:164 | Getting comments for song: 3358806553
+2026-03-22 22:55:06 | WARNING  | src.platforms.netease.crawler:get_comments:218 | API returned code 400 for song 3358806553
+2026-03-22 22:55:06 | WARNING  | src.platforms.netease.crawler:get_comments:218 | API returned code 400 for song 3358806553
+2026-03-22 22:55:06 | WARNING  | src.platforms.netease.crawler:get_comments:218 | API returned code 400 for song 3358806553
+2026-03-22 22:55:06 | INFO     | src.platforms.netease.crawler:get_comments:228 | Using mock comments for song 3358806553
+2026-03-22 22:55:06 | INFO     | src.platforms.netease.crawler:get_comments:228 | Using mock comments for song 3358806553
+2026-03-22 22:55:06 | INFO     | src.platforms.netease.crawler:get_comments:228 | Using mock comments for song 3358806553
+2026-03-22 22:55:06 | INFO     | src.platforms.netease.crawler:_generate_mock_comments:159 | Generated 5 mock comments
+2026-03-22 22:55:06 | INFO     | src.platforms.netease.crawler:_generate_mock_comments:159 | Generated 5 mock comments
+2026-03-22 22:55:06 | INFO     | src.platforms.netease.crawler:_generate_mock_comments:159 | Generated 5 mock comments
+2026-03-22 22:55:07 | INFO     | src.platforms.netease.crawler:search_and_get_comments:262 | Completed. Processed 2 songs
+2026-03-22 22:55:07 | INFO     | src.platforms.netease.crawler:search_and_get_comments:262 | Completed. Processed 2 songs
+2026-03-22 22:55:07 | INFO     | src.platforms.netease.crawler:search_and_get_comments:262 | Completed. Processed 2 songs
+2026-03-22 22:55:07 | INFO     | __main__:main:71 | ==================================================
+2026-03-22 22:55:07 | INFO     | __main__:main:71 | ==================================================
+2026-03-22 22:55:07 | INFO     | __main__:main:71 | ==================================================
+2026-03-22 22:55:07 | INFO     | __main__:main:72 | SUCCESS! Processed 2 songs
+2026-03-22 22:55:07 | INFO     | __main__:main:72 | SUCCESS! Processed 2 songs
+2026-03-22 22:55:07 | INFO     | __main__:main:72 | SUCCESS! Processed 2 songs
+2026-03-22 22:55:07 | INFO     | __main__:main:73 | Output saved to: data\processed\netease_genshin_20260322_225507.json
+2026-03-22 22:55:07 | INFO     | __main__:main:73 | Output saved to: data\processed\netease_genshin_20260322_225507.json
+2026-03-22 22:55:07 | INFO     | __main__:main:73 | Output saved to: data\processed\netease_genshin_20260322_225507.json
+2026-03-22 22:55:07 | INFO     | __main__:main:74 | ==================================================
+2026-03-22 22:55:07 | INFO     | __main__:main:74 | ==================================================
+2026-03-22 22:55:07 | INFO     | __main__:main:74 | ==================================================
+2026-03-22 22:55:28 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 22:55:28 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 22:55:28 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 22:55:28 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 22:55:28 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 22:55:28 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 22:55:28 | INFO     | src.core.logger:setup_logger:127 | Log level: DEBUG
+2026-03-22 22:55:28 | INFO     | src.core.logger:setup_logger:127 | Log level: DEBUG
+2026-03-22 22:55:28 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 22:55:28 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 22:55:28 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 22:55:28 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 22:55:28 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 22:55:28 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 22:55:28 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 22:55:28 | INFO     | src.core.logger:setup_logger:127 | Log level: DEBUG
+2026-03-22 22:55:28 | INFO     | src.core.logger:setup_logger:127 | Log level: DEBUG
+2026-03-22 22:55:28 | INFO     | src.core.logger:setup_logger:127 | Log level: DEBUG
+2026-03-22 22:55:28 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 22:55:28 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 22:55:28 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 22:55:28 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 22:55:28 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 22:55:28 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 22:55:28 | INFO     | __main__:main:37 | ==================================================
+2026-03-22 22:55:28 | INFO     | __main__:main:37 | ==================================================
+2026-03-22 22:55:28 | INFO     | __main__:main:37 | ==================================================
+2026-03-22 22:55:28 | INFO     | __main__:main:38 | Netease Music Crawler Started
+2026-03-22 22:55:28 | INFO     | __main__:main:38 | Netease Music Crawler Started
+2026-03-22 22:55:28 | INFO     | __main__:main:38 | Netease Music Crawler Started
+2026-03-22 22:55:28 | INFO     | __main__:main:39 | Keyword: honkai
+2026-03-22 22:55:28 | INFO     | __main__:main:39 | Keyword: honkai
+2026-03-22 22:55:28 | INFO     | __main__:main:39 | Keyword: honkai
+2026-03-22 22:55:28 | INFO     | __main__:main:40 | Max songs: 2
+2026-03-22 22:55:28 | INFO     | __main__:main:40 | Max songs: 2
+2026-03-22 22:55:28 | INFO     | __main__:main:40 | Max songs: 2
+2026-03-22 22:55:28 | INFO     | __main__:main:41 | Comments per song: 10
+2026-03-22 22:55:28 | INFO     | __main__:main:41 | Comments per song: 10
+2026-03-22 22:55:28 | INFO     | __main__:main:41 | Comments per song: 10
+2026-03-22 22:55:28 | INFO     | __main__:main:42 | Mock only: False
+2026-03-22 22:55:28 | INFO     | __main__:main:42 | Mock only: False
+2026-03-22 22:55:28 | INFO     | __main__:main:42 | Mock only: False
+2026-03-22 22:55:28 | INFO     | __main__:main:43 | ==================================================
+2026-03-22 22:55:28 | INFO     | __main__:main:43 | ==================================================
+2026-03-22 22:55:28 | INFO     | __main__:main:43 | ==================================================
+2026-03-22 22:55:28 | INFO     | src.core.base_crawler:__init__:31 | Crawler initialized: NeteaseCrawler
+2026-03-22 22:55:28 | INFO     | src.core.base_crawler:__init__:31 | Crawler initialized: NeteaseCrawler
+2026-03-22 22:55:28 | INFO     | src.core.base_crawler:__init__:31 | Crawler initialized: NeteaseCrawler
+2026-03-22 22:55:28 | INFO     | src.platforms.netease.crawler:__init__:29 | NeteaseCrawler initialized (mock mode: False, api: http://localhost:3000)
+2026-03-22 22:55:28 | INFO     | src.platforms.netease.crawler:__init__:29 | NeteaseCrawler initialized (mock mode: False, api: http://localhost:3000)
+2026-03-22 22:55:28 | INFO     | src.platforms.netease.crawler:__init__:29 | NeteaseCrawler initialized (mock mode: False, api: http://localhost:3000)
+2026-03-22 22:55:28 | INFO     | __main__:main:50 | Starting search and comment extraction...
+2026-03-22 22:55:28 | INFO     | __main__:main:50 | Starting search and comment extraction...
+2026-03-22 22:55:28 | INFO     | __main__:main:50 | Starting search and comment extraction...
+2026-03-22 22:55:28 | INFO     | src.platforms.netease.crawler:search:33 | Searching: honkai
+2026-03-22 22:55:28 | INFO     | src.platforms.netease.crawler:search:33 | Searching: honkai
+2026-03-22 22:55:28 | INFO     | src.platforms.netease.crawler:search:33 | Searching: honkai
+2026-03-22 22:55:28 | INFO     | src.platforms.netease.crawler:search:60 | Found 2 songs from local API
+2026-03-22 22:55:28 | INFO     | src.platforms.netease.crawler:search:60 | Found 2 songs from local API
+2026-03-22 22:55:28 | INFO     | src.platforms.netease.crawler:search:60 | Found 2 songs from local API
+2026-03-22 22:55:28 | INFO     | src.platforms.netease.crawler:search_and_get_comments:241 | Processing 1/2: Honkai
+2026-03-22 22:55:28 | INFO     | src.platforms.netease.crawler:search_and_get_comments:241 | Processing 1/2: Honkai
+2026-03-22 22:55:28 | INFO     | src.platforms.netease.crawler:search_and_get_comments:241 | Processing 1/2: Honkai
+2026-03-22 22:55:28 | INFO     | src.platforms.netease.crawler:get_comments:164 | Getting comments for song: 1303229593
+2026-03-22 22:55:28 | INFO     | src.platforms.netease.crawler:get_comments:164 | Getting comments for song: 1303229593
+2026-03-22 22:55:28 | INFO     | src.platforms.netease.crawler:get_comments:164 | Getting comments for song: 1303229593
+2026-03-22 22:55:28 | WARNING  | src.platforms.netease.crawler:get_comments:218 | API returned code 400 for song 1303229593
+2026-03-22 22:55:28 | WARNING  | src.platforms.netease.crawler:get_comments:218 | API returned code 400 for song 1303229593
+2026-03-22 22:55:28 | WARNING  | src.platforms.netease.crawler:get_comments:218 | API returned code 400 for song 1303229593
+2026-03-22 22:55:28 | INFO     | src.platforms.netease.crawler:get_comments:228 | Using mock comments for song 1303229593
+2026-03-22 22:55:28 | INFO     | src.platforms.netease.crawler:get_comments:228 | Using mock comments for song 1303229593
+2026-03-22 22:55:28 | INFO     | src.platforms.netease.crawler:get_comments:228 | Using mock comments for song 1303229593
+2026-03-22 22:55:28 | INFO     | src.platforms.netease.crawler:_generate_mock_comments:159 | Generated 5 mock comments
+2026-03-22 22:55:28 | INFO     | src.platforms.netease.crawler:_generate_mock_comments:159 | Generated 5 mock comments
+2026-03-22 22:55:28 | INFO     | src.platforms.netease.crawler:_generate_mock_comments:159 | Generated 5 mock comments
+2026-03-22 22:55:29 | INFO     | src.platforms.netease.crawler:search_and_get_comments:241 | Processing 2/2: Honkai
+2026-03-22 22:55:29 | INFO     | src.platforms.netease.crawler:search_and_get_comments:241 | Processing 2/2: Honkai
+2026-03-22 22:55:29 | INFO     | src.platforms.netease.crawler:search_and_get_comments:241 | Processing 2/2: Honkai
+2026-03-22 22:55:29 | INFO     | src.platforms.netease.crawler:get_comments:164 | Getting comments for song: 2080624983
+2026-03-22 22:55:29 | INFO     | src.platforms.netease.crawler:get_comments:164 | Getting comments for song: 2080624983
+2026-03-22 22:55:29 | INFO     | src.platforms.netease.crawler:get_comments:164 | Getting comments for song: 2080624983
+2026-03-22 22:55:29 | WARNING  | src.platforms.netease.crawler:get_comments:218 | API returned code 400 for song 2080624983
+2026-03-22 22:55:29 | WARNING  | src.platforms.netease.crawler:get_comments:218 | API returned code 400 for song 2080624983
+2026-03-22 22:55:29 | WARNING  | src.platforms.netease.crawler:get_comments:218 | API returned code 400 for song 2080624983
+2026-03-22 22:55:29 | INFO     | src.platforms.netease.crawler:get_comments:228 | Using mock comments for song 2080624983
+2026-03-22 22:55:29 | INFO     | src.platforms.netease.crawler:get_comments:228 | Using mock comments for song 2080624983
+2026-03-22 22:55:29 | INFO     | src.platforms.netease.crawler:get_comments:228 | Using mock comments for song 2080624983
+2026-03-22 22:55:29 | INFO     | src.platforms.netease.crawler:_generate_mock_comments:159 | Generated 5 mock comments
+2026-03-22 22:55:29 | INFO     | src.platforms.netease.crawler:_generate_mock_comments:159 | Generated 5 mock comments
+2026-03-22 22:55:29 | INFO     | src.platforms.netease.crawler:_generate_mock_comments:159 | Generated 5 mock comments
+2026-03-22 22:55:30 | INFO     | src.platforms.netease.crawler:search_and_get_comments:262 | Completed. Processed 1 songs
+2026-03-22 22:55:30 | INFO     | src.platforms.netease.crawler:search_and_get_comments:262 | Completed. Processed 1 songs
+2026-03-22 22:55:30 | INFO     | src.platforms.netease.crawler:search_and_get_comments:262 | Completed. Processed 1 songs
+2026-03-22 22:55:30 | INFO     | __main__:main:71 | ==================================================
+2026-03-22 22:55:30 | INFO     | __main__:main:71 | ==================================================
+2026-03-22 22:55:30 | INFO     | __main__:main:71 | ==================================================
+2026-03-22 22:55:30 | INFO     | __main__:main:72 | SUCCESS! Processed 1 songs
+2026-03-22 22:55:30 | INFO     | __main__:main:72 | SUCCESS! Processed 1 songs
+2026-03-22 22:55:30 | INFO     | __main__:main:72 | SUCCESS! Processed 1 songs
+2026-03-22 22:55:30 | INFO     | __main__:main:73 | Output saved to: data\processed\netease_honkai_20260322_225530.json
+2026-03-22 22:55:30 | INFO     | __main__:main:73 | Output saved to: data\processed\netease_honkai_20260322_225530.json
+2026-03-22 22:55:30 | INFO     | __main__:main:73 | Output saved to: data\processed\netease_honkai_20260322_225530.json
+2026-03-22 22:55:30 | INFO     | __main__:main:74 | ==================================================
+2026-03-22 22:55:30 | INFO     | __main__:main:74 | ==================================================
+2026-03-22 22:55:30 | INFO     | __main__:main:74 | ==================================================
+2026-03-22 22:55:30 | DEBUG    | src.core.base_crawler:close:84 | Session closed
+2026-03-22 22:55:30 | DEBUG    | src.core.base_crawler:close:84 | Session closed
+2026-03-22 22:58:51 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 22:58:51 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 22:58:51 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 22:58:51 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 22:58:52 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 22:58:52 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 22:58:52 | INFO     | src.core.logger:setup_logger:127 | Log level: DEBUG
+2026-03-22 22:58:52 | INFO     | src.core.logger:setup_logger:127 | Log level: DEBUG
+2026-03-22 22:58:52 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 22:58:52 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 22:58:52 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 22:58:52 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 22:58:52 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 22:58:52 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 22:58:52 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 22:58:52 | INFO     | src.core.logger:setup_logger:127 | Log level: DEBUG
+2026-03-22 22:58:52 | INFO     | src.core.logger:setup_logger:127 | Log level: DEBUG
+2026-03-22 22:58:52 | INFO     | src.core.logger:setup_logger:127 | Log level: DEBUG
+2026-03-22 22:58:52 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 22:58:52 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 22:58:52 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 22:58:52 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 22:58:52 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 22:58:52 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 22:58:52 | INFO     | __main__:main:37 | ==================================================
+2026-03-22 22:58:52 | INFO     | __main__:main:37 | ==================================================
+2026-03-22 22:58:52 | INFO     | __main__:main:37 | ==================================================
+2026-03-22 22:58:52 | INFO     | __main__:main:38 | Netease Music Crawler Started
+2026-03-22 22:58:52 | INFO     | __main__:main:38 | Netease Music Crawler Started
+2026-03-22 22:58:52 | INFO     | __main__:main:38 | Netease Music Crawler Started
+2026-03-22 22:58:52 | INFO     | __main__:main:39 | Keyword: honkai
+2026-03-22 22:58:52 | INFO     | __main__:main:39 | Keyword: honkai
+2026-03-22 22:58:52 | INFO     | __main__:main:39 | Keyword: honkai
+2026-03-22 22:58:52 | INFO     | __main__:main:40 | Max songs: 2
+2026-03-22 22:58:52 | INFO     | __main__:main:40 | Max songs: 2
+2026-03-22 22:58:52 | INFO     | __main__:main:40 | Max songs: 2
+2026-03-22 22:58:52 | INFO     | __main__:main:41 | Comments per song: 10
+2026-03-22 22:58:52 | INFO     | __main__:main:41 | Comments per song: 10
+2026-03-22 22:58:52 | INFO     | __main__:main:41 | Comments per song: 10
+2026-03-22 22:58:52 | INFO     | __main__:main:42 | Mock only: False
+2026-03-22 22:58:52 | INFO     | __main__:main:42 | Mock only: False
+2026-03-22 22:58:52 | INFO     | __main__:main:42 | Mock only: False
+2026-03-22 22:58:52 | INFO     | __main__:main:43 | ==================================================
+2026-03-22 22:58:52 | INFO     | __main__:main:43 | ==================================================
+2026-03-22 22:58:52 | INFO     | __main__:main:43 | ==================================================
+2026-03-22 22:58:52 | ERROR    | __main__:main:96 | Crawler failed: Can't instantiate abstract class NeteaseCrawler with abstract methods get_comments, get_song, get_user
+2026-03-22 22:58:52 | ERROR    | __main__:main:96 | Crawler failed: Can't instantiate abstract class NeteaseCrawler with abstract methods get_comments, get_song, get_user
+2026-03-22 22:58:52 | ERROR    | __main__:main:96 | Crawler failed: Can't instantiate abstract class NeteaseCrawler with abstract methods get_comments, get_song, get_user
+2026-03-22 22:59:34 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 22:59:34 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 22:59:34 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 22:59:34 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 22:59:34 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 22:59:34 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 22:59:34 | INFO     | src.core.logger:setup_logger:127 | Log level: DEBUG
+2026-03-22 22:59:34 | INFO     | src.core.logger:setup_logger:127 | Log level: DEBUG
+2026-03-22 22:59:34 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 22:59:34 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 22:59:34 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 22:59:34 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 22:59:34 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 22:59:34 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 22:59:34 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 22:59:34 | INFO     | src.core.logger:setup_logger:127 | Log level: DEBUG
+2026-03-22 22:59:34 | INFO     | src.core.logger:setup_logger:127 | Log level: DEBUG
+2026-03-22 22:59:34 | INFO     | src.core.logger:setup_logger:127 | Log level: DEBUG
+2026-03-22 22:59:34 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 22:59:34 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 22:59:34 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 22:59:34 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 22:59:34 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 22:59:34 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 22:59:34 | INFO     | __main__:main:37 | ==================================================
+2026-03-22 22:59:34 | INFO     | __main__:main:37 | ==================================================
+2026-03-22 22:59:34 | INFO     | __main__:main:37 | ==================================================
+2026-03-22 22:59:34 | INFO     | __main__:main:38 | Netease Music Crawler Started
+2026-03-22 22:59:34 | INFO     | __main__:main:38 | Netease Music Crawler Started
+2026-03-22 22:59:34 | INFO     | __main__:main:38 | Netease Music Crawler Started
+2026-03-22 22:59:34 | INFO     | __main__:main:39 | Keyword: honkai
+2026-03-22 22:59:34 | INFO     | __main__:main:39 | Keyword: honkai
+2026-03-22 22:59:34 | INFO     | __main__:main:39 | Keyword: honkai
+2026-03-22 22:59:34 | INFO     | __main__:main:40 | Max songs: 2
+2026-03-22 22:59:34 | INFO     | __main__:main:40 | Max songs: 2
+2026-03-22 22:59:34 | INFO     | __main__:main:40 | Max songs: 2
+2026-03-22 22:59:34 | INFO     | __main__:main:41 | Comments per song: 10
+2026-03-22 22:59:34 | INFO     | __main__:main:41 | Comments per song: 10
+2026-03-22 22:59:34 | INFO     | __main__:main:41 | Comments per song: 10
+2026-03-22 22:59:34 | INFO     | __main__:main:42 | Mock only: False
+2026-03-22 22:59:34 | INFO     | __main__:main:42 | Mock only: False
+2026-03-22 22:59:34 | INFO     | __main__:main:42 | Mock only: False
+2026-03-22 22:59:34 | INFO     | __main__:main:43 | ==================================================
+2026-03-22 22:59:34 | INFO     | __main__:main:43 | ==================================================
+2026-03-22 22:59:34 | INFO     | __main__:main:43 | ==================================================
+2026-03-22 22:59:34 | INFO     | src.core.base_crawler:__init__:31 | Crawler initialized: NeteaseCrawler
+2026-03-22 22:59:34 | INFO     | src.core.base_crawler:__init__:31 | Crawler initialized: NeteaseCrawler
+2026-03-22 22:59:34 | INFO     | src.core.base_crawler:__init__:31 | Crawler initialized: NeteaseCrawler
+2026-03-22 22:59:34 | INFO     | src.platforms.netease.crawler:__init__:29 | NeteaseCrawler initialized (mock mode: False, api: http://localhost:3000)
+2026-03-22 22:59:34 | INFO     | src.platforms.netease.crawler:__init__:29 | NeteaseCrawler initialized (mock mode: False, api: http://localhost:3000)
+2026-03-22 22:59:34 | INFO     | src.platforms.netease.crawler:__init__:29 | NeteaseCrawler initialized (mock mode: False, api: http://localhost:3000)
+2026-03-22 22:59:34 | INFO     | __main__:main:50 | Starting search and comment extraction...
+2026-03-22 22:59:34 | INFO     | __main__:main:50 | Starting search and comment extraction...
+2026-03-22 22:59:34 | INFO     | __main__:main:50 | Starting search and comment extraction...
+2026-03-22 22:59:34 | INFO     | src.platforms.netease.crawler:search:33 | Searching: honkai
+2026-03-22 22:59:34 | INFO     | src.platforms.netease.crawler:search:33 | Searching: honkai
+2026-03-22 22:59:34 | INFO     | src.platforms.netease.crawler:search:33 | Searching: honkai
+2026-03-22 22:59:34 | INFO     | src.platforms.netease.crawler:search:60 | Found 2 songs from local API
+2026-03-22 22:59:34 | INFO     | src.platforms.netease.crawler:search:60 | Found 2 songs from local API
+2026-03-22 22:59:34 | INFO     | src.platforms.netease.crawler:search:60 | Found 2 songs from local API
+2026-03-22 22:59:34 | INFO     | src.platforms.netease.crawler:search_and_get_comments:241 | Processing 1/2: Honkai
+2026-03-22 22:59:34 | INFO     | src.platforms.netease.crawler:search_and_get_comments:241 | Processing 1/2: Honkai
+2026-03-22 22:59:34 | INFO     | src.platforms.netease.crawler:search_and_get_comments:241 | Processing 1/2: Honkai
+2026-03-22 22:59:34 | INFO     | src.platforms.netease.crawler:get_comments:164 | Getting comments for song: 1303229593
+2026-03-22 22:59:34 | INFO     | src.platforms.netease.crawler:get_comments:164 | Getting comments for song: 1303229593
+2026-03-22 22:59:34 | INFO     | src.platforms.netease.crawler:get_comments:164 | Getting comments for song: 1303229593
+2026-03-22 22:59:34 | WARNING  | src.platforms.netease.crawler:get_comments:218 | API returned code 400 for song 1303229593
+2026-03-22 22:59:34 | WARNING  | src.platforms.netease.crawler:get_comments:218 | API returned code 400 for song 1303229593
+2026-03-22 22:59:34 | WARNING  | src.platforms.netease.crawler:get_comments:218 | API returned code 400 for song 1303229593
+2026-03-22 22:59:34 | INFO     | src.platforms.netease.crawler:get_comments:228 | Using mock comments for song 1303229593
+2026-03-22 22:59:34 | INFO     | src.platforms.netease.crawler:get_comments:228 | Using mock comments for song 1303229593
+2026-03-22 22:59:34 | INFO     | src.platforms.netease.crawler:get_comments:228 | Using mock comments for song 1303229593
+2026-03-22 22:59:34 | INFO     | src.platforms.netease.crawler:_generate_mock_comments:159 | Generated 5 mock comments
+2026-03-22 22:59:34 | INFO     | src.platforms.netease.crawler:_generate_mock_comments:159 | Generated 5 mock comments
+2026-03-22 22:59:34 | INFO     | src.platforms.netease.crawler:_generate_mock_comments:159 | Generated 5 mock comments
+2026-03-22 22:59:35 | INFO     | src.platforms.netease.crawler:search_and_get_comments:241 | Processing 2/2: Honkai
+2026-03-22 22:59:35 | INFO     | src.platforms.netease.crawler:search_and_get_comments:241 | Processing 2/2: Honkai
+2026-03-22 22:59:35 | INFO     | src.platforms.netease.crawler:search_and_get_comments:241 | Processing 2/2: Honkai
+2026-03-22 22:59:35 | INFO     | src.platforms.netease.crawler:get_comments:164 | Getting comments for song: 2080624983
+2026-03-22 22:59:35 | INFO     | src.platforms.netease.crawler:get_comments:164 | Getting comments for song: 2080624983
+2026-03-22 22:59:35 | INFO     | src.platforms.netease.crawler:get_comments:164 | Getting comments for song: 2080624983
+2026-03-22 22:59:35 | WARNING  | src.platforms.netease.crawler:get_comments:218 | API returned code 400 for song 2080624983
+2026-03-22 22:59:35 | WARNING  | src.platforms.netease.crawler:get_comments:218 | API returned code 400 for song 2080624983
+2026-03-22 22:59:35 | WARNING  | src.platforms.netease.crawler:get_comments:218 | API returned code 400 for song 2080624983
+2026-03-22 22:59:35 | INFO     | src.platforms.netease.crawler:get_comments:228 | Using mock comments for song 2080624983
+2026-03-22 22:59:35 | INFO     | src.platforms.netease.crawler:get_comments:228 | Using mock comments for song 2080624983
+2026-03-22 22:59:35 | INFO     | src.platforms.netease.crawler:get_comments:228 | Using mock comments for song 2080624983
+2026-03-22 22:59:35 | INFO     | src.platforms.netease.crawler:_generate_mock_comments:159 | Generated 5 mock comments
+2026-03-22 22:59:35 | INFO     | src.platforms.netease.crawler:_generate_mock_comments:159 | Generated 5 mock comments
+2026-03-22 22:59:35 | INFO     | src.platforms.netease.crawler:_generate_mock_comments:159 | Generated 5 mock comments
+2026-03-22 22:59:36 | INFO     | src.platforms.netease.crawler:search_and_get_comments:262 | Completed. Processed 1 songs
+2026-03-22 22:59:36 | INFO     | src.platforms.netease.crawler:search_and_get_comments:262 | Completed. Processed 1 songs
+2026-03-22 22:59:36 | INFO     | src.platforms.netease.crawler:search_and_get_comments:262 | Completed. Processed 1 songs
+2026-03-22 22:59:36 | INFO     | __main__:main:71 | ==================================================
+2026-03-22 22:59:36 | INFO     | __main__:main:71 | ==================================================
+2026-03-22 22:59:36 | INFO     | __main__:main:71 | ==================================================
+2026-03-22 22:59:36 | INFO     | __main__:main:72 | SUCCESS! Processed 1 songs
+2026-03-22 22:59:36 | INFO     | __main__:main:72 | SUCCESS! Processed 1 songs
+2026-03-22 22:59:36 | INFO     | __main__:main:72 | SUCCESS! Processed 1 songs
+2026-03-22 22:59:36 | INFO     | __main__:main:73 | Output saved to: data\processed\netease_honkai_20260322_225936.json
+2026-03-22 22:59:36 | INFO     | __main__:main:73 | Output saved to: data\processed\netease_honkai_20260322_225936.json
+2026-03-22 22:59:36 | INFO     | __main__:main:73 | Output saved to: data\processed\netease_honkai_20260322_225936.json
+2026-03-22 22:59:36 | INFO     | __main__:main:74 | ==================================================
+2026-03-22 22:59:36 | INFO     | __main__:main:74 | ==================================================
+2026-03-22 22:59:36 | INFO     | __main__:main:74 | ==================================================
+2026-03-22 22:59:36 | DEBUG    | src.core.base_crawler:close:84 | Session closed
+2026-03-22 22:59:36 | DEBUG    | src.core.base_crawler:close:84 | Session closed
+2026-03-22 23:02:04 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 23:02:04 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 23:02:04 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 23:02:04 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 23:02:04 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 23:02:04 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 23:02:04 | INFO     | src.core.logger:setup_logger:127 | Log level: DEBUG
+2026-03-22 23:02:04 | INFO     | src.core.logger:setup_logger:127 | Log level: DEBUG
+2026-03-22 23:02:04 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 23:02:04 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 23:02:04 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 23:02:04 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 23:02:04 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 23:02:04 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 23:02:04 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 23:02:04 | INFO     | src.core.logger:setup_logger:127 | Log level: DEBUG
+2026-03-22 23:02:04 | INFO     | src.core.logger:setup_logger:127 | Log level: DEBUG
+2026-03-22 23:02:04 | INFO     | src.core.logger:setup_logger:127 | Log level: DEBUG
+2026-03-22 23:02:04 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 23:02:04 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 23:02:04 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 23:02:04 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 23:02:04 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 23:02:04 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 23:02:04 | INFO     | __main__:main:37 | ==================================================
+2026-03-22 23:02:04 | INFO     | __main__:main:37 | ==================================================
+2026-03-22 23:02:04 | INFO     | __main__:main:37 | ==================================================
+2026-03-22 23:02:04 | INFO     | __main__:main:38 | Netease Music Crawler Started
+2026-03-22 23:02:04 | INFO     | __main__:main:38 | Netease Music Crawler Started
+2026-03-22 23:02:04 | INFO     | __main__:main:38 | Netease Music Crawler Started
+2026-03-22 23:02:04 | INFO     | __main__:main:39 | Keyword: honkai
+2026-03-22 23:02:04 | INFO     | __main__:main:39 | Keyword: honkai
+2026-03-22 23:02:04 | INFO     | __main__:main:39 | Keyword: honkai
+2026-03-22 23:02:04 | INFO     | __main__:main:40 | Max songs: 2
+2026-03-22 23:02:04 | INFO     | __main__:main:40 | Max songs: 2
+2026-03-22 23:02:04 | INFO     | __main__:main:40 | Max songs: 2
+2026-03-22 23:02:04 | INFO     | __main__:main:41 | Comments per song: 10
+2026-03-22 23:02:04 | INFO     | __main__:main:41 | Comments per song: 10
+2026-03-22 23:02:04 | INFO     | __main__:main:41 | Comments per song: 10
+2026-03-22 23:02:04 | INFO     | __main__:main:42 | Mock only: False
+2026-03-22 23:02:04 | INFO     | __main__:main:42 | Mock only: False
+2026-03-22 23:02:04 | INFO     | __main__:main:42 | Mock only: False
+2026-03-22 23:02:04 | INFO     | __main__:main:43 | ==================================================
+2026-03-22 23:02:04 | INFO     | __main__:main:43 | ==================================================
+2026-03-22 23:02:04 | INFO     | __main__:main:43 | ==================================================
+2026-03-22 23:02:04 | ERROR    | __main__:main:96 | Crawler failed: Can't instantiate abstract class NeteaseCrawler with abstract methods get_comments, get_song, get_user
+2026-03-22 23:02:04 | ERROR    | __main__:main:96 | Crawler failed: Can't instantiate abstract class NeteaseCrawler with abstract methods get_comments, get_song, get_user
+2026-03-22 23:02:04 | ERROR    | __main__:main:96 | Crawler failed: Can't instantiate abstract class NeteaseCrawler with abstract methods get_comments, get_song, get_user
+2026-03-22 23:02:26 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 23:02:26 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 23:02:26 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 23:02:26 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 23:02:26 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 23:02:26 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 23:02:26 | INFO     | src.core.logger:setup_logger:127 | Log level: DEBUG
+2026-03-22 23:02:26 | INFO     | src.core.logger:setup_logger:127 | Log level: DEBUG
+2026-03-22 23:02:26 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 23:02:26 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 23:02:26 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 23:02:26 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 23:02:26 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 23:02:26 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 23:02:26 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 23:02:26 | INFO     | src.core.logger:setup_logger:127 | Log level: DEBUG
+2026-03-22 23:02:26 | INFO     | src.core.logger:setup_logger:127 | Log level: DEBUG
+2026-03-22 23:02:26 | INFO     | src.core.logger:setup_logger:127 | Log level: DEBUG
+2026-03-22 23:02:26 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 23:02:26 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 23:02:26 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 23:02:26 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 23:02:26 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 23:02:26 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 23:02:26 | INFO     | __main__:main:37 | ==================================================
+2026-03-22 23:02:26 | INFO     | __main__:main:37 | ==================================================
+2026-03-22 23:02:26 | INFO     | __main__:main:37 | ==================================================
+2026-03-22 23:02:26 | INFO     | __main__:main:38 | Netease Music Crawler Started
+2026-03-22 23:02:26 | INFO     | __main__:main:38 | Netease Music Crawler Started
+2026-03-22 23:02:26 | INFO     | __main__:main:38 | Netease Music Crawler Started
+2026-03-22 23:02:26 | INFO     | __main__:main:39 | Keyword: honkai
+2026-03-22 23:02:26 | INFO     | __main__:main:39 | Keyword: honkai
+2026-03-22 23:02:26 | INFO     | __main__:main:39 | Keyword: honkai
+2026-03-22 23:02:26 | INFO     | __main__:main:40 | Max songs: 2
+2026-03-22 23:02:26 | INFO     | __main__:main:40 | Max songs: 2
+2026-03-22 23:02:26 | INFO     | __main__:main:40 | Max songs: 2
+2026-03-22 23:02:26 | INFO     | __main__:main:41 | Comments per song: 10
+2026-03-22 23:02:26 | INFO     | __main__:main:41 | Comments per song: 10
+2026-03-22 23:02:26 | INFO     | __main__:main:41 | Comments per song: 10
+2026-03-22 23:02:26 | INFO     | __main__:main:42 | Mock only: False
+2026-03-22 23:02:26 | INFO     | __main__:main:42 | Mock only: False
+2026-03-22 23:02:26 | INFO     | __main__:main:42 | Mock only: False
+2026-03-22 23:02:26 | INFO     | __main__:main:43 | ==================================================
+2026-03-22 23:02:26 | INFO     | __main__:main:43 | ==================================================
+2026-03-22 23:02:26 | INFO     | __main__:main:43 | ==================================================
+2026-03-22 23:02:26 | INFO     | src.core.base_crawler:__init__:31 | Crawler initialized: NeteaseCrawler
+2026-03-22 23:02:26 | INFO     | src.core.base_crawler:__init__:31 | Crawler initialized: NeteaseCrawler
+2026-03-22 23:02:26 | INFO     | src.core.base_crawler:__init__:31 | Crawler initialized: NeteaseCrawler
+2026-03-22 23:02:26 | INFO     | src.platforms.netease.crawler:__init__:29 | NeteaseCrawler initialized (mock mode: False, api: http://localhost:3000)
+2026-03-22 23:02:26 | INFO     | src.platforms.netease.crawler:__init__:29 | NeteaseCrawler initialized (mock mode: False, api: http://localhost:3000)
+2026-03-22 23:02:26 | INFO     | src.platforms.netease.crawler:__init__:29 | NeteaseCrawler initialized (mock mode: False, api: http://localhost:3000)
+2026-03-22 23:02:26 | INFO     | __main__:main:50 | Starting search and comment extraction...
+2026-03-22 23:02:26 | INFO     | __main__:main:50 | Starting search and comment extraction...
+2026-03-22 23:02:26 | INFO     | __main__:main:50 | Starting search and comment extraction...
+2026-03-22 23:02:26 | INFO     | src.platforms.netease.crawler:search:33 | Searching: honkai
+2026-03-22 23:02:26 | INFO     | src.platforms.netease.crawler:search:33 | Searching: honkai
+2026-03-22 23:02:26 | INFO     | src.platforms.netease.crawler:search:33 | Searching: honkai
+2026-03-22 23:02:27 | INFO     | src.platforms.netease.crawler:search:60 | Found 2 songs from local API
+2026-03-22 23:02:27 | INFO     | src.platforms.netease.crawler:search:60 | Found 2 songs from local API
+2026-03-22 23:02:27 | INFO     | src.platforms.netease.crawler:search:60 | Found 2 songs from local API
+2026-03-22 23:02:27 | INFO     | src.platforms.netease.crawler:search_and_get_comments:241 | Processing 1/2: Honkai
+2026-03-22 23:02:27 | INFO     | src.platforms.netease.crawler:search_and_get_comments:241 | Processing 1/2: Honkai
+2026-03-22 23:02:27 | INFO     | src.platforms.netease.crawler:search_and_get_comments:241 | Processing 1/2: Honkai
+2026-03-22 23:02:27 | INFO     | src.platforms.netease.crawler:get_comments:164 | Getting comments for song: 1303229593
+2026-03-22 23:02:27 | INFO     | src.platforms.netease.crawler:get_comments:164 | Getting comments for song: 1303229593
+2026-03-22 23:02:27 | INFO     | src.platforms.netease.crawler:get_comments:164 | Getting comments for song: 1303229593
+2026-03-22 23:02:27 | WARNING  | src.platforms.netease.crawler:get_comments:218 | API returned code 400 for song 1303229593
+2026-03-22 23:02:27 | WARNING  | src.platforms.netease.crawler:get_comments:218 | API returned code 400 for song 1303229593
+2026-03-22 23:02:27 | WARNING  | src.platforms.netease.crawler:get_comments:218 | API returned code 400 for song 1303229593
+2026-03-22 23:02:27 | INFO     | src.platforms.netease.crawler:get_comments:228 | Using mock comments for song 1303229593
+2026-03-22 23:02:27 | INFO     | src.platforms.netease.crawler:get_comments:228 | Using mock comments for song 1303229593
+2026-03-22 23:02:27 | INFO     | src.platforms.netease.crawler:get_comments:228 | Using mock comments for song 1303229593
+2026-03-22 23:02:27 | INFO     | src.platforms.netease.crawler:_generate_mock_comments:159 | Generated 5 mock comments
+2026-03-22 23:02:27 | INFO     | src.platforms.netease.crawler:_generate_mock_comments:159 | Generated 5 mock comments
+2026-03-22 23:02:27 | INFO     | src.platforms.netease.crawler:_generate_mock_comments:159 | Generated 5 mock comments
+2026-03-22 23:02:28 | INFO     | src.platforms.netease.crawler:search_and_get_comments:241 | Processing 2/2: Honkai
+2026-03-22 23:02:28 | INFO     | src.platforms.netease.crawler:search_and_get_comments:241 | Processing 2/2: Honkai
+2026-03-22 23:02:28 | INFO     | src.platforms.netease.crawler:search_and_get_comments:241 | Processing 2/2: Honkai
+2026-03-22 23:02:28 | INFO     | src.platforms.netease.crawler:get_comments:164 | Getting comments for song: 2080624983
+2026-03-22 23:02:28 | INFO     | src.platforms.netease.crawler:get_comments:164 | Getting comments for song: 2080624983
+2026-03-22 23:02:28 | INFO     | src.platforms.netease.crawler:get_comments:164 | Getting comments for song: 2080624983
+2026-03-22 23:02:28 | WARNING  | src.platforms.netease.crawler:get_comments:218 | API returned code 400 for song 2080624983
+2026-03-22 23:02:28 | WARNING  | src.platforms.netease.crawler:get_comments:218 | API returned code 400 for song 2080624983
+2026-03-22 23:02:28 | WARNING  | src.platforms.netease.crawler:get_comments:218 | API returned code 400 for song 2080624983
+2026-03-22 23:02:28 | INFO     | src.platforms.netease.crawler:get_comments:228 | Using mock comments for song 2080624983
+2026-03-22 23:02:28 | INFO     | src.platforms.netease.crawler:get_comments:228 | Using mock comments for song 2080624983
+2026-03-22 23:02:28 | INFO     | src.platforms.netease.crawler:get_comments:228 | Using mock comments for song 2080624983
+2026-03-22 23:02:28 | INFO     | src.platforms.netease.crawler:_generate_mock_comments:159 | Generated 5 mock comments
+2026-03-22 23:02:28 | INFO     | src.platforms.netease.crawler:_generate_mock_comments:159 | Generated 5 mock comments
+2026-03-22 23:02:28 | INFO     | src.platforms.netease.crawler:_generate_mock_comments:159 | Generated 5 mock comments
+2026-03-22 23:02:29 | INFO     | src.platforms.netease.crawler:search_and_get_comments:262 | Completed. Processed 1 songs
+2026-03-22 23:02:29 | INFO     | src.platforms.netease.crawler:search_and_get_comments:262 | Completed. Processed 1 songs
+2026-03-22 23:02:29 | INFO     | src.platforms.netease.crawler:search_and_get_comments:262 | Completed. Processed 1 songs
+2026-03-22 23:02:29 | INFO     | __main__:main:71 | ==================================================
+2026-03-22 23:02:29 | INFO     | __main__:main:71 | ==================================================
+2026-03-22 23:02:29 | INFO     | __main__:main:71 | ==================================================
+2026-03-22 23:02:29 | INFO     | __main__:main:72 | SUCCESS! Processed 1 songs
+2026-03-22 23:02:29 | INFO     | __main__:main:72 | SUCCESS! Processed 1 songs
+2026-03-22 23:02:29 | INFO     | __main__:main:72 | SUCCESS! Processed 1 songs
+2026-03-22 23:02:29 | INFO     | __main__:main:73 | Output saved to: data\processed\netease_honkai_20260322_230229.json
+2026-03-22 23:02:29 | INFO     | __main__:main:73 | Output saved to: data\processed\netease_honkai_20260322_230229.json
+2026-03-22 23:02:29 | INFO     | __main__:main:73 | Output saved to: data\processed\netease_honkai_20260322_230229.json
+2026-03-22 23:02:29 | INFO     | __main__:main:74 | ==================================================
+2026-03-22 23:02:29 | INFO     | __main__:main:74 | ==================================================
+2026-03-22 23:02:29 | INFO     | __main__:main:74 | ==================================================
+2026-03-22 23:02:29 | DEBUG    | src.core.base_crawler:close:84 | Session closed
+2026-03-22 23:02:29 | DEBUG    | src.core.base_crawler:close:84 | Session closed
+2026-03-22 23:04:14 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 23:04:14 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 23:04:14 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 23:04:14 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 23:04:15 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 23:04:15 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 23:04:15 | INFO     | src.core.logger:setup_logger:127 | Log level: DEBUG
+2026-03-22 23:04:15 | INFO     | src.core.logger:setup_logger:127 | Log level: DEBUG
+2026-03-22 23:04:15 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 23:04:15 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 23:04:15 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 23:04:15 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 23:04:15 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 23:04:15 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 23:04:15 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 23:04:15 | INFO     | src.core.logger:setup_logger:127 | Log level: DEBUG
+2026-03-22 23:04:15 | INFO     | src.core.logger:setup_logger:127 | Log level: DEBUG
+2026-03-22 23:04:15 | INFO     | src.core.logger:setup_logger:127 | Log level: DEBUG
+2026-03-22 23:04:15 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 23:04:15 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 23:04:15 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 23:04:15 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 23:04:15 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 23:04:15 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 23:04:15 | INFO     | __main__:main:37 | ==================================================
+2026-03-22 23:04:15 | INFO     | __main__:main:37 | ==================================================
+2026-03-22 23:04:15 | INFO     | __main__:main:37 | ==================================================
+2026-03-22 23:04:15 | INFO     | __main__:main:38 | Netease Music Crawler Started
+2026-03-22 23:04:15 | INFO     | __main__:main:38 | Netease Music Crawler Started
+2026-03-22 23:04:15 | INFO     | __main__:main:38 | Netease Music Crawler Started
+2026-03-22 23:04:15 | INFO     | __main__:main:39 | Keyword: honkai
+2026-03-22 23:04:15 | INFO     | __main__:main:39 | Keyword: honkai
+2026-03-22 23:04:15 | INFO     | __main__:main:39 | Keyword: honkai
+2026-03-22 23:04:15 | INFO     | __main__:main:40 | Max songs: 2
+2026-03-22 23:04:15 | INFO     | __main__:main:40 | Max songs: 2
+2026-03-22 23:04:15 | INFO     | __main__:main:40 | Max songs: 2
+2026-03-22 23:04:15 | INFO     | __main__:main:41 | Comments per song: 10
+2026-03-22 23:04:15 | INFO     | __main__:main:41 | Comments per song: 10
+2026-03-22 23:04:15 | INFO     | __main__:main:41 | Comments per song: 10
+2026-03-22 23:04:15 | INFO     | __main__:main:42 | Mock only: False
+2026-03-22 23:04:15 | INFO     | __main__:main:42 | Mock only: False
+2026-03-22 23:04:15 | INFO     | __main__:main:42 | Mock only: False
+2026-03-22 23:04:15 | INFO     | __main__:main:43 | ==================================================
+2026-03-22 23:04:15 | INFO     | __main__:main:43 | ==================================================
+2026-03-22 23:04:15 | INFO     | __main__:main:43 | ==================================================
+2026-03-22 23:04:15 | INFO     | src.core.base_crawler:__init__:31 | Crawler initialized: NeteaseCrawler
+2026-03-22 23:04:15 | INFO     | src.core.base_crawler:__init__:31 | Crawler initialized: NeteaseCrawler
+2026-03-22 23:04:15 | INFO     | src.core.base_crawler:__init__:31 | Crawler initialized: NeteaseCrawler
+2026-03-22 23:04:15 | INFO     | src.platforms.netease.crawler:__init__:29 | NeteaseCrawler initialized (mock mode: False, api: http://localhost:3000)
+2026-03-22 23:04:15 | INFO     | src.platforms.netease.crawler:__init__:29 | NeteaseCrawler initialized (mock mode: False, api: http://localhost:3000)
+2026-03-22 23:04:15 | INFO     | src.platforms.netease.crawler:__init__:29 | NeteaseCrawler initialized (mock mode: False, api: http://localhost:3000)
+2026-03-22 23:04:15 | INFO     | __main__:main:50 | Starting search and comment extraction...
+2026-03-22 23:04:15 | INFO     | __main__:main:50 | Starting search and comment extraction...
+2026-03-22 23:04:15 | INFO     | __main__:main:50 | Starting search and comment extraction...
+2026-03-22 23:04:15 | INFO     | src.platforms.netease.crawler:search:33 | Searching: honkai
+2026-03-22 23:04:15 | INFO     | src.platforms.netease.crawler:search:33 | Searching: honkai
+2026-03-22 23:04:15 | INFO     | src.platforms.netease.crawler:search:33 | Searching: honkai
+2026-03-22 23:04:15 | INFO     | src.platforms.netease.crawler:search:60 | Found 2 songs from local API
+2026-03-22 23:04:15 | INFO     | src.platforms.netease.crawler:search:60 | Found 2 songs from local API
+2026-03-22 23:04:15 | INFO     | src.platforms.netease.crawler:search:60 | Found 2 songs from local API
+2026-03-22 23:04:15 | INFO     | src.platforms.netease.crawler:search_and_get_comments:257 | Processing 1/2: Honkai
+2026-03-22 23:04:15 | INFO     | src.platforms.netease.crawler:search_and_get_comments:257 | Processing 1/2: Honkai
+2026-03-22 23:04:15 | INFO     | src.platforms.netease.crawler:search_and_get_comments:257 | Processing 1/2: Honkai
+2026-03-22 23:04:15 | INFO     | src.platforms.netease.crawler:get_comments:164 | Getting comments for song: 1303229593
+2026-03-22 23:04:15 | INFO     | src.platforms.netease.crawler:get_comments:164 | Getting comments for song: 1303229593
+2026-03-22 23:04:15 | INFO     | src.platforms.netease.crawler:get_comments:164 | Getting comments for song: 1303229593
+2026-03-22 23:04:15 | INFO     | src.platforms.netease.crawler:get_comments:234 | No comments found for song 1303229593
+2026-03-22 23:04:15 | INFO     | src.platforms.netease.crawler:get_comments:234 | No comments found for song 1303229593
+2026-03-22 23:04:15 | INFO     | src.platforms.netease.crawler:get_comments:234 | No comments found for song 1303229593
+2026-03-22 23:04:15 | INFO     | src.platforms.netease.crawler:get_comments:244 | Using mock comments for song 1303229593
+2026-03-22 23:04:15 | INFO     | src.platforms.netease.crawler:get_comments:244 | Using mock comments for song 1303229593
+2026-03-22 23:04:15 | INFO     | src.platforms.netease.crawler:get_comments:244 | Using mock comments for song 1303229593
+2026-03-22 23:04:15 | INFO     | src.platforms.netease.crawler:_generate_mock_comments:159 | Generated 5 mock comments
+2026-03-22 23:04:15 | INFO     | src.platforms.netease.crawler:_generate_mock_comments:159 | Generated 5 mock comments
+2026-03-22 23:04:15 | INFO     | src.platforms.netease.crawler:_generate_mock_comments:159 | Generated 5 mock comments
+2026-03-22 23:04:16 | INFO     | src.platforms.netease.crawler:search_and_get_comments:257 | Processing 2/2: Honkai
+2026-03-22 23:04:16 | INFO     | src.platforms.netease.crawler:search_and_get_comments:257 | Processing 2/2: Honkai
+2026-03-22 23:04:16 | INFO     | src.platforms.netease.crawler:search_and_get_comments:257 | Processing 2/2: Honkai
+2026-03-22 23:04:16 | INFO     | src.platforms.netease.crawler:get_comments:164 | Getting comments for song: 2080624983
+2026-03-22 23:04:16 | INFO     | src.platforms.netease.crawler:get_comments:164 | Getting comments for song: 2080624983
+2026-03-22 23:04:16 | INFO     | src.platforms.netease.crawler:get_comments:164 | Getting comments for song: 2080624983
+2026-03-22 23:04:16 | INFO     | src.platforms.netease.crawler:get_comments:234 | No comments found for song 2080624983
+2026-03-22 23:04:16 | INFO     | src.platforms.netease.crawler:get_comments:234 | No comments found for song 2080624983
+2026-03-22 23:04:16 | INFO     | src.platforms.netease.crawler:get_comments:234 | No comments found for song 2080624983
+2026-03-22 23:04:16 | INFO     | src.platforms.netease.crawler:get_comments:244 | Using mock comments for song 2080624983
+2026-03-22 23:04:16 | INFO     | src.platforms.netease.crawler:get_comments:244 | Using mock comments for song 2080624983
+2026-03-22 23:04:16 | INFO     | src.platforms.netease.crawler:get_comments:244 | Using mock comments for song 2080624983
+2026-03-22 23:04:16 | INFO     | src.platforms.netease.crawler:_generate_mock_comments:159 | Generated 5 mock comments
+2026-03-22 23:04:16 | INFO     | src.platforms.netease.crawler:_generate_mock_comments:159 | Generated 5 mock comments
+2026-03-22 23:04:16 | INFO     | src.platforms.netease.crawler:_generate_mock_comments:159 | Generated 5 mock comments
+2026-03-22 23:04:17 | INFO     | src.platforms.netease.crawler:search_and_get_comments:278 | Completed. Processed 1 songs
+2026-03-22 23:04:17 | INFO     | src.platforms.netease.crawler:search_and_get_comments:278 | Completed. Processed 1 songs
+2026-03-22 23:04:17 | INFO     | src.platforms.netease.crawler:search_and_get_comments:278 | Completed. Processed 1 songs
+2026-03-22 23:04:17 | INFO     | __main__:main:71 | ==================================================
+2026-03-22 23:04:17 | INFO     | __main__:main:71 | ==================================================
+2026-03-22 23:04:17 | INFO     | __main__:main:71 | ==================================================
+2026-03-22 23:04:17 | INFO     | __main__:main:72 | SUCCESS! Processed 1 songs
+2026-03-22 23:04:17 | INFO     | __main__:main:72 | SUCCESS! Processed 1 songs
+2026-03-22 23:04:17 | INFO     | __main__:main:72 | SUCCESS! Processed 1 songs
+2026-03-22 23:04:17 | INFO     | __main__:main:73 | Output saved to: data\processed\netease_honkai_20260322_230417.json
+2026-03-22 23:04:17 | INFO     | __main__:main:73 | Output saved to: data\processed\netease_honkai_20260322_230417.json
+2026-03-22 23:04:17 | INFO     | __main__:main:73 | Output saved to: data\processed\netease_honkai_20260322_230417.json
+2026-03-22 23:04:17 | INFO     | __main__:main:74 | ==================================================
+2026-03-22 23:04:17 | INFO     | __main__:main:74 | ==================================================
+2026-03-22 23:04:17 | INFO     | __main__:main:74 | ==================================================
+2026-03-22 23:04:17 | DEBUG    | src.core.base_crawler:close:84 | Session closed
+2026-03-22 23:04:17 | DEBUG    | src.core.base_crawler:close:84 | Session closed
+2026-03-22 23:04:32 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 23:04:32 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 23:04:32 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 23:04:32 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 23:04:32 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 23:04:32 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 23:04:32 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 23:04:32 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 23:04:32 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 23:04:32 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 23:04:32 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 23:04:32 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 23:04:32 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 23:04:32 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 23:04:32 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 23:04:32 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 23:04:32 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 23:04:32 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 23:04:32 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 23:04:32 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 23:04:32 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 23:04:32 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 23:04:32 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 23:04:32 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 23:04:32 | INFO     | __main__:main:37 | ==================================================
+2026-03-22 23:04:32 | INFO     | __main__:main:37 | ==================================================
+2026-03-22 23:04:32 | INFO     | __main__:main:37 | ==================================================
+2026-03-22 23:04:32 | INFO     | __main__:main:38 | Netease Music Crawler Started
+2026-03-22 23:04:32 | INFO     | __main__:main:38 | Netease Music Crawler Started
+2026-03-22 23:04:32 | INFO     | __main__:main:38 | Netease Music Crawler Started
+2026-03-22 23:04:32 | INFO     | __main__:main:39 | Keyword: mihoyo
+2026-03-22 23:04:32 | INFO     | __main__:main:39 | Keyword: mihoyo
+2026-03-22 23:04:32 | INFO     | __main__:main:39 | Keyword: mihoyo
+2026-03-22 23:04:32 | INFO     | __main__:main:40 | Max songs: 2
+2026-03-22 23:04:32 | INFO     | __main__:main:40 | Max songs: 2
+2026-03-22 23:04:32 | INFO     | __main__:main:40 | Max songs: 2
+2026-03-22 23:04:32 | INFO     | __main__:main:41 | Comments per song: 10
+2026-03-22 23:04:32 | INFO     | __main__:main:41 | Comments per song: 10
+2026-03-22 23:04:32 | INFO     | __main__:main:41 | Comments per song: 10
+2026-03-22 23:04:32 | INFO     | __main__:main:42 | Mock only: False
+2026-03-22 23:04:32 | INFO     | __main__:main:42 | Mock only: False
+2026-03-22 23:04:32 | INFO     | __main__:main:42 | Mock only: False
+2026-03-22 23:04:32 | INFO     | __main__:main:43 | ==================================================
+2026-03-22 23:04:32 | INFO     | __main__:main:43 | ==================================================
+2026-03-22 23:04:32 | INFO     | __main__:main:43 | ==================================================
+2026-03-22 23:04:32 | INFO     | src.core.base_crawler:__init__:31 | Crawler initialized: NeteaseCrawler
+2026-03-22 23:04:32 | INFO     | src.core.base_crawler:__init__:31 | Crawler initialized: NeteaseCrawler
+2026-03-22 23:04:32 | INFO     | src.core.base_crawler:__init__:31 | Crawler initialized: NeteaseCrawler
+2026-03-22 23:04:32 | INFO     | src.platforms.netease.crawler:__init__:29 | NeteaseCrawler initialized (mock mode: False, api: http://localhost:3000)
+2026-03-22 23:04:32 | INFO     | src.platforms.netease.crawler:__init__:29 | NeteaseCrawler initialized (mock mode: False, api: http://localhost:3000)
+2026-03-22 23:04:32 | INFO     | src.platforms.netease.crawler:__init__:29 | NeteaseCrawler initialized (mock mode: False, api: http://localhost:3000)
+2026-03-22 23:04:32 | INFO     | __main__:main:50 | Starting search and comment extraction...
+2026-03-22 23:04:32 | INFO     | __main__:main:50 | Starting search and comment extraction...
+2026-03-22 23:04:32 | INFO     | __main__:main:50 | Starting search and comment extraction...
+2026-03-22 23:04:32 | INFO     | src.platforms.netease.crawler:search:33 | Searching: mihoyo
+2026-03-22 23:04:32 | INFO     | src.platforms.netease.crawler:search:33 | Searching: mihoyo
+2026-03-22 23:04:32 | INFO     | src.platforms.netease.crawler:search:33 | Searching: mihoyo
+2026-03-22 23:04:32 | INFO     | src.platforms.netease.crawler:search:60 | Found 2 songs from local API
+2026-03-22 23:04:32 | INFO     | src.platforms.netease.crawler:search:60 | Found 2 songs from local API
+2026-03-22 23:04:32 | INFO     | src.platforms.netease.crawler:search:60 | Found 2 songs from local API
+2026-03-22 23:04:32 | INFO     | src.platforms.netease.crawler:search_and_get_comments:257 | Processing 1/2: 痴人说梦
+2026-03-22 23:04:32 | INFO     | src.platforms.netease.crawler:search_and_get_comments:257 | Processing 1/2: 痴人说梦
+2026-03-22 23:04:32 | INFO     | src.platforms.netease.crawler:search_and_get_comments:257 | Processing 1/2: 痴人说梦
+2026-03-22 23:04:32 | INFO     | src.platforms.netease.crawler:get_comments:164 | Getting comments for song: 3357230091
+2026-03-22 23:04:32 | INFO     | src.platforms.netease.crawler:get_comments:164 | Getting comments for song: 3357230091
+2026-03-22 23:04:32 | INFO     | src.platforms.netease.crawler:get_comments:164 | Getting comments for song: 3357230091
+2026-03-22 23:04:33 | INFO     | src.platforms.netease.crawler:get_comments:231 | Got 15 real comments from local API
+2026-03-22 23:04:33 | INFO     | src.platforms.netease.crawler:get_comments:231 | Got 15 real comments from local API
+2026-03-22 23:04:33 | INFO     | src.platforms.netease.crawler:get_comments:231 | Got 15 real comments from local API
+2026-03-22 23:04:34 | INFO     | src.platforms.netease.crawler:search_and_get_comments:257 | Processing 2/2: 挪德卡莱 Nod-Krai
+2026-03-22 23:04:34 | INFO     | src.platforms.netease.crawler:search_and_get_comments:257 | Processing 2/2: 挪德卡莱 Nod-Krai
+2026-03-22 23:04:34 | INFO     | src.platforms.netease.crawler:search_and_get_comments:257 | Processing 2/2: 挪德卡莱 Nod-Krai
+2026-03-22 23:04:34 | INFO     | src.platforms.netease.crawler:get_comments:164 | Getting comments for song: 2756019200
+2026-03-22 23:04:34 | INFO     | src.platforms.netease.crawler:get_comments:164 | Getting comments for song: 2756019200
+2026-03-22 23:04:34 | INFO     | src.platforms.netease.crawler:get_comments:164 | Getting comments for song: 2756019200
+2026-03-22 23:04:34 | INFO     | src.platforms.netease.crawler:get_comments:231 | Got 15 real comments from local API
+2026-03-22 23:04:34 | INFO     | src.platforms.netease.crawler:get_comments:231 | Got 15 real comments from local API
+2026-03-22 23:04:34 | INFO     | src.platforms.netease.crawler:get_comments:231 | Got 15 real comments from local API
+2026-03-22 23:04:35 | INFO     | src.platforms.netease.crawler:search_and_get_comments:278 | Completed. Processed 2 songs
+2026-03-22 23:04:35 | INFO     | src.platforms.netease.crawler:search_and_get_comments:278 | Completed. Processed 2 songs
+2026-03-22 23:04:35 | INFO     | src.platforms.netease.crawler:search_and_get_comments:278 | Completed. Processed 2 songs
+2026-03-22 23:04:35 | INFO     | __main__:main:71 | ==================================================
+2026-03-22 23:04:35 | INFO     | __main__:main:71 | ==================================================
+2026-03-22 23:04:35 | INFO     | __main__:main:71 | ==================================================
+2026-03-22 23:04:35 | INFO     | __main__:main:72 | SUCCESS! Processed 2 songs
+2026-03-22 23:04:35 | INFO     | __main__:main:72 | SUCCESS! Processed 2 songs
+2026-03-22 23:04:35 | INFO     | __main__:main:72 | SUCCESS! Processed 2 songs
+2026-03-22 23:04:35 | INFO     | __main__:main:73 | Output saved to: data\processed\netease_mihoyo_20260322_230435.json
+2026-03-22 23:04:35 | INFO     | __main__:main:73 | Output saved to: data\processed\netease_mihoyo_20260322_230435.json
+2026-03-22 23:04:35 | INFO     | __main__:main:73 | Output saved to: data\processed\netease_mihoyo_20260322_230435.json
+2026-03-22 23:04:35 | INFO     | __main__:main:74 | ==================================================
+2026-03-22 23:04:35 | INFO     | __main__:main:74 | ==================================================
+2026-03-22 23:04:35 | INFO     | __main__:main:74 | ==================================================
+2026-03-22 23:20:10 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 23:20:10 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 23:20:10 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 23:20:10 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 23:20:10 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 23:20:10 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 23:20:10 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 23:20:10 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 23:20:10 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 23:20:10 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 23:20:10 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 23:20:10 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 23:20:10 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 23:20:10 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 23:20:10 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 23:20:10 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 23:20:10 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 23:20:10 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 23:20:10 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 23:20:10 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 23:20:10 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 23:20:10 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 23:20:10 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 23:20:10 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 23:20:10 | INFO     | __main__:main:37 | ==================================================
+2026-03-22 23:20:10 | INFO     | __main__:main:37 | ==================================================
+2026-03-22 23:20:10 | INFO     | __main__:main:37 | ==================================================
+2026-03-22 23:20:10 | INFO     | __main__:main:38 | Netease Music Crawler Started
+2026-03-22 23:20:10 | INFO     | __main__:main:38 | Netease Music Crawler Started
+2026-03-22 23:20:10 | INFO     | __main__:main:38 | Netease Music Crawler Started
+2026-03-22 23:20:10 | INFO     | __main__:main:39 | Keyword: mihoyo
+2026-03-22 23:20:10 | INFO     | __main__:main:39 | Keyword: mihoyo
+2026-03-22 23:20:10 | INFO     | __main__:main:39 | Keyword: mihoyo
+2026-03-22 23:20:10 | INFO     | __main__:main:40 | Max songs: 2
+2026-03-22 23:20:10 | INFO     | __main__:main:40 | Max songs: 2
+2026-03-22 23:20:10 | INFO     | __main__:main:40 | Max songs: 2
+2026-03-22 23:20:10 | INFO     | __main__:main:41 | Comments per song: 10
+2026-03-22 23:20:10 | INFO     | __main__:main:41 | Comments per song: 10
+2026-03-22 23:20:10 | INFO     | __main__:main:41 | Comments per song: 10
+2026-03-22 23:20:10 | INFO     | __main__:main:42 | Mock only: False
+2026-03-22 23:20:10 | INFO     | __main__:main:42 | Mock only: False
+2026-03-22 23:20:10 | INFO     | __main__:main:42 | Mock only: False
+2026-03-22 23:20:10 | INFO     | __main__:main:43 | ==================================================
+2026-03-22 23:20:10 | INFO     | __main__:main:43 | ==================================================
+2026-03-22 23:20:10 | INFO     | __main__:main:43 | ==================================================
+2026-03-22 23:20:10 | INFO     | src.core.base_crawler:__init__:31 | Crawler initialized: NeteaseCrawler
+2026-03-22 23:20:10 | INFO     | src.core.base_crawler:__init__:31 | Crawler initialized: NeteaseCrawler
+2026-03-22 23:20:10 | INFO     | src.core.base_crawler:__init__:31 | Crawler initialized: NeteaseCrawler
+2026-03-22 23:20:10 | INFO     | src.platforms.netease.crawler:__init__:29 | NeteaseCrawler initialized (mock mode: False, api: http://localhost:3000)
+2026-03-22 23:20:10 | INFO     | src.platforms.netease.crawler:__init__:29 | NeteaseCrawler initialized (mock mode: False, api: http://localhost:3000)
+2026-03-22 23:20:10 | INFO     | src.platforms.netease.crawler:__init__:29 | NeteaseCrawler initialized (mock mode: False, api: http://localhost:3000)
+2026-03-22 23:20:10 | INFO     | __main__:main:50 | Starting search and comment extraction...
+2026-03-22 23:20:10 | INFO     | __main__:main:50 | Starting search and comment extraction...
+2026-03-22 23:20:10 | INFO     | __main__:main:50 | Starting search and comment extraction...
+2026-03-22 23:20:10 | INFO     | src.platforms.netease.crawler:search:33 | Searching: mihoyo
+2026-03-22 23:20:10 | INFO     | src.platforms.netease.crawler:search:33 | Searching: mihoyo
+2026-03-22 23:20:10 | INFO     | src.platforms.netease.crawler:search:33 | Searching: mihoyo
+2026-03-22 23:20:10 | INFO     | src.platforms.netease.crawler:search:60 | Found 2 songs from local API
+2026-03-22 23:20:10 | INFO     | src.platforms.netease.crawler:search:60 | Found 2 songs from local API
+2026-03-22 23:20:10 | INFO     | src.platforms.netease.crawler:search:60 | Found 2 songs from local API
+2026-03-22 23:20:10 | INFO     | src.platforms.netease.crawler:search_and_get_comments:257 | Processing 1/2: 痴人说梦
+2026-03-22 23:20:10 | INFO     | src.platforms.netease.crawler:search_and_get_comments:257 | Processing 1/2: 痴人说梦
+2026-03-22 23:20:10 | INFO     | src.platforms.netease.crawler:search_and_get_comments:257 | Processing 1/2: 痴人说梦
+2026-03-22 23:20:10 | INFO     | src.platforms.netease.crawler:get_comments:164 | Getting comments for song: 3357230091
+2026-03-22 23:20:10 | INFO     | src.platforms.netease.crawler:get_comments:164 | Getting comments for song: 3357230091
+2026-03-22 23:20:10 | INFO     | src.platforms.netease.crawler:get_comments:164 | Getting comments for song: 3357230091
+2026-03-22 23:20:10 | INFO     | src.platforms.netease.crawler:get_comments:231 | Got 15 real comments from local API
+2026-03-22 23:20:10 | INFO     | src.platforms.netease.crawler:get_comments:231 | Got 15 real comments from local API
+2026-03-22 23:20:10 | INFO     | src.platforms.netease.crawler:get_comments:231 | Got 15 real comments from local API
+2026-03-22 23:20:11 | INFO     | src.platforms.netease.crawler:search_and_get_comments:257 | Processing 2/2: 挪德卡莱 Nod-Krai
+2026-03-22 23:20:11 | INFO     | src.platforms.netease.crawler:search_and_get_comments:257 | Processing 2/2: 挪德卡莱 Nod-Krai
+2026-03-22 23:20:11 | INFO     | src.platforms.netease.crawler:search_and_get_comments:257 | Processing 2/2: 挪德卡莱 Nod-Krai
+2026-03-22 23:20:11 | INFO     | src.platforms.netease.crawler:get_comments:164 | Getting comments for song: 2756019200
+2026-03-22 23:20:11 | INFO     | src.platforms.netease.crawler:get_comments:164 | Getting comments for song: 2756019200
+2026-03-22 23:20:11 | INFO     | src.platforms.netease.crawler:get_comments:164 | Getting comments for song: 2756019200
+2026-03-22 23:20:12 | INFO     | src.platforms.netease.crawler:get_comments:231 | Got 15 real comments from local API
+2026-03-22 23:20:12 | INFO     | src.platforms.netease.crawler:get_comments:231 | Got 15 real comments from local API
+2026-03-22 23:20:12 | INFO     | src.platforms.netease.crawler:get_comments:231 | Got 15 real comments from local API
+2026-03-22 23:20:13 | INFO     | src.platforms.netease.crawler:search_and_get_comments:278 | Completed. Processed 2 songs
+2026-03-22 23:20:13 | INFO     | src.platforms.netease.crawler:search_and_get_comments:278 | Completed. Processed 2 songs
+2026-03-22 23:20:13 | INFO     | src.platforms.netease.crawler:search_and_get_comments:278 | Completed. Processed 2 songs
+2026-03-22 23:20:13 | INFO     | __main__:main:71 | ==================================================
+2026-03-22 23:20:13 | INFO     | __main__:main:71 | ==================================================
+2026-03-22 23:20:13 | INFO     | __main__:main:71 | ==================================================
+2026-03-22 23:20:13 | INFO     | __main__:main:72 | SUCCESS! Processed 2 songs
+2026-03-22 23:20:13 | INFO     | __main__:main:72 | SUCCESS! Processed 2 songs
+2026-03-22 23:20:13 | INFO     | __main__:main:72 | SUCCESS! Processed 2 songs
+2026-03-22 23:20:13 | INFO     | __main__:main:73 | Output saved to: data\processed\netease_mihoyo_20260322_232013.json
+2026-03-22 23:20:13 | INFO     | __main__:main:73 | Output saved to: data\processed\netease_mihoyo_20260322_232013.json
+2026-03-22 23:20:13 | INFO     | __main__:main:73 | Output saved to: data\processed\netease_mihoyo_20260322_232013.json
+2026-03-22 23:20:13 | INFO     | __main__:main:74 | ==================================================
+2026-03-22 23:20:13 | INFO     | __main__:main:74 | ==================================================
+2026-03-22 23:20:13 | INFO     | __main__:main:74 | ==================================================
+2026-03-22 23:20:33 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 23:20:33 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 23:20:33 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 23:20:33 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 23:20:33 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 23:20:33 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 23:20:33 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 23:20:33 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 23:20:33 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 23:20:33 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 23:20:33 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 23:20:33 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 23:20:33 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 23:20:33 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 23:20:33 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 23:20:33 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 23:20:33 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 23:20:33 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 23:20:33 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 23:20:33 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 23:20:33 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 23:20:33 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 23:20:33 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 23:20:33 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 23:23:56 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 23:23:56 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 23:23:56 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 23:23:56 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 23:23:56 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 23:23:56 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 23:23:56 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 23:23:56 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 23:23:56 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 23:23:56 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 23:23:56 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 23:23:56 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 23:23:56 | INFO     | __main__:main:35 | ==================================================
+2026-03-22 23:23:56 | INFO     | __main__:main:35 | ==================================================
+2026-03-22 23:23:56 | INFO     | __main__:main:36 | Netease Music Crawler Started
+2026-03-22 23:23:56 | INFO     | __main__:main:36 | Netease Music Crawler Started
+2026-03-22 23:23:56 | INFO     | __main__:main:37 | Keyword: test
+2026-03-22 23:23:56 | INFO     | __main__:main:37 | Keyword: test
+2026-03-22 23:23:56 | INFO     | __main__:main:38 | Max songs: 1
+2026-03-22 23:23:56 | INFO     | __main__:main:38 | Max songs: 1
+2026-03-22 23:23:56 | INFO     | __main__:main:39 | Comments per song: 10
+2026-03-22 23:23:56 | INFO     | __main__:main:39 | Comments per song: 10
+2026-03-22 23:23:56 | INFO     | __main__:main:40 | Mock only: True
+2026-03-22 23:23:56 | INFO     | __main__:main:40 | Mock only: True
+2026-03-22 23:23:56 | INFO     | __main__:main:41 | ==================================================
+2026-03-22 23:23:56 | INFO     | __main__:main:41 | ==================================================
+2026-03-22 23:23:56 | INFO     | src.core.base_crawler:__init__:31 | Crawler initialized: NeteaseCrawler
+2026-03-22 23:23:56 | INFO     | src.core.base_crawler:__init__:31 | Crawler initialized: NeteaseCrawler
+2026-03-22 23:23:56 | INFO     | src.platforms.netease.crawler:__init__:29 | NeteaseCrawler initialized (mock mode: True, api: http://localhost:3000)
+2026-03-22 23:23:56 | INFO     | src.platforms.netease.crawler:__init__:29 | NeteaseCrawler initialized (mock mode: True, api: http://localhost:3000)
+2026-03-22 23:23:56 | INFO     | __main__:main:48 | Starting search and comment extraction...
+2026-03-22 23:23:56 | INFO     | __main__:main:48 | Starting search and comment extraction...
+2026-03-22 23:23:56 | INFO     | src.platforms.netease.crawler:search:33 | Searching: test
+2026-03-22 23:23:56 | INFO     | src.platforms.netease.crawler:search:33 | Searching: test
+2026-03-22 23:23:56 | INFO     | src.platforms.netease.crawler:search:92 | Found 1 songs from direct search
+2026-03-22 23:23:56 | INFO     | src.platforms.netease.crawler:search:92 | Found 1 songs from direct search
+2026-03-22 23:23:56 | INFO     | src.platforms.netease.crawler:search_and_get_comments:257 | Processing 1/1: TEST
+2026-03-22 23:23:56 | INFO     | src.platforms.netease.crawler:search_and_get_comments:257 | Processing 1/1: TEST
+2026-03-22 23:23:56 | INFO     | src.platforms.netease.crawler:get_comments:164 | Getting comments for song: 1822070830
+2026-03-22 23:23:56 | INFO     | src.platforms.netease.crawler:get_comments:164 | Getting comments for song: 1822070830
+2026-03-22 23:23:56 | INFO     | src.platforms.netease.crawler:get_comments:244 | Using mock comments for song 1822070830
+2026-03-22 23:23:56 | INFO     | src.platforms.netease.crawler:get_comments:244 | Using mock comments for song 1822070830
+2026-03-22 23:23:56 | INFO     | src.platforms.netease.crawler:_generate_mock_comments:159 | Generated 5 mock comments
+2026-03-22 23:23:56 | INFO     | src.platforms.netease.crawler:_generate_mock_comments:159 | Generated 5 mock comments
+2026-03-22 23:23:57 | INFO     | src.platforms.netease.crawler:search_and_get_comments:278 | Completed. Processed 1 songs
+2026-03-22 23:23:57 | INFO     | src.platforms.netease.crawler:search_and_get_comments:278 | Completed. Processed 1 songs
+2026-03-22 23:23:57 | INFO     | __main__:main:69 | ==================================================
+2026-03-22 23:23:57 | INFO     | __main__:main:69 | ==================================================
+2026-03-22 23:23:57 | INFO     | __main__:main:70 | SUCCESS! Processed 1 songs
+2026-03-22 23:23:57 | INFO     | __main__:main:70 | SUCCESS! Processed 1 songs
+2026-03-22 23:23:57 | INFO     | __main__:main:71 | Output saved to: data\processed\netease_test_20260322_232357.json
+2026-03-22 23:23:57 | INFO     | __main__:main:71 | Output saved to: data\processed\netease_test_20260322_232357.json
+2026-03-22 23:23:57 | INFO     | __main__:main:72 | ==================================================
+2026-03-22 23:23:57 | INFO     | __main__:main:72 | ==================================================
+2026-03-22 23:26:44 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 23:26:44 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 23:26:44 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 23:26:44 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 23:26:44 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 23:26:44 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 23:26:44 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 23:26:44 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 23:26:44 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 23:26:44 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 23:26:44 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 23:26:44 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 23:26:44 | INFO     | __main__:main:35 | ==================================================
+2026-03-22 23:26:44 | INFO     | __main__:main:35 | ==================================================
+2026-03-22 23:26:44 | INFO     | __main__:main:36 | Netease Music Crawler Started
+2026-03-22 23:26:44 | INFO     | __main__:main:36 | Netease Music Crawler Started
+2026-03-22 23:26:44 | INFO     | __main__:main:37 | Keyword: test
+2026-03-22 23:26:44 | INFO     | __main__:main:37 | Keyword: test
+2026-03-22 23:26:44 | INFO     | __main__:main:38 | Max songs: 1
+2026-03-22 23:26:44 | INFO     | __main__:main:38 | Max songs: 1
+2026-03-22 23:26:44 | INFO     | __main__:main:39 | Comments per song: 10
+2026-03-22 23:26:44 | INFO     | __main__:main:39 | Comments per song: 10
+2026-03-22 23:26:44 | INFO     | __main__:main:40 | Mock only: True
+2026-03-22 23:26:44 | INFO     | __main__:main:40 | Mock only: True
+2026-03-22 23:26:44 | INFO     | __main__:main:41 | ==================================================
+2026-03-22 23:26:44 | INFO     | __main__:main:41 | ==================================================
+2026-03-22 23:26:44 | INFO     | src.core.base_crawler:__init__:36 | Crawler initialized: NeteaseCrawler
+2026-03-22 23:26:44 | INFO     | src.core.base_crawler:__init__:36 | Crawler initialized: NeteaseCrawler
+2026-03-22 23:26:44 | INFO     | src.platforms.netease.crawler:__init__:30 | NeteaseCrawler initialized (mock mode: True, api: http://localhost:3000)
+2026-03-22 23:26:44 | INFO     | src.platforms.netease.crawler:__init__:30 | NeteaseCrawler initialized (mock mode: True, api: http://localhost:3000)
+2026-03-22 23:26:44 | INFO     | __main__:main:48 | Starting search and comment extraction...
+2026-03-22 23:26:44 | INFO     | __main__:main:48 | Starting search and comment extraction...
+2026-03-22 23:26:44 | INFO     | src.platforms.netease.crawler:search:34 | Searching: test
+2026-03-22 23:26:44 | INFO     | src.platforms.netease.crawler:search:34 | Searching: test
+2026-03-22 23:26:45 | INFO     | src.platforms.netease.crawler:search:93 | Found 1 songs from direct search
+2026-03-22 23:26:45 | INFO     | src.platforms.netease.crawler:search:93 | Found 1 songs from direct search
+2026-03-22 23:26:45 | INFO     | src.platforms.netease.crawler:search_and_get_comments:258 | Processing 1/1: TEST
+2026-03-22 23:26:45 | INFO     | src.platforms.netease.crawler:search_and_get_comments:258 | Processing 1/1: TEST
+2026-03-22 23:26:45 | INFO     | src.platforms.netease.crawler:get_comments:165 | Getting comments for song: 1822070830
+2026-03-22 23:26:45 | INFO     | src.platforms.netease.crawler:get_comments:165 | Getting comments for song: 1822070830
+2026-03-22 23:26:45 | INFO     | src.platforms.netease.crawler:get_comments:245 | Using mock comments for song 1822070830
+2026-03-22 23:26:45 | INFO     | src.platforms.netease.crawler:get_comments:245 | Using mock comments for song 1822070830
+2026-03-22 23:26:45 | INFO     | src.platforms.netease.crawler:_generate_mock_comments:160 | Generated 5 mock comments
+2026-03-22 23:26:45 | INFO     | src.platforms.netease.crawler:_generate_mock_comments:160 | Generated 5 mock comments
+2026-03-22 23:26:46 | INFO     | src.platforms.netease.crawler:search_and_get_comments:279 | Completed. Processed 1 songs
+2026-03-22 23:26:46 | INFO     | src.platforms.netease.crawler:search_and_get_comments:279 | Completed. Processed 1 songs
+2026-03-22 23:26:46 | INFO     | __main__:main:69 | ==================================================
+2026-03-22 23:26:46 | INFO     | __main__:main:69 | ==================================================
+2026-03-22 23:26:46 | INFO     | __main__:main:70 | SUCCESS! Processed 1 songs
+2026-03-22 23:26:46 | INFO     | __main__:main:70 | SUCCESS! Processed 1 songs
+2026-03-22 23:26:46 | INFO     | __main__:main:71 | Output saved to: data\processed\netease_test_20260322_232646.json
+2026-03-22 23:26:46 | INFO     | __main__:main:71 | Output saved to: data\processed\netease_test_20260322_232646.json
+2026-03-22 23:26:46 | INFO     | __main__:main:72 | ==================================================
+2026-03-22 23:26:46 | INFO     | __main__:main:72 | ==================================================
+2026-03-22 23:29:17 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 23:29:17 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 23:29:17 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 23:29:17 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 23:29:17 | INFO     | __main__:main:35 | ==================================================
+2026-03-22 23:29:17 | INFO     | __main__:main:36 | Netease Music Crawler Started
+2026-03-22 23:29:17 | INFO     | __main__:main:37 | Keyword: test
+2026-03-22 23:29:17 | INFO     | __main__:main:38 | Max songs: 1
+2026-03-22 23:29:17 | INFO     | __main__:main:39 | Comments per song: 10
+2026-03-22 23:29:17 | INFO     | __main__:main:40 | Mock only: True
+2026-03-22 23:29:17 | INFO     | __main__:main:41 | ==================================================
+2026-03-22 23:29:17 | INFO     | src.core.base_crawler:__init__:36 | Crawler initialized: NeteaseCrawler
+2026-03-22 23:29:17 | INFO     | src.platforms.netease.crawler:__init__:30 | NeteaseCrawler initialized (mock mode: True, api: http://localhost:3000)
+2026-03-22 23:29:17 | INFO     | __main__:main:48 | Starting search and comment extraction...
+2026-03-22 23:29:17 | INFO     | src.platforms.netease.crawler:search:34 | Searching: test
+2026-03-22 23:29:17 | INFO     | src.platforms.netease.crawler:search:93 | Found 1 songs from direct search
+2026-03-22 23:29:17 | INFO     | src.platforms.netease.crawler:search_and_get_comments:258 | Processing 1/1: TEST
+2026-03-22 23:29:17 | INFO     | src.platforms.netease.crawler:get_comments:165 | Getting comments for song: 1822070830
+2026-03-22 23:29:17 | INFO     | src.platforms.netease.crawler:get_comments:245 | Using mock comments for song 1822070830
+2026-03-22 23:29:17 | INFO     | src.platforms.netease.crawler:_generate_mock_comments:160 | Generated 5 mock comments
+2026-03-22 23:29:18 | INFO     | src.platforms.netease.crawler:search_and_get_comments:279 | Completed. Processed 1 songs
+2026-03-22 23:29:18 | INFO     | __main__:main:69 | ==================================================
+2026-03-22 23:29:18 | INFO     | __main__:main:70 | SUCCESS! Processed 1 songs
+2026-03-22 23:29:18 | INFO     | __main__:main:71 | Output saved to: data\processed\netease_test_20260322_232918.json
+2026-03-22 23:29:18 | INFO     | __main__:main:72 | ==================================================
+2026-03-22 23:30:31 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 23:30:31 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 23:30:31 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 23:30:31 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 23:30:31 | INFO     | __main__:main:35 | ==================================================
+2026-03-22 23:30:31 | INFO     | __main__:main:36 | Netease Music Crawler Started
+2026-03-22 23:30:31 | INFO     | __main__:main:37 | Keyword: mihoyo
+2026-03-22 23:30:31 | INFO     | __main__:main:38 | Max songs: 5
+2026-03-22 23:30:31 | INFO     | __main__:main:39 | Comments per song: 10
+2026-03-22 23:30:31 | INFO     | __main__:main:40 | Mock only: False
+2026-03-22 23:30:31 | INFO     | __main__:main:41 | ==================================================
+2026-03-22 23:30:31 | INFO     | src.core.base_crawler:__init__:36 | Crawler initialized: NeteaseCrawler
+2026-03-22 23:30:31 | INFO     | src.platforms.netease.crawler:__init__:30 | NeteaseCrawler initialized (mock mode: False, api: http://localhost:3000)
+2026-03-22 23:30:31 | INFO     | __main__:main:48 | Starting search and comment extraction...
+2026-03-22 23:30:31 | INFO     | src.platforms.netease.crawler:search:34 | Searching: mihoyo
+2026-03-22 23:30:31 | INFO     | src.platforms.netease.crawler:search:61 | Found 5 songs from local API
+2026-03-22 23:30:31 | INFO     | src.platforms.netease.crawler:search_and_get_comments:258 | Processing 1/5: 痴人说梦
+2026-03-22 23:30:31 | INFO     | src.platforms.netease.crawler:get_comments:165 | Getting comments for song: 3357230091
+2026-03-22 23:30:31 | INFO     | src.platforms.netease.crawler:get_comments:232 | Got 15 real comments from local API
+2026-03-22 23:30:33 | INFO     | src.platforms.netease.crawler:search_and_get_comments:258 | Processing 2/5: 挪德卡莱 Nod-Krai
+2026-03-22 23:30:33 | INFO     | src.platforms.netease.crawler:get_comments:165 | Getting comments for song: 2756019200
+2026-03-22 23:30:33 | INFO     | src.platforms.netease.crawler:get_comments:232 | Got 15 real comments from local API
+2026-03-22 23:30:34 | INFO     | src.platforms.netease.crawler:search_and_get_comments:258 | Processing 3/5: 火力全开 Maximum Firepower
+2026-03-22 23:30:34 | INFO     | src.platforms.netease.crawler:get_comments:165 | Getting comments for song: 3360834542
+2026-03-22 23:30:34 | INFO     | src.platforms.netease.crawler:get_comments:232 | Got 1 real comments from local API
+2026-03-22 23:30:35 | INFO     | src.platforms.netease.crawler:search_and_get_comments:258 | Processing 4/5: 不眠之夜
+2026-03-22 23:30:35 | INFO     | src.platforms.netease.crawler:get_comments:165 | Getting comments for song: 2122308127
+2026-03-22 23:30:35 | INFO     | src.platforms.netease.crawler:get_comments:232 | Got 15 real comments from local API
+2026-03-22 23:30:36 | INFO     | src.platforms.netease.crawler:search_and_get_comments:258 | Processing 5/5: 轻涟 La vaguelette
+2026-03-22 23:30:36 | INFO     | src.platforms.netease.crawler:get_comments:165 | Getting comments for song: 2100334024
+2026-03-22 23:30:37 | INFO     | src.platforms.netease.crawler:get_comments:232 | Got 15 real comments from local API
+2026-03-22 23:30:38 | INFO     | src.platforms.netease.crawler:search_and_get_comments:279 | Completed. Processed 5 songs
+2026-03-22 23:30:38 | INFO     | __main__:main:69 | ==================================================
+2026-03-22 23:30:38 | INFO     | __main__:main:70 | SUCCESS! Processed 5 songs
+2026-03-22 23:30:38 | INFO     | __main__:main:71 | Output saved to: data\processed\netease_mihoyo_20260322_233038.json
+2026-03-22 23:30:38 | INFO     | __main__:main:72 | ==================================================
+2026-03-22 23:32:03 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 23:32:03 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 23:32:03 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 23:32:03 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 23:32:03 | INFO     | __main__:main:35 | ==================================================
+2026-03-22 23:32:03 | INFO     | __main__:main:36 | Netease Music Crawler Started
+2026-03-22 23:32:03 | INFO     | __main__:main:37 | Keyword: mihoyo
+2026-03-22 23:32:03 | INFO     | __main__:main:38 | Max songs: 5
+2026-03-22 23:32:03 | INFO     | __main__:main:39 | Comments per song: 10
+2026-03-22 23:32:03 | INFO     | __main__:main:40 | Mock only: False
+2026-03-22 23:32:03 | INFO     | __main__:main:41 | ==================================================
+2026-03-22 23:32:03 | INFO     | src.core.base_crawler:__init__:36 | Crawler initialized: NeteaseCrawler
+2026-03-22 23:32:03 | INFO     | src.platforms.netease.crawler:__init__:30 | NeteaseCrawler initialized (mock mode: False, api: http://localhost:3000)
+2026-03-22 23:32:03 | INFO     | __main__:main:48 | Starting search and comment extraction...
+2026-03-22 23:32:03 | INFO     | src.platforms.netease.crawler:search:34 | Searching: mihoyo
+2026-03-22 23:32:03 | INFO     | src.platforms.netease.crawler:search:61 | Found 5 songs from local API
+2026-03-22 23:32:03 | INFO     | src.platforms.netease.crawler:search_and_get_comments:258 | Processing 1/5: 痴人说梦
+2026-03-22 23:32:03 | INFO     | src.platforms.netease.crawler:get_comments:165 | Getting comments for song: 3357230091
+2026-03-22 23:32:03 | INFO     | src.platforms.netease.crawler:get_comments:232 | Got 15 real comments from local API
+2026-03-22 23:32:04 | INFO     | src.platforms.netease.crawler:search_and_get_comments:258 | Processing 2/5: 挪德卡莱 Nod-Krai
+2026-03-22 23:32:04 | INFO     | src.platforms.netease.crawler:get_comments:165 | Getting comments for song: 2756019200
+2026-03-22 23:32:04 | INFO     | src.platforms.netease.crawler:get_comments:232 | Got 15 real comments from local API
+2026-03-22 23:32:05 | INFO     | src.platforms.netease.crawler:search_and_get_comments:258 | Processing 3/5: 火力全开 Maximum Firepower
+2026-03-22 23:32:05 | INFO     | src.platforms.netease.crawler:get_comments:165 | Getting comments for song: 3360834542
+2026-03-22 23:32:05 | INFO     | src.platforms.netease.crawler:get_comments:232 | Got 1 real comments from local API
+2026-03-22 23:32:06 | INFO     | src.platforms.netease.crawler:search_and_get_comments:258 | Processing 4/5: 不眠之夜
+2026-03-22 23:32:06 | INFO     | src.platforms.netease.crawler:get_comments:165 | Getting comments for song: 2122308127
+2026-03-22 23:32:06 | INFO     | src.platforms.netease.crawler:get_comments:232 | Got 15 real comments from local API
+2026-03-22 23:32:07 | INFO     | src.platforms.netease.crawler:search_and_get_comments:258 | Processing 5/5: 轻涟 La vaguelette
+2026-03-22 23:32:07 | INFO     | src.platforms.netease.crawler:get_comments:165 | Getting comments for song: 2100334024
+2026-03-22 23:32:07 | INFO     | src.platforms.netease.crawler:get_comments:232 | Got 15 real comments from local API
+2026-03-22 23:32:08 | INFO     | src.platforms.netease.crawler:search_and_get_comments:279 | Completed. Processed 5 songs
+2026-03-22 23:32:08 | INFO     | __main__:main:69 | ==================================================
+2026-03-22 23:32:08 | INFO     | __main__:main:70 | SUCCESS! Processed 5 songs
+2026-03-22 23:32:08 | INFO     | __main__:main:71 | Output saved to: data\processed\netease_mihoyo_20260322_233208.json
+2026-03-22 23:32:08 | INFO     | __main__:main:72 | ==================================================

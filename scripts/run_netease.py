@@ -28,10 +28,8 @@ def main():
 
     args = parser.parse_args()
 
-    # Setup logger
+    # Setup logger (only once)
     log_level = "DEBUG" if args.verbose else "INFO"
-    setup_logger(log_level=log_level, log_dir=LOG_DIR)
-
     logger = setup_logger(log_level=log_level, log_dir=LOG_DIR)
 
     logger.info("=" * 50)

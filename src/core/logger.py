@@ -221,27 +221,39 @@ def create_module_logger(module_name: str) -> logger:
     return base_logger.bind(module=module_name)
 
 
-# Default logger configuration
-if _logger_instance is None:
-    # Auto-configure with defaults if not already configured
-    try:
-        setup_logger()
-    except Exception as e:
-        # Fallback to basic console logging
+# Default logger configuration - DISABLED to prevent double initialization
+# The logger should be explicitly configured by the application (run_netease.py)
+#
+# if _logger_instance is None:
+#     try:
+#         setup_logger()
+#     except Exception as e:
+#         logger.add(sys.stderr, format=DEFAULT_FORMAT, level="INFO")
+#         logger.warning(f"Failed to setup file logging: {e}")
+
+
+# For backward compatibility, provide a default logger
+def get_default_logger():
+    """Get default logger without auto-initialization."""
+    if _logger_instance is None:
+        # Return basic console logger
+        logger.remove()
         logger.add(sys.stderr, format=DEFAULT_FORMAT, level="INFO")
-        logger.warning(f"Failed to setup file logging: {e}")
+        return logger
+    return _logger_instance
 
 
 # Example usage
 if __name__ == "__main__":
+    # This only runs when logger.py is executed directly
     # Test the logger
-    log = get_logger()
-    
+    log = setup_logger(log_dir=Path("data/logs"), log_level="DEBUG")
+
     log.debug("This is a debug message")
     log.info("This is an info message")
     log.warning("This is a warning message")
     log.error("This is an error message")
-    
+
     # Test exception logging
     try:
         result = 1 / 0
@@ -251,9 +263,9 @@ if __name__ == "__main__":
             message="Division by zero error",
             context={"operation": "division", "numerator": 1, "denominator": 0}
         )
-    
+
     # Test module logger
     module_logger = create_module_logger("test.module")
     module_logger.info("Module-specific log message")
-    
+
     print("\nLogger test completed. Check log files in data/logs/ directory.")
