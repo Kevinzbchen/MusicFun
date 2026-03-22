@@ -90,3 +90,243 @@ platform_id
 2026-03-22 20:38:51 | ERROR    | __main__:main:92 | Crawler failed: NeteaseCrawler.__init__() got an unexpected keyword argument 'use_mock'
 2026-03-22 20:43:08 | ERROR    | __main__:main:92 | Crawler failed: NeteaseCrawler.__init__() got an unexpected keyword argument 'use_mock'
 2026-03-22 20:43:08 | ERROR    | __main__:main:92 | Crawler failed: NeteaseCrawler.__init__() got an unexpected keyword argument 'use_mock'
+2026-03-22 21:36:33 | ERROR    | __main__:main:96 | Crawler failed: 5 validation errors for User
+id
+  Field required [type=missing, input_value={'user_id': 10000, 'nickn...re': 'Music enthusiast'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+username
+  Field required [type=missing, input_value={'user_id': 10000, 'nickn...re': 'Music enthusiast'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+platform
+  Field required [type=missing, input_value={'user_id': 10000, 'nickn...re': 'Music enthusiast'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+platform_id
+  Field required [type=missing, input_value={'user_id': 10000, 'nickn...re': 'Music enthusiast'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+created_at
+  Field required [type=missing, input_value={'user_id': 10000, 'nickn...re': 'Music enthusiast'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+2026-03-22 21:36:33 | ERROR    | __main__:main:96 | Crawler failed: 5 validation errors for User
+id
+  Field required [type=missing, input_value={'user_id': 10000, 'nickn...re': 'Music enthusiast'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+username
+  Field required [type=missing, input_value={'user_id': 10000, 'nickn...re': 'Music enthusiast'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+platform
+  Field required [type=missing, input_value={'user_id': 10000, 'nickn...re': 'Music enthusiast'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+platform_id
+  Field required [type=missing, input_value={'user_id': 10000, 'nickn...re': 'Music enthusiast'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+created_at
+  Field required [type=missing, input_value={'user_id': 10000, 'nickn...re': 'Music enthusiast'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+2026-03-22 21:36:33 | ERROR    | __main__:main:96 | Crawler failed: 5 validation errors for User
+id
+  Field required [type=missing, input_value={'user_id': 10000, 'nickn...re': 'Music enthusiast'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+username
+  Field required [type=missing, input_value={'user_id': 10000, 'nickn...re': 'Music enthusiast'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+platform
+  Field required [type=missing, input_value={'user_id': 10000, 'nickn...re': 'Music enthusiast'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+platform_id
+  Field required [type=missing, input_value={'user_id': 10000, 'nickn...re': 'Music enthusiast'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+created_at
+  Field required [type=missing, input_value={'user_id': 10000, 'nickn...re': 'Music enthusiast'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+2026-03-22 21:36:34 | ERROR    | __main__:main:96 | Crawler failed: 5 validation errors for User
+id
+  Field required [type=missing, input_value={'user_id': 10000, 'nickn...re': 'Music enthusiast'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+username
+  Field required [type=missing, input_value={'user_id': 10000, 'nickn...re': 'Music enthusiast'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+platform
+  Field required [type=missing, input_value={'user_id': 10000, 'nickn...re': 'Music enthusiast'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+platform_id
+  Field required [type=missing, input_value={'user_id': 10000, 'nickn...re': 'Music enthusiast'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+created_at
+  Field required [type=missing, input_value={'user_id': 10000, 'nickn...re': 'Music enthusiast'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+2026-03-22 21:36:34 | ERROR    | __main__:main:96 | Crawler failed: 5 validation errors for User
+id
+  Field required [type=missing, input_value={'user_id': 10000, 'nickn...re': 'Music enthusiast'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+username
+  Field required [type=missing, input_value={'user_id': 10000, 'nickn...re': 'Music enthusiast'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+platform
+  Field required [type=missing, input_value={'user_id': 10000, 'nickn...re': 'Music enthusiast'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+platform_id
+  Field required [type=missing, input_value={'user_id': 10000, 'nickn...re': 'Music enthusiast'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+created_at
+  Field required [type=missing, input_value={'user_id': 10000, 'nickn...re': 'Music enthusiast'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+2026-03-22 21:36:34 | ERROR    | __main__:main:96 | Crawler failed: 5 validation errors for User
+id
+  Field required [type=missing, input_value={'user_id': 10000, 'nickn...re': 'Music enthusiast'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+username
+  Field required [type=missing, input_value={'user_id': 10000, 'nickn...re': 'Music enthusiast'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+platform
+  Field required [type=missing, input_value={'user_id': 10000, 'nickn...re': 'Music enthusiast'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+platform_id
+  Field required [type=missing, input_value={'user_id': 10000, 'nickn...re': 'Music enthusiast'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+created_at
+  Field required [type=missing, input_value={'user_id': 10000, 'nickn...re': 'Music enthusiast'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+2026-03-22 21:42:01 | ERROR    | __main__:main:96 | Crawler failed: 5 validation errors for Comment
+id
+  Field required [type=missing, input_value={'comment_id': '335733009...685429), 'is_hot': True}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+target_id
+  Field required [type=missing, input_value={'comment_id': '335733009...685429), 'is_hot': True}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+target_type
+  Field required [type=missing, input_value={'comment_id': '335733009...685429), 'is_hot': True}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+user_id
+  Field required [type=missing, input_value={'comment_id': '335733009...685429), 'is_hot': True}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+created_at
+  Field required [type=missing, input_value={'comment_id': '335733009...685429), 'is_hot': True}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+2026-03-22 21:42:01 | ERROR    | __main__:main:96 | Crawler failed: 5 validation errors for Comment
+id
+  Field required [type=missing, input_value={'comment_id': '335733009...685429), 'is_hot': True}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+target_id
+  Field required [type=missing, input_value={'comment_id': '335733009...685429), 'is_hot': True}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+target_type
+  Field required [type=missing, input_value={'comment_id': '335733009...685429), 'is_hot': True}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+user_id
+  Field required [type=missing, input_value={'comment_id': '335733009...685429), 'is_hot': True}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+created_at
+  Field required [type=missing, input_value={'comment_id': '335733009...685429), 'is_hot': True}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+2026-03-22 21:42:01 | ERROR    | __main__:main:96 | Crawler failed: 5 validation errors for Comment
+id
+  Field required [type=missing, input_value={'comment_id': '335733009...685429), 'is_hot': True}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+target_id
+  Field required [type=missing, input_value={'comment_id': '335733009...685429), 'is_hot': True}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+target_type
+  Field required [type=missing, input_value={'comment_id': '335733009...685429), 'is_hot': True}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+user_id
+  Field required [type=missing, input_value={'comment_id': '335733009...685429), 'is_hot': True}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+created_at
+  Field required [type=missing, input_value={'comment_id': '335733009...685429), 'is_hot': True}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+2026-03-22 21:42:59 | ERROR    | __main__:main:96 | Crawler failed: 5 validation errors for Comment
+id
+  Field required [type=missing, input_value={'comment_id': '335733009...150857), 'is_hot': True}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+target_id
+  Field required [type=missing, input_value={'comment_id': '335733009...150857), 'is_hot': True}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+target_type
+  Field required [type=missing, input_value={'comment_id': '335733009...150857), 'is_hot': True}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+user_id
+  Field required [type=missing, input_value={'comment_id': '335733009...150857), 'is_hot': True}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+created_at
+  Field required [type=missing, input_value={'comment_id': '335733009...150857), 'is_hot': True}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+2026-03-22 21:42:59 | ERROR    | __main__:main:96 | Crawler failed: 5 validation errors for Comment
+id
+  Field required [type=missing, input_value={'comment_id': '335733009...150857), 'is_hot': True}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+target_id
+  Field required [type=missing, input_value={'comment_id': '335733009...150857), 'is_hot': True}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+target_type
+  Field required [type=missing, input_value={'comment_id': '335733009...150857), 'is_hot': True}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+user_id
+  Field required [type=missing, input_value={'comment_id': '335733009...150857), 'is_hot': True}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+created_at
+  Field required [type=missing, input_value={'comment_id': '335733009...150857), 'is_hot': True}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+2026-03-22 21:42:59 | ERROR    | __main__:main:96 | Crawler failed: 5 validation errors for Comment
+id
+  Field required [type=missing, input_value={'comment_id': '335733009...150857), 'is_hot': True}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+target_id
+  Field required [type=missing, input_value={'comment_id': '335733009...150857), 'is_hot': True}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+target_type
+  Field required [type=missing, input_value={'comment_id': '335733009...150857), 'is_hot': True}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+user_id
+  Field required [type=missing, input_value={'comment_id': '335733009...150857), 'is_hot': True}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+created_at
+  Field required [type=missing, input_value={'comment_id': '335733009...150857), 'is_hot': True}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+2026-03-22 21:43:06 | ERROR    | __main__:main:96 | Crawler failed: 5 validation errors for Comment
+id
+  Field required [type=missing, input_value={'comment_id': '335733009... 89031), 'is_hot': True}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+target_id
+  Field required [type=missing, input_value={'comment_id': '335733009... 89031), 'is_hot': True}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+target_type
+  Field required [type=missing, input_value={'comment_id': '335733009... 89031), 'is_hot': True}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+user_id
+  Field required [type=missing, input_value={'comment_id': '335733009... 89031), 'is_hot': True}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+created_at
+  Field required [type=missing, input_value={'comment_id': '335733009... 89031), 'is_hot': True}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+2026-03-22 21:43:06 | ERROR    | __main__:main:96 | Crawler failed: 5 validation errors for Comment
+id
+  Field required [type=missing, input_value={'comment_id': '335733009... 89031), 'is_hot': True}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+target_id
+  Field required [type=missing, input_value={'comment_id': '335733009... 89031), 'is_hot': True}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+target_type
+  Field required [type=missing, input_value={'comment_id': '335733009... 89031), 'is_hot': True}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+user_id
+  Field required [type=missing, input_value={'comment_id': '335733009... 89031), 'is_hot': True}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+created_at
+  Field required [type=missing, input_value={'comment_id': '335733009... 89031), 'is_hot': True}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+2026-03-22 21:43:06 | ERROR    | __main__:main:96 | Crawler failed: 5 validation errors for Comment
+id
+  Field required [type=missing, input_value={'comment_id': '335733009... 89031), 'is_hot': True}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+target_id
+  Field required [type=missing, input_value={'comment_id': '335733009... 89031), 'is_hot': True}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+target_type
+  Field required [type=missing, input_value={'comment_id': '335733009... 89031), 'is_hot': True}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+user_id
+  Field required [type=missing, input_value={'comment_id': '335733009... 89031), 'is_hot': True}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+created_at
+  Field required [type=missing, input_value={'comment_id': '335733009... 89031), 'is_hot': True}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing

@@ -6,9 +6,10 @@ from typing import List, Dict, Any, Optional
 from loguru import logger
 from src.core.base_crawler import BaseCrawler
 from src.models.song import Song
-from src.models.comment import Comment
-from src.models.user import User
+from src.models.comment import Comment, CommentType, CommentStatus
+from src.models.user import User, UserType, UserGender, UserStatus
 from datetime import datetime
+import random
 
 
 class NeteaseCrawler(BaseCrawler):
@@ -73,21 +74,54 @@ class NeteaseCrawler(BaseCrawler):
 
         comments = []
         for i, (nickname, content, likes) in enumerate(mock_comments[:limit]):
+            # Create User with all required fields
             user = User(
-                user_id=10000 + i,
+                id=f"mock_user_{10000 + i}",
+                username=nickname,
                 nickname=nickname,
-                avatar_url=None,
-                signature="Music enthusiast"
-            )
-            comment = Comment(
-                comment_id=str(100000 + i + song_id),
-                content=content,
-                user=user,
-                song_id=str(song_id),
                 platform="netease",
-                likes=likes,
-                time=datetime.now(),
-                is_hot=True
+                platform_id=str(10000 + i),
+                avatar_url=f"https://avatar.example.com/{nickname}.jpg",
+                bio="Music enthusiast and frequent listener",
+                gender=UserGender.UNKNOWN,
+                location="Unknown",
+                user_type=UserType.NORMAL,
+                status=UserStatus.ACTIVE,
+                is_verified=False,
+                follower_count=random.randint(100, 10000),
+                following_count=random.randint(50, 500),
+                song_count=random.randint(10, 200),
+                playlist_count=random.randint(1, 20),
+                album_count=random.randint(0, 10),
+                like_count=random.randint(500, 5000),
+                comment_count=random.randint(50, 500),
+                created_at=datetime.now(),
+                crawled_at=datetime.now()
+            )
+
+            # Create Comment with all required fields
+            comment = Comment(
+                id=str(100000 + i + song_id),  # Unique comment ID
+                content=content,
+                target_id=str(song_id),  # The song ID
+                target_type=CommentType.SONG,  # Type is song
+                platform="netease",
+                user_id=user.id,  # User ID
+                username=user.username,  # Username
+                user_avatar=user.avatar_url,  # User avatar
+                user_level=random.randint(1, 10),  # Random user level
+                like_count=likes,  # Like count
+                reply_count=random.randint(0, 20),  # Random reply count
+                share_count=random.randint(0, 10),  # Random share count
+                parent_id=None,  # No parent for top-level comments
+                root_id=None,  # No root for top-level comments
+                is_hot=True,  # Mark as hot comment
+                is_top=False,  # Not top comment
+                is_owner=False,  # Not content owner
+                status=CommentStatus.ACTIVE,  # Active status
+                created_at=datetime.now(),  # Creation time
+                updated_at=None,  # No updates
+                crawled_at=datetime.now()  # Crawl time
             )
             comments.append(comment)
 
@@ -125,10 +159,11 @@ class NeteaseCrawler(BaseCrawler):
                 "duration": song.duration,
                 "hot_comments": [
                     {
-                        "user": c.user.nickname,
+                        "user_id": c.user_id,
+                        "username": c.username,
                         "content": c.content,
-                        "likes": c.likes,
-                        "time": c.time.isoformat() if hasattr(c.time, 'isoformat') else str(c.time)
+                        "likes": c.like_count,
+                        "time": c.created_at.isoformat() if hasattr(c.created_at, 'isoformat') else str(c.created_at)
                     }
                     for c in comments
                 ]

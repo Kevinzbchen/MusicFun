@@ -3,5 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/NeteaseCloudMusicApi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/api-enhanced" vcs="Git" />
   </component>
 </project>
