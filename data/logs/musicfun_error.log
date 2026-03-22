@@ -1,0 +1,92 @@
+2026-03-22 13:14:02 | ERROR    | src.core.logger:log_exception:190 | Data parsing failed | Context: file=data.json, line=42
+2026-03-22 13:14:02 | ERROR    | src.core.logger:log_exception:191 | Exception details: [PARSE_ERROR] Parse error for json data: Invalid JSON format (data: {invalid json})
+2026-03-22 13:14:02 | ERROR    | src.core.logger:log_exception:194 | Exception traceback:
+src.core.exceptions.ParseError: [PARSE_ERROR] Parse error for json data: Invalid JSON format (data: {invalid json})
+2026-03-22 15:04:50 | ERROR    | __main__:main:89 | Crawler failed: Can't instantiate abstract class NeteaseCrawler with abstract methods get_song, get_user
+2026-03-22 15:04:50 | ERROR    | __main__:main:89 | Crawler failed: Can't instantiate abstract class NeteaseCrawler with abstract methods get_song, get_user
+2026-03-22 15:06:01 | ERROR    | __main__:main:89 | Crawler failed: BaseCrawler.__init__() missing 1 required positional argument: 'config'
+2026-03-22 15:06:01 | ERROR    | __main__:main:89 | Crawler failed: BaseCrawler.__init__() missing 1 required positional argument: 'config'
+2026-03-22 15:07:22 | ERROR    | __main__:main:89 | Crawler failed: Can't instantiate abstract class NeteaseCrawler with abstract method get_song
+2026-03-22 15:07:22 | ERROR    | __main__:main:89 | Crawler failed: Can't instantiate abstract class NeteaseCrawler with abstract method get_song
+2026-03-22 15:09:36 | ERROR    | __main__:main:89 | Crawler failed: BaseCrawler.__init__() missing 1 required positional argument: 'config'
+2026-03-22 15:09:36 | ERROR    | __main__:main:89 | Crawler failed: BaseCrawler.__init__() missing 1 required positional argument: 'config'
+2026-03-22 15:11:51 | ERROR    | src.platforms.netease.crawler:search:132 | Failed to parse search results: 5 validation errors for Song
+id
+  Input should be a valid string [type=string_type, input_value=3357230091, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.12/v/string_type
+title
+  Field required [type=missing, input_value={'id': 3357230091, 'name'...345593, 'duration': 115}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+artist
+  Field required [type=missing, input_value={'id': 3357230091, 'name'...345593, 'duration': 115}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+platform
+  Field required [type=missing, input_value={'id': 3357230091, 'name'...345593, 'duration': 115}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+platform_id
+  Field required [type=missing, input_value={'id': 3357230091, 'name'...345593, 'duration': 115}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+2026-03-22 15:11:51 | ERROR    | src.platforms.netease.crawler:search:132 | Failed to parse search results: 5 validation errors for Song
+id
+  Input should be a valid string [type=string_type, input_value=3357230091, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.12/v/string_type
+title
+  Field required [type=missing, input_value={'id': 3357230091, 'name'...345593, 'duration': 115}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+artist
+  Field required [type=missing, input_value={'id': 3357230091, 'name'...345593, 'duration': 115}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+platform
+  Field required [type=missing, input_value={'id': 3357230091, 'name'...345593, 'duration': 115}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+platform_id
+  Field required [type=missing, input_value={'id': 3357230091, 'name'...345593, 'duration': 115}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+2026-03-22 15:19:06 | ERROR    | src.core.base_crawler:_make_request:49 | All retries failed for https://api.paugram.com/netease/comment/?id=3357230091&type=song
+2026-03-22 15:19:06 | ERROR    | src.core.base_crawler:_make_request:49 | All retries failed for https://api.paugram.com/netease/comment/?id=3357230091&type=song
+2026-03-22 15:19:11 | ERROR    | src.core.base_crawler:_make_request:49 | All retries failed for https://api.paugram.com/netease/comment/?id=2756019200&type=song
+2026-03-22 15:19:11 | ERROR    | src.core.base_crawler:_make_request:49 | All retries failed for https://api.paugram.com/netease/comment/?id=2756019200&type=song
+2026-03-22 15:19:17 | ERROR    | src.core.base_crawler:_make_request:49 | All retries failed for https://api.paugram.com/netease/comment/?id=3360835391&type=song
+2026-03-22 15:19:17 | ERROR    | src.core.base_crawler:_make_request:49 | All retries failed for https://api.paugram.com/netease/comment/?id=3360835391&type=song
+2026-03-22 15:19:23 | ERROR    | src.core.base_crawler:_make_request:49 | All retries failed for https://api.paugram.com/netease/comment/?id=2122308127&type=song
+2026-03-22 15:19:23 | ERROR    | src.core.base_crawler:_make_request:49 | All retries failed for https://api.paugram.com/netease/comment/?id=2122308127&type=song
+2026-03-22 15:19:29 | ERROR    | src.core.base_crawler:_make_request:49 | All retries failed for https://api.paugram.com/netease/comment/?id=2100334024&type=song
+2026-03-22 15:19:29 | ERROR    | src.core.base_crawler:_make_request:49 | All retries failed for https://api.paugram.com/netease/comment/?id=2100334024&type=song
+2026-03-22 15:19:35 | ERROR    | src.core.base_crawler:_make_request:49 | All retries failed for https://api.paugram.com/netease/comment/?id=2722510685&type=song
+2026-03-22 15:19:35 | ERROR    | src.core.base_crawler:_make_request:49 | All retries failed for https://api.paugram.com/netease/comment/?id=2722510685&type=song
+2026-03-22 15:19:41 | ERROR    | src.core.base_crawler:_make_request:49 | All retries failed for https://api.paugram.com/netease/comment/?id=3334058000&type=song
+2026-03-22 15:19:41 | ERROR    | src.core.base_crawler:_make_request:49 | All retries failed for https://api.paugram.com/netease/comment/?id=3334058000&type=song
+2026-03-22 15:19:47 | ERROR    | src.core.base_crawler:_make_request:49 | All retries failed for https://api.paugram.com/netease/comment/?id=3360834538&type=song
+2026-03-22 15:19:47 | ERROR    | src.core.base_crawler:_make_request:49 | All retries failed for https://api.paugram.com/netease/comment/?id=3360834538&type=song
+2026-03-22 15:19:53 | ERROR    | src.core.base_crawler:_make_request:49 | All retries failed for https://api.paugram.com/netease/comment/?id=2043177706&type=song
+2026-03-22 15:19:53 | ERROR    | src.core.base_crawler:_make_request:49 | All retries failed for https://api.paugram.com/netease/comment/?id=2043177706&type=song
+2026-03-22 15:19:59 | ERROR    | src.core.base_crawler:_make_request:49 | All retries failed for https://api.paugram.com/netease/comment/?id=3360835405&type=song
+2026-03-22 15:19:59 | ERROR    | src.core.base_crawler:_make_request:49 | All retries failed for https://api.paugram.com/netease/comment/?id=3360835405&type=song
+2026-03-22 15:25:48 | ERROR    | src.core.base_crawler:_make_request:49 | All retries failed for https://api.paugram.com/netease/comment/?id=3357230091&type=song
+2026-03-22 15:25:48 | ERROR    | src.core.base_crawler:_make_request:49 | All retries failed for https://api.paugram.com/netease/comment/?id=3357230091&type=song
+2026-03-22 15:25:54 | ERROR    | src.core.base_crawler:_make_request:49 | All retries failed for https://api.paugram.com/netease/comment/?id=2756019200&type=song
+2026-03-22 15:25:54 | ERROR    | src.core.base_crawler:_make_request:49 | All retries failed for https://api.paugram.com/netease/comment/?id=2756019200&type=song
+2026-03-22 15:26:01 | ERROR    | src.core.base_crawler:_make_request:49 | All retries failed for https://api.paugram.com/netease/comment/?id=3360835391&type=song
+2026-03-22 15:26:01 | ERROR    | src.core.base_crawler:_make_request:49 | All retries failed for https://api.paugram.com/netease/comment/?id=3360835391&type=song
+2026-03-22 15:26:07 | ERROR    | src.core.base_crawler:_make_request:49 | All retries failed for https://api.paugram.com/netease/comment/?id=2122308127&type=song
+2026-03-22 15:26:07 | ERROR    | src.core.base_crawler:_make_request:49 | All retries failed for https://api.paugram.com/netease/comment/?id=2122308127&type=song
+2026-03-22 15:26:13 | ERROR    | src.core.base_crawler:_make_request:49 | All retries failed for https://api.paugram.com/netease/comment/?id=2100334024&type=song
+2026-03-22 15:26:13 | ERROR    | src.core.base_crawler:_make_request:49 | All retries failed for https://api.paugram.com/netease/comment/?id=2100334024&type=song
+2026-03-22 20:16:53 | ERROR    | src.core.base_crawler:_make_request:49 | All retries failed for https://api.paugram.com/netease/comment/?id=1822070830&type=song
+2026-03-22 20:16:53 | ERROR    | src.core.base_crawler:_make_request:49 | All retries failed for https://api.paugram.com/netease/comment/?id=1822070830&type=song
+2026-03-22 20:16:59 | ERROR    | src.core.base_crawler:_make_request:49 | All retries failed for https://api.paugram.com/netease/comment/?id=3352297324&type=song
+2026-03-22 20:16:59 | ERROR    | src.core.base_crawler:_make_request:49 | All retries failed for https://api.paugram.com/netease/comment/?id=3352297324&type=song
+2026-03-22 20:25:30 | ERROR    | __main__:main:92 | Crawler failed: NeteaseCrawler.__init__() got an unexpected keyword argument 'use_mock'
+2026-03-22 20:25:30 | ERROR    | __main__:main:92 | Crawler failed: NeteaseCrawler.__init__() got an unexpected keyword argument 'use_mock'
+2026-03-22 20:29:27 | ERROR    | __main__:main:92 | Crawler failed: NeteaseCrawler.__init__() got an unexpected keyword argument 'use_mock'
+2026-03-22 20:29:27 | ERROR    | __main__:main:92 | Crawler failed: NeteaseCrawler.__init__() got an unexpected keyword argument 'use_mock'
+2026-03-22 20:32:35 | ERROR    | __main__:main:92 | Crawler failed: NeteaseCrawler.__init__() got an unexpected keyword argument 'use_mock'
+2026-03-22 20:32:35 | ERROR    | __main__:main:92 | Crawler failed: NeteaseCrawler.__init__() got an unexpected keyword argument 'use_mock'
+2026-03-22 20:35:31 | ERROR    | __main__:main:92 | Crawler failed: NeteaseCrawler.__init__() got an unexpected keyword argument 'use_mock'
+2026-03-22 20:35:31 | ERROR    | __main__:main:92 | Crawler failed: NeteaseCrawler.__init__() got an unexpected keyword argument 'use_mock'
+2026-03-22 20:35:54 | ERROR    | __main__:main:92 | Crawler failed: NeteaseCrawler.__init__() got an unexpected keyword argument 'use_mock'
+2026-03-22 20:35:54 | ERROR    | __main__:main:92 | Crawler failed: NeteaseCrawler.__init__() got an unexpected keyword argument 'use_mock'
+2026-03-22 20:38:51 | ERROR    | __main__:main:92 | Crawler failed: NeteaseCrawler.__init__() got an unexpected keyword argument 'use_mock'
+2026-03-22 20:38:51 | ERROR    | __main__:main:92 | Crawler failed: NeteaseCrawler.__init__() got an unexpected keyword argument 'use_mock'
+2026-03-22 20:43:08 | ERROR    | __main__:main:92 | Crawler failed: NeteaseCrawler.__init__() got an unexpected keyword argument 'use_mock'
+2026-03-22 20:43:08 | ERROR    | __main__:main:92 | Crawler failed: NeteaseCrawler.__init__() got an unexpected keyword argument 'use_mock'

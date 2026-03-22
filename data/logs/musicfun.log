@@ -1,0 +1,995 @@
+2026-03-22 13:14:02 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 13:14:02 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 13:14:02 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 13:14:02 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 13:14:02 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: test_logs
+2026-03-22 13:14:02 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 13:14:02 | INFO     | src.core.logger:setup_logger:128 | Log file: test.log
+2026-03-22 13:14:02 | INFO     | src.core.logger:setup_logger:129 | Error file: test_error.log
+2026-03-22 13:14:02 | INFO     | __main__:<module>:46 | Test info message from logger
+2026-03-22 13:14:02 | WARNING  | __main__:<module>:47 | Test warning message
+2026-03-22 13:14:02 | ERROR    | src.core.logger:log_exception:190 | Data parsing failed | Context: file=data.json, line=42
+2026-03-22 13:14:02 | ERROR    | src.core.logger:log_exception:191 | Exception details: [PARSE_ERROR] Parse error for json data: Invalid JSON format (data: {invalid json})
+2026-03-22 13:14:02 | ERROR    | src.core.logger:log_exception:194 | Exception traceback:
+src.core.exceptions.ParseError: [PARSE_ERROR] Parse error for json data: Invalid JSON format (data: {invalid json})
+2026-03-22 13:17:11 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 13:17:11 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 13:17:11 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 13:17:11 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 13:17:11 | INFO     | __main__:<module>:141 | Test log message from verification script
+2026-03-22 13:18:10 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 13:18:10 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 13:18:10 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 13:18:10 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 13:18:10 | INFO     | __main__:<module>:141 | Test log message from verification script
+2026-03-22 13:19:16 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 13:19:16 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 13:19:16 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 13:19:16 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 13:19:16 | INFO     | __main__:<module>:141 | Test log message from verification script
+2026-03-22 13:22:28 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 13:22:28 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 13:22:28 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 13:22:28 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 13:22:28 | INFO     | __main__:<module>:75 | Test log from verification
+2026-03-22 13:23:11 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 13:23:11 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 13:23:11 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 13:23:11 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 13:23:11 | INFO     | __main__:<module>:75 | Test log from verification
+2026-03-22 13:23:56 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 13:23:56 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 13:23:56 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 13:23:56 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 13:23:56 | INFO     | __main__:<module>:95 | Test log message
+2026-03-22 14:23:53 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 14:23:53 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 14:23:53 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 14:23:53 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 14:25:33 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 14:25:33 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 14:25:33 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 14:25:33 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 14:29:52 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 14:29:52 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 14:29:52 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 14:29:52 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 14:31:01 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 14:31:01 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 14:31:01 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 14:31:01 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 14:35:52 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 14:35:52 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 14:35:52 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 14:35:52 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 14:35:52 | INFO     | src.core.request_handler:__init__:98 | RequestHandler initialized with base_url: https://httpbin.org
+2026-03-22 14:35:55 | INFO     | src.core.request_handler:close:382 | RequestHandler closed. Statistics: {'request_count': 2, 'error_count': 0, 'success_rate': 1.0, 'elapsed_seconds': 2.774004, 'requests_per_second': 0.7209794939012344, 'cache_size': 0, 'start_time': '2026-03-22T14:35:52.996443'}
+2026-03-22 14:35:55 | INFO     | src.core.base_crawler:__init__:75 | Crawler initialized for platform: netease
+2026-03-22 14:35:55 | INFO     | src.core.base_crawler:close:253 | Crawler closed. Statistics: {'platform': 'netease', 'request_count': 0, 'error_count': 0, 'success_rate': 0.0, 'elapsed_seconds': 0.000491, 'requests_per_second': 0.0, 'start_time': '2026-03-22T14:35:55.771023'}
+2026-03-22 14:35:55 | INFO     | src.core.request_handler:__init__:98 | RequestHandler initialized with base_url: None
+2026-03-22 14:36:03 | WARNING  | src.core.request_handler:_request_with_retry:317 | Request failed: GET http://nonexistent.example.com - HTTPConnectionPool(host='nonexistent.example.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPConnection(host='nonexistent.example.com', port=80): Failed to resolve 'nonexistent.example.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-22 14:36:03 | INFO     | src.core.request_handler:close:382 | RequestHandler closed. Statistics: {'request_count': 1, 'error_count': 1, 'success_rate': 0.0, 'elapsed_seconds': 7.296278, 'requests_per_second': 0.13705618124747987, 'cache_size': 0, 'start_time': '2026-03-22T14:35:55.771702'}
+2026-03-22 14:54:20 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 14:54:20 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 14:54:20 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 14:54:20 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 15:01:17 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 15:01:17 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 15:01:17 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 15:01:17 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 15:02:24 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 15:02:24 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 15:02:24 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 15:02:24 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 15:03:30 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 15:03:30 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 15:03:30 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 15:03:30 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 15:04:14 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 15:04:14 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 15:04:14 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 15:04:14 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 15:04:50 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 15:04:50 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 15:04:50 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 15:04:50 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 15:04:50 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 15:04:50 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 15:04:50 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 15:04:50 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 15:04:50 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 15:04:50 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 15:04:50 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 15:04:50 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 15:04:50 | INFO     | __main__:main:33 | ==================================================
+2026-03-22 15:04:50 | INFO     | __main__:main:33 | ==================================================
+2026-03-22 15:04:50 | INFO     | __main__:main:34 | Netease Music Crawler Started
+2026-03-22 15:04:50 | INFO     | __main__:main:34 | Netease Music Crawler Started
+2026-03-22 15:04:50 | INFO     | __main__:main:35 | Keyword: mihoyo
+2026-03-22 15:04:50 | INFO     | __main__:main:35 | Keyword: mihoyo
+2026-03-22 15:04:50 | INFO     | __main__:main:36 | Max songs: 10
+2026-03-22 15:04:50 | INFO     | __main__:main:36 | Max songs: 10
+2026-03-22 15:04:50 | INFO     | __main__:main:37 | Comments per song: 10
+2026-03-22 15:04:50 | INFO     | __main__:main:37 | Comments per song: 10
+2026-03-22 15:04:50 | INFO     | __main__:main:38 | ==================================================
+2026-03-22 15:04:50 | INFO     | __main__:main:38 | ==================================================
+2026-03-22 15:04:50 | ERROR    | __main__:main:89 | Crawler failed: Can't instantiate abstract class NeteaseCrawler with abstract methods get_song, get_user
+2026-03-22 15:04:50 | ERROR    | __main__:main:89 | Crawler failed: Can't instantiate abstract class NeteaseCrawler with abstract methods get_song, get_user
+2026-03-22 15:06:01 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 15:06:01 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 15:06:01 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 15:06:01 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 15:06:01 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 15:06:01 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 15:06:01 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 15:06:01 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 15:06:01 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 15:06:01 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 15:06:01 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 15:06:01 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 15:06:01 | INFO     | __main__:main:33 | ==================================================
+2026-03-22 15:06:01 | INFO     | __main__:main:33 | ==================================================
+2026-03-22 15:06:01 | INFO     | __main__:main:34 | Netease Music Crawler Started
+2026-03-22 15:06:01 | INFO     | __main__:main:34 | Netease Music Crawler Started
+2026-03-22 15:06:01 | INFO     | __main__:main:35 | Keyword: mihoyo
+2026-03-22 15:06:01 | INFO     | __main__:main:35 | Keyword: mihoyo
+2026-03-22 15:06:01 | INFO     | __main__:main:36 | Max songs: 10
+2026-03-22 15:06:01 | INFO     | __main__:main:36 | Max songs: 10
+2026-03-22 15:06:01 | INFO     | __main__:main:37 | Comments per song: 10
+2026-03-22 15:06:01 | INFO     | __main__:main:37 | Comments per song: 10
+2026-03-22 15:06:01 | INFO     | __main__:main:38 | ==================================================
+2026-03-22 15:06:01 | INFO     | __main__:main:38 | ==================================================
+2026-03-22 15:06:01 | ERROR    | __main__:main:89 | Crawler failed: BaseCrawler.__init__() missing 1 required positional argument: 'config'
+2026-03-22 15:06:01 | ERROR    | __main__:main:89 | Crawler failed: BaseCrawler.__init__() missing 1 required positional argument: 'config'
+2026-03-22 15:07:22 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 15:07:22 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 15:07:22 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 15:07:22 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 15:07:22 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 15:07:22 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 15:07:22 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 15:07:22 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 15:07:22 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 15:07:22 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 15:07:22 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 15:07:22 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 15:07:22 | INFO     | __main__:main:33 | ==================================================
+2026-03-22 15:07:22 | INFO     | __main__:main:33 | ==================================================
+2026-03-22 15:07:22 | INFO     | __main__:main:34 | Netease Music Crawler Started
+2026-03-22 15:07:22 | INFO     | __main__:main:34 | Netease Music Crawler Started
+2026-03-22 15:07:22 | INFO     | __main__:main:35 | Keyword: mihoyo
+2026-03-22 15:07:22 | INFO     | __main__:main:35 | Keyword: mihoyo
+2026-03-22 15:07:22 | INFO     | __main__:main:36 | Max songs: 10
+2026-03-22 15:07:22 | INFO     | __main__:main:36 | Max songs: 10
+2026-03-22 15:07:22 | INFO     | __main__:main:37 | Comments per song: 10
+2026-03-22 15:07:22 | INFO     | __main__:main:37 | Comments per song: 10
+2026-03-22 15:07:22 | INFO     | __main__:main:38 | ==================================================
+2026-03-22 15:07:22 | INFO     | __main__:main:38 | ==================================================
+2026-03-22 15:07:22 | ERROR    | __main__:main:89 | Crawler failed: Can't instantiate abstract class NeteaseCrawler with abstract method get_song
+2026-03-22 15:07:22 | ERROR    | __main__:main:89 | Crawler failed: Can't instantiate abstract class NeteaseCrawler with abstract method get_song
+2026-03-22 15:09:36 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 15:09:36 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 15:09:36 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 15:09:36 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 15:09:36 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 15:09:36 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 15:09:36 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 15:09:36 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 15:09:36 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 15:09:36 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 15:09:36 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 15:09:36 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 15:09:36 | INFO     | __main__:main:33 | ==================================================
+2026-03-22 15:09:36 | INFO     | __main__:main:33 | ==================================================
+2026-03-22 15:09:36 | INFO     | __main__:main:34 | Netease Music Crawler Started
+2026-03-22 15:09:36 | INFO     | __main__:main:34 | Netease Music Crawler Started
+2026-03-22 15:09:36 | INFO     | __main__:main:35 | Keyword: mihoyo
+2026-03-22 15:09:36 | INFO     | __main__:main:35 | Keyword: mihoyo
+2026-03-22 15:09:36 | INFO     | __main__:main:36 | Max songs: 10
+2026-03-22 15:09:36 | INFO     | __main__:main:36 | Max songs: 10
+2026-03-22 15:09:36 | INFO     | __main__:main:37 | Comments per song: 10
+2026-03-22 15:09:36 | INFO     | __main__:main:37 | Comments per song: 10
+2026-03-22 15:09:36 | INFO     | __main__:main:38 | ==================================================
+2026-03-22 15:09:36 | INFO     | __main__:main:38 | ==================================================
+2026-03-22 15:09:36 | ERROR    | __main__:main:89 | Crawler failed: BaseCrawler.__init__() missing 1 required positional argument: 'config'
+2026-03-22 15:09:36 | ERROR    | __main__:main:89 | Crawler failed: BaseCrawler.__init__() missing 1 required positional argument: 'config'
+2026-03-22 15:11:50 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 15:11:50 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 15:11:50 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 15:11:50 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 15:11:50 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 15:11:50 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 15:11:50 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 15:11:50 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 15:11:50 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 15:11:50 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 15:11:50 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 15:11:50 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 15:11:50 | INFO     | __main__:main:33 | ==================================================
+2026-03-22 15:11:50 | INFO     | __main__:main:33 | ==================================================
+2026-03-22 15:11:50 | INFO     | __main__:main:34 | Netease Music Crawler Started
+2026-03-22 15:11:50 | INFO     | __main__:main:34 | Netease Music Crawler Started
+2026-03-22 15:11:50 | INFO     | __main__:main:35 | Keyword: mihoyo
+2026-03-22 15:11:50 | INFO     | __main__:main:35 | Keyword: mihoyo
+2026-03-22 15:11:50 | INFO     | __main__:main:36 | Max songs: 10
+2026-03-22 15:11:50 | INFO     | __main__:main:36 | Max songs: 10
+2026-03-22 15:11:50 | INFO     | __main__:main:37 | Comments per song: 10
+2026-03-22 15:11:50 | INFO     | __main__:main:37 | Comments per song: 10
+2026-03-22 15:11:50 | INFO     | __main__:main:38 | ==================================================
+2026-03-22 15:11:50 | INFO     | __main__:main:38 | ==================================================
+2026-03-22 15:11:50 | INFO     | src.core.base_crawler:__init__:31 | Crawler initialized: NeteaseCrawler
+2026-03-22 15:11:50 | INFO     | src.core.base_crawler:__init__:31 | Crawler initialized: NeteaseCrawler
+2026-03-22 15:11:50 | INFO     | src.platforms.netease.crawler:__init__:26 | NeteaseCrawler initialized
+2026-03-22 15:11:50 | INFO     | src.platforms.netease.crawler:__init__:26 | NeteaseCrawler initialized
+2026-03-22 15:11:50 | INFO     | __main__:main:48 | Starting search and comment extraction...
+2026-03-22 15:11:50 | INFO     | __main__:main:48 | Starting search and comment extraction...
+2026-03-22 15:11:50 | INFO     | src.platforms.netease.crawler:search:93 | Searching for: mihoyo
+2026-03-22 15:11:50 | INFO     | src.platforms.netease.crawler:search:93 | Searching for: mihoyo
+2026-03-22 15:11:51 | ERROR    | src.platforms.netease.crawler:search:132 | Failed to parse search results: 5 validation errors for Song
+id
+  Input should be a valid string [type=string_type, input_value=3357230091, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.12/v/string_type
+title
+  Field required [type=missing, input_value={'id': 3357230091, 'name'...345593, 'duration': 115}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+artist
+  Field required [type=missing, input_value={'id': 3357230091, 'name'...345593, 'duration': 115}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+platform
+  Field required [type=missing, input_value={'id': 3357230091, 'name'...345593, 'duration': 115}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+platform_id
+  Field required [type=missing, input_value={'id': 3357230091, 'name'...345593, 'duration': 115}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+2026-03-22 15:11:51 | ERROR    | src.platforms.netease.crawler:search:132 | Failed to parse search results: 5 validation errors for Song
+id
+  Input should be a valid string [type=string_type, input_value=3357230091, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.12/v/string_type
+title
+  Field required [type=missing, input_value={'id': 3357230091, 'name'...345593, 'duration': 115}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+artist
+  Field required [type=missing, input_value={'id': 3357230091, 'name'...345593, 'duration': 115}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+platform
+  Field required [type=missing, input_value={'id': 3357230091, 'name'...345593, 'duration': 115}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+platform_id
+  Field required [type=missing, input_value={'id': 3357230091, 'name'...345593, 'duration': 115}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+2026-03-22 15:11:51 | WARNING  | src.platforms.netease.crawler:search_and_get_comments:193 | No songs found for keyword: mihoyo
+2026-03-22 15:11:51 | WARNING  | src.platforms.netease.crawler:search_and_get_comments:193 | No songs found for keyword: mihoyo
+2026-03-22 15:11:51 | WARNING  | __main__:main:52 | No results found
+2026-03-22 15:11:51 | WARNING  | __main__:main:52 | No results found
+2026-03-22 15:13:32 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 15:13:32 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 15:13:32 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 15:13:32 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 15:13:32 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 15:13:32 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 15:13:32 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 15:13:32 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 15:13:32 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 15:13:32 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 15:13:32 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 15:13:32 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 15:13:32 | INFO     | __main__:main:33 | ==================================================
+2026-03-22 15:13:32 | INFO     | __main__:main:33 | ==================================================
+2026-03-22 15:13:32 | INFO     | __main__:main:34 | Netease Music Crawler Started
+2026-03-22 15:13:32 | INFO     | __main__:main:34 | Netease Music Crawler Started
+2026-03-22 15:13:32 | INFO     | __main__:main:35 | Keyword: mihoyo
+2026-03-22 15:13:32 | INFO     | __main__:main:35 | Keyword: mihoyo
+2026-03-22 15:13:32 | INFO     | __main__:main:36 | Max songs: 10
+2026-03-22 15:13:32 | INFO     | __main__:main:36 | Max songs: 10
+2026-03-22 15:13:32 | INFO     | __main__:main:37 | Comments per song: 10
+2026-03-22 15:13:32 | INFO     | __main__:main:37 | Comments per song: 10
+2026-03-22 15:13:32 | INFO     | __main__:main:38 | ==================================================
+2026-03-22 15:13:32 | INFO     | __main__:main:38 | ==================================================
+2026-03-22 15:13:32 | INFO     | src.core.base_crawler:__init__:31 | Crawler initialized: NeteaseCrawler
+2026-03-22 15:13:32 | INFO     | src.core.base_crawler:__init__:31 | Crawler initialized: NeteaseCrawler
+2026-03-22 15:13:32 | INFO     | src.platforms.netease.crawler:__init__:26 | NeteaseCrawler initialized
+2026-03-22 15:13:32 | INFO     | src.platforms.netease.crawler:__init__:26 | NeteaseCrawler initialized
+2026-03-22 15:13:32 | INFO     | __main__:main:48 | Starting search and comment extraction...
+2026-03-22 15:13:32 | INFO     | __main__:main:48 | Starting search and comment extraction...
+2026-03-22 15:13:32 | INFO     | src.platforms.netease.crawler:search:97 | Searching for: mihoyo
+2026-03-22 15:13:32 | INFO     | src.platforms.netease.crawler:search:97 | Searching for: mihoyo
+2026-03-22 15:13:32 | INFO     | src.platforms.netease.crawler:search:136 | Found 10 songs
+2026-03-22 15:13:32 | INFO     | src.platforms.netease.crawler:search:136 | Found 10 songs
+2026-03-22 15:13:32 | INFO     | src.platforms.netease.crawler:search_and_get_comments:208 | Processing 1/10: 痴人说梦
+2026-03-22 15:13:32 | INFO     | src.platforms.netease.crawler:search_and_get_comments:208 | Processing 1/10: 痴人说梦
+2026-03-22 15:13:32 | INFO     | src.platforms.netease.crawler:get_comments:147 | Getting comments for song ID: 3357230091
+2026-03-22 15:13:32 | INFO     | src.platforms.netease.crawler:get_comments:147 | Getting comments for song ID: 3357230091
+2026-03-22 15:13:37 | WARNING  | src.platforms.netease.crawler:get_comments:160 | API error for 3357230091: 400
+2026-03-22 15:13:37 | WARNING  | src.platforms.netease.crawler:get_comments:160 | API error for 3357230091: 400
+2026-03-22 15:13:38 | INFO     | src.platforms.netease.crawler:search_and_get_comments:208 | Processing 2/10: 挪德卡莱 Nod-Krai
+2026-03-22 15:13:38 | INFO     | src.platforms.netease.crawler:search_and_get_comments:208 | Processing 2/10: 挪德卡莱 Nod-Krai
+2026-03-22 15:13:38 | INFO     | src.platforms.netease.crawler:get_comments:147 | Getting comments for song ID: 2756019200
+2026-03-22 15:13:38 | INFO     | src.platforms.netease.crawler:get_comments:147 | Getting comments for song ID: 2756019200
+2026-03-22 15:13:39 | WARNING  | src.platforms.netease.crawler:get_comments:160 | API error for 2756019200: 400
+2026-03-22 15:13:39 | WARNING  | src.platforms.netease.crawler:get_comments:160 | API error for 2756019200: 400
+2026-03-22 15:13:40 | INFO     | src.platforms.netease.crawler:search_and_get_comments:208 | Processing 3/10: 笔尖幻想 Pen-Point Fantasy
+2026-03-22 15:13:40 | INFO     | src.platforms.netease.crawler:search_and_get_comments:208 | Processing 3/10: 笔尖幻想 Pen-Point Fantasy
+2026-03-22 15:13:40 | INFO     | src.platforms.netease.crawler:get_comments:147 | Getting comments for song ID: 3360835391
+2026-03-22 15:13:40 | INFO     | src.platforms.netease.crawler:get_comments:147 | Getting comments for song ID: 3360835391
+2026-03-22 15:13:41 | WARNING  | src.platforms.netease.crawler:get_comments:160 | API error for 3360835391: 400
+2026-03-22 15:13:41 | WARNING  | src.platforms.netease.crawler:get_comments:160 | API error for 3360835391: 400
+2026-03-22 15:13:42 | INFO     | src.platforms.netease.crawler:search_and_get_comments:208 | Processing 4/10: 不眠之夜
+2026-03-22 15:13:42 | INFO     | src.platforms.netease.crawler:search_and_get_comments:208 | Processing 4/10: 不眠之夜
+2026-03-22 15:13:42 | INFO     | src.platforms.netease.crawler:get_comments:147 | Getting comments for song ID: 2122308127
+2026-03-22 15:13:42 | INFO     | src.platforms.netease.crawler:get_comments:147 | Getting comments for song ID: 2122308127
+2026-03-22 15:13:43 | WARNING  | src.platforms.netease.crawler:get_comments:160 | API error for 2122308127: 400
+2026-03-22 15:13:43 | WARNING  | src.platforms.netease.crawler:get_comments:160 | API error for 2122308127: 400
+2026-03-22 15:13:44 | INFO     | src.platforms.netease.crawler:search_and_get_comments:208 | Processing 5/10: 轻涟 La vaguelette
+2026-03-22 15:13:44 | INFO     | src.platforms.netease.crawler:search_and_get_comments:208 | Processing 5/10: 轻涟 La vaguelette
+2026-03-22 15:13:44 | INFO     | src.platforms.netease.crawler:get_comments:147 | Getting comments for song ID: 2100334024
+2026-03-22 15:13:44 | INFO     | src.platforms.netease.crawler:get_comments:147 | Getting comments for song ID: 2100334024
+2026-03-22 15:13:46 | WARNING  | src.platforms.netease.crawler:get_comments:160 | API error for 2100334024: 400
+2026-03-22 15:13:46 | WARNING  | src.platforms.netease.crawler:get_comments:160 | API error for 2100334024: 400
+2026-03-22 15:13:47 | INFO     | src.platforms.netease.crawler:search_and_get_comments:208 | Processing 6/10: 耀斑
+2026-03-22 15:13:47 | INFO     | src.platforms.netease.crawler:search_and_get_comments:208 | Processing 6/10: 耀斑
+2026-03-22 15:13:47 | INFO     | src.platforms.netease.crawler:get_comments:147 | Getting comments for song ID: 2722510685
+2026-03-22 15:13:47 | INFO     | src.platforms.netease.crawler:get_comments:147 | Getting comments for song ID: 2722510685
+2026-03-22 15:13:48 | WARNING  | src.platforms.netease.crawler:get_comments:160 | API error for 2722510685: 400
+2026-03-22 15:13:48 | WARNING  | src.platforms.netease.crawler:get_comments:160 | API error for 2722510685: 400
+2026-03-22 15:13:49 | INFO     | src.platforms.netease.crawler:search_and_get_comments:208 | Processing 7/10: 日冕 Coronal Radiance
+2026-03-22 15:13:49 | INFO     | src.platforms.netease.crawler:search_and_get_comments:208 | Processing 7/10: 日冕 Coronal Radiance
+2026-03-22 15:13:49 | INFO     | src.platforms.netease.crawler:get_comments:147 | Getting comments for song ID: 3334058000
+2026-03-22 15:13:49 | INFO     | src.platforms.netease.crawler:get_comments:147 | Getting comments for song ID: 3334058000
+2026-03-22 15:13:50 | WARNING  | src.platforms.netease.crawler:get_comments:160 | API error for 3334058000: 400
+2026-03-22 15:13:50 | WARNING  | src.platforms.netease.crawler:get_comments:160 | API error for 3334058000: 400
+2026-03-22 15:13:51 | INFO     | src.platforms.netease.crawler:search_and_get_comments:208 | Processing 8/10: 全城通缉 Most Wanted
+2026-03-22 15:13:51 | INFO     | src.platforms.netease.crawler:search_and_get_comments:208 | Processing 8/10: 全城通缉 Most Wanted
+2026-03-22 15:13:51 | INFO     | src.platforms.netease.crawler:get_comments:147 | Getting comments for song ID: 3360834538
+2026-03-22 15:13:51 | INFO     | src.platforms.netease.crawler:get_comments:147 | Getting comments for song ID: 3360834538
+2026-03-22 15:13:52 | WARNING  | src.platforms.netease.crawler:get_comments:160 | API error for 3360834538: 400
+2026-03-22 15:13:52 | WARNING  | src.platforms.netease.crawler:get_comments:160 | API error for 3360834538: 400
+2026-03-22 15:13:53 | INFO     | src.platforms.netease.crawler:search_and_get_comments:208 | Processing 9/10: 星间旅行 Interstellar Journey (英文版)
+2026-03-22 15:13:53 | INFO     | src.platforms.netease.crawler:search_and_get_comments:208 | Processing 9/10: 星间旅行 Interstellar Journey (英文版)
+2026-03-22 15:13:53 | INFO     | src.platforms.netease.crawler:get_comments:147 | Getting comments for song ID: 2043177706
+2026-03-22 15:13:53 | INFO     | src.platforms.netease.crawler:get_comments:147 | Getting comments for song ID: 2043177706
+2026-03-22 15:13:54 | WARNING  | src.platforms.netease.crawler:get_comments:160 | API error for 2043177706: 400
+2026-03-22 15:13:54 | WARNING  | src.platforms.netease.crawler:get_comments:160 | API error for 2043177706: 400
+2026-03-22 15:13:55 | INFO     | src.platforms.netease.crawler:search_and_get_comments:208 | Processing 10/10: 完美偶像 Perfect Idol
+2026-03-22 15:13:55 | INFO     | src.platforms.netease.crawler:search_and_get_comments:208 | Processing 10/10: 完美偶像 Perfect Idol
+2026-03-22 15:13:55 | INFO     | src.platforms.netease.crawler:get_comments:147 | Getting comments for song ID: 3360835405
+2026-03-22 15:13:55 | INFO     | src.platforms.netease.crawler:get_comments:147 | Getting comments for song ID: 3360835405
+2026-03-22 15:13:56 | WARNING  | src.platforms.netease.crawler:get_comments:160 | API error for 3360835405: 400
+2026-03-22 15:13:56 | WARNING  | src.platforms.netease.crawler:get_comments:160 | API error for 3360835405: 400
+2026-03-22 15:13:57 | INFO     | src.platforms.netease.crawler:search_and_get_comments:231 | Completed. Processed 0 songs
+2026-03-22 15:13:57 | INFO     | src.platforms.netease.crawler:search_and_get_comments:231 | Completed. Processed 0 songs
+2026-03-22 15:13:57 | WARNING  | __main__:main:52 | No results found
+2026-03-22 15:13:57 | WARNING  | __main__:main:52 | No results found
+2026-03-22 15:19:00 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 15:19:00 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 15:19:00 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 15:19:00 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 15:19:00 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 15:19:00 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 15:19:00 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 15:19:00 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 15:19:00 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 15:19:00 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 15:19:00 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 15:19:00 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 15:19:00 | INFO     | __main__:main:33 | ==================================================
+2026-03-22 15:19:00 | INFO     | __main__:main:33 | ==================================================
+2026-03-22 15:19:00 | INFO     | __main__:main:34 | Netease Music Crawler Started
+2026-03-22 15:19:00 | INFO     | __main__:main:34 | Netease Music Crawler Started
+2026-03-22 15:19:00 | INFO     | __main__:main:35 | Keyword: mihoyo
+2026-03-22 15:19:00 | INFO     | __main__:main:35 | Keyword: mihoyo
+2026-03-22 15:19:00 | INFO     | __main__:main:36 | Max songs: 10
+2026-03-22 15:19:00 | INFO     | __main__:main:36 | Max songs: 10
+2026-03-22 15:19:00 | INFO     | __main__:main:37 | Comments per song: 10
+2026-03-22 15:19:00 | INFO     | __main__:main:37 | Comments per song: 10
+2026-03-22 15:19:00 | INFO     | __main__:main:38 | ==================================================
+2026-03-22 15:19:00 | INFO     | __main__:main:38 | ==================================================
+2026-03-22 15:19:00 | INFO     | src.core.base_crawler:__init__:31 | Crawler initialized: NeteaseCrawler
+2026-03-22 15:19:00 | INFO     | src.core.base_crawler:__init__:31 | Crawler initialized: NeteaseCrawler
+2026-03-22 15:19:00 | INFO     | src.platforms.netease.crawler:__init__:26 | NeteaseCrawler initialized
+2026-03-22 15:19:00 | INFO     | src.platforms.netease.crawler:__init__:26 | NeteaseCrawler initialized
+2026-03-22 15:19:00 | INFO     | __main__:main:48 | Starting search and comment extraction...
+2026-03-22 15:19:00 | INFO     | __main__:main:48 | Starting search and comment extraction...
+2026-03-22 15:19:00 | INFO     | src.platforms.netease.crawler:search:97 | Searching for: mihoyo
+2026-03-22 15:19:00 | INFO     | src.platforms.netease.crawler:search:97 | Searching for: mihoyo
+2026-03-22 15:19:00 | INFO     | src.platforms.netease.crawler:search:136 | Found 10 songs
+2026-03-22 15:19:00 | INFO     | src.platforms.netease.crawler:search:136 | Found 10 songs
+2026-03-22 15:19:00 | INFO     | src.platforms.netease.crawler:search_and_get_comments:222 | Processing 1/10: 痴人说梦
+2026-03-22 15:19:00 | INFO     | src.platforms.netease.crawler:search_and_get_comments:222 | Processing 1/10: 痴人说梦
+2026-03-22 15:19:00 | INFO     | src.platforms.netease.crawler:get_comments:147 | Getting comments for song ID: 3357230091
+2026-03-22 15:19:00 | INFO     | src.platforms.netease.crawler:get_comments:147 | Getting comments for song ID: 3357230091
+2026-03-22 15:19:02 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 1 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=3357230091&type=song
+2026-03-22 15:19:02 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 1 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=3357230091&type=song
+2026-03-22 15:19:03 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 2 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=3357230091&type=song
+2026-03-22 15:19:03 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 2 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=3357230091&type=song
+2026-03-22 15:19:06 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 3 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=3357230091&type=song
+2026-03-22 15:19:06 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 3 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=3357230091&type=song
+2026-03-22 15:19:06 | ERROR    | src.core.base_crawler:_make_request:49 | All retries failed for https://api.paugram.com/netease/comment/?id=3357230091&type=song
+2026-03-22 15:19:06 | ERROR    | src.core.base_crawler:_make_request:49 | All retries failed for https://api.paugram.com/netease/comment/?id=3357230091&type=song
+2026-03-22 15:19:06 | WARNING  | src.platforms.netease.crawler:get_comments:209 | No comments found for song 3357230091 from any endpoint
+2026-03-22 15:19:06 | WARNING  | src.platforms.netease.crawler:get_comments:209 | No comments found for song 3357230091 from any endpoint
+2026-03-22 15:19:06 | INFO     | src.platforms.netease.crawler:search_and_get_comments:244 |   -> No comments found for 痴人说梦
+2026-03-22 15:19:06 | INFO     | src.platforms.netease.crawler:search_and_get_comments:244 |   -> No comments found for 痴人说梦
+2026-03-22 15:19:07 | INFO     | src.platforms.netease.crawler:search_and_get_comments:222 | Processing 2/10: 挪德卡莱 Nod-Krai
+2026-03-22 15:19:07 | INFO     | src.platforms.netease.crawler:search_and_get_comments:222 | Processing 2/10: 挪德卡莱 Nod-Krai
+2026-03-22 15:19:07 | INFO     | src.platforms.netease.crawler:get_comments:147 | Getting comments for song ID: 2756019200
+2026-03-22 15:19:07 | INFO     | src.platforms.netease.crawler:get_comments:147 | Getting comments for song ID: 2756019200
+2026-03-22 15:19:08 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 1 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=2756019200&type=song
+2026-03-22 15:19:08 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 1 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=2756019200&type=song
+2026-03-22 15:19:09 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 2 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=2756019200&type=song
+2026-03-22 15:19:09 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 2 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=2756019200&type=song
+2026-03-22 15:19:11 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 3 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=2756019200&type=song
+2026-03-22 15:19:11 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 3 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=2756019200&type=song
+2026-03-22 15:19:11 | ERROR    | src.core.base_crawler:_make_request:49 | All retries failed for https://api.paugram.com/netease/comment/?id=2756019200&type=song
+2026-03-22 15:19:11 | ERROR    | src.core.base_crawler:_make_request:49 | All retries failed for https://api.paugram.com/netease/comment/?id=2756019200&type=song
+2026-03-22 15:19:11 | WARNING  | src.platforms.netease.crawler:get_comments:209 | No comments found for song 2756019200 from any endpoint
+2026-03-22 15:19:11 | WARNING  | src.platforms.netease.crawler:get_comments:209 | No comments found for song 2756019200 from any endpoint
+2026-03-22 15:19:11 | INFO     | src.platforms.netease.crawler:search_and_get_comments:244 |   -> No comments found for 挪德卡莱 Nod-Krai
+2026-03-22 15:19:11 | INFO     | src.platforms.netease.crawler:search_and_get_comments:244 |   -> No comments found for 挪德卡莱 Nod-Krai
+2026-03-22 15:19:12 | INFO     | src.platforms.netease.crawler:search_and_get_comments:222 | Processing 3/10: 笔尖幻想 Pen-Point Fantasy
+2026-03-22 15:19:12 | INFO     | src.platforms.netease.crawler:search_and_get_comments:222 | Processing 3/10: 笔尖幻想 Pen-Point Fantasy
+2026-03-22 15:19:12 | INFO     | src.platforms.netease.crawler:get_comments:147 | Getting comments for song ID: 3360835391
+2026-03-22 15:19:12 | INFO     | src.platforms.netease.crawler:get_comments:147 | Getting comments for song ID: 3360835391
+2026-03-22 15:19:14 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 1 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=3360835391&type=song
+2026-03-22 15:19:14 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 1 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=3360835391&type=song
+2026-03-22 15:19:15 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 2 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=3360835391&type=song
+2026-03-22 15:19:15 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 2 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=3360835391&type=song
+2026-03-22 15:19:17 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 3 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=3360835391&type=song
+2026-03-22 15:19:17 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 3 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=3360835391&type=song
+2026-03-22 15:19:17 | ERROR    | src.core.base_crawler:_make_request:49 | All retries failed for https://api.paugram.com/netease/comment/?id=3360835391&type=song
+2026-03-22 15:19:17 | ERROR    | src.core.base_crawler:_make_request:49 | All retries failed for https://api.paugram.com/netease/comment/?id=3360835391&type=song
+2026-03-22 15:19:17 | WARNING  | src.platforms.netease.crawler:get_comments:209 | No comments found for song 3360835391 from any endpoint
+2026-03-22 15:19:17 | WARNING  | src.platforms.netease.crawler:get_comments:209 | No comments found for song 3360835391 from any endpoint
+2026-03-22 15:19:17 | INFO     | src.platforms.netease.crawler:search_and_get_comments:244 |   -> No comments found for 笔尖幻想 Pen-Point Fantasy
+2026-03-22 15:19:17 | INFO     | src.platforms.netease.crawler:search_and_get_comments:244 |   -> No comments found for 笔尖幻想 Pen-Point Fantasy
+2026-03-22 15:19:18 | INFO     | src.platforms.netease.crawler:search_and_get_comments:222 | Processing 4/10: 不眠之夜
+2026-03-22 15:19:18 | INFO     | src.platforms.netease.crawler:search_and_get_comments:222 | Processing 4/10: 不眠之夜
+2026-03-22 15:19:18 | INFO     | src.platforms.netease.crawler:get_comments:147 | Getting comments for song ID: 2122308127
+2026-03-22 15:19:18 | INFO     | src.platforms.netease.crawler:get_comments:147 | Getting comments for song ID: 2122308127
+2026-03-22 15:19:20 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 1 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=2122308127&type=song
+2026-03-22 15:19:20 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 1 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=2122308127&type=song
+2026-03-22 15:19:21 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 2 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=2122308127&type=song
+2026-03-22 15:19:21 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 2 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=2122308127&type=song
+2026-03-22 15:19:23 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 3 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=2122308127&type=song
+2026-03-22 15:19:23 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 3 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=2122308127&type=song
+2026-03-22 15:19:23 | ERROR    | src.core.base_crawler:_make_request:49 | All retries failed for https://api.paugram.com/netease/comment/?id=2122308127&type=song
+2026-03-22 15:19:23 | ERROR    | src.core.base_crawler:_make_request:49 | All retries failed for https://api.paugram.com/netease/comment/?id=2122308127&type=song
+2026-03-22 15:19:23 | WARNING  | src.platforms.netease.crawler:get_comments:209 | No comments found for song 2122308127 from any endpoint
+2026-03-22 15:19:23 | WARNING  | src.platforms.netease.crawler:get_comments:209 | No comments found for song 2122308127 from any endpoint
+2026-03-22 15:19:23 | INFO     | src.platforms.netease.crawler:search_and_get_comments:244 |   -> No comments found for 不眠之夜
+2026-03-22 15:19:23 | INFO     | src.platforms.netease.crawler:search_and_get_comments:244 |   -> No comments found for 不眠之夜
+2026-03-22 15:19:24 | INFO     | src.platforms.netease.crawler:search_and_get_comments:222 | Processing 5/10: 轻涟 La vaguelette
+2026-03-22 15:19:24 | INFO     | src.platforms.netease.crawler:search_and_get_comments:222 | Processing 5/10: 轻涟 La vaguelette
+2026-03-22 15:19:24 | INFO     | src.platforms.netease.crawler:get_comments:147 | Getting comments for song ID: 2100334024
+2026-03-22 15:19:24 | INFO     | src.platforms.netease.crawler:get_comments:147 | Getting comments for song ID: 2100334024
+2026-03-22 15:19:26 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 1 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=2100334024&type=song
+2026-03-22 15:19:26 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 1 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=2100334024&type=song
+2026-03-22 15:19:27 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 2 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=2100334024&type=song
+2026-03-22 15:19:27 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 2 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=2100334024&type=song
+2026-03-22 15:19:29 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 3 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=2100334024&type=song
+2026-03-22 15:19:29 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 3 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=2100334024&type=song
+2026-03-22 15:19:29 | ERROR    | src.core.base_crawler:_make_request:49 | All retries failed for https://api.paugram.com/netease/comment/?id=2100334024&type=song
+2026-03-22 15:19:29 | ERROR    | src.core.base_crawler:_make_request:49 | All retries failed for https://api.paugram.com/netease/comment/?id=2100334024&type=song
+2026-03-22 15:19:29 | WARNING  | src.platforms.netease.crawler:get_comments:209 | No comments found for song 2100334024 from any endpoint
+2026-03-22 15:19:29 | WARNING  | src.platforms.netease.crawler:get_comments:209 | No comments found for song 2100334024 from any endpoint
+2026-03-22 15:19:29 | INFO     | src.platforms.netease.crawler:search_and_get_comments:244 |   -> No comments found for 轻涟 La vaguelette
+2026-03-22 15:19:29 | INFO     | src.platforms.netease.crawler:search_and_get_comments:244 |   -> No comments found for 轻涟 La vaguelette
+2026-03-22 15:19:30 | INFO     | src.platforms.netease.crawler:search_and_get_comments:222 | Processing 6/10: 耀斑
+2026-03-22 15:19:30 | INFO     | src.platforms.netease.crawler:search_and_get_comments:222 | Processing 6/10: 耀斑
+2026-03-22 15:19:30 | INFO     | src.platforms.netease.crawler:get_comments:147 | Getting comments for song ID: 2722510685
+2026-03-22 15:19:30 | INFO     | src.platforms.netease.crawler:get_comments:147 | Getting comments for song ID: 2722510685
+2026-03-22 15:19:32 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 1 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=2722510685&type=song
+2026-03-22 15:19:32 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 1 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=2722510685&type=song
+2026-03-22 15:19:33 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 2 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=2722510685&type=song
+2026-03-22 15:19:33 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 2 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=2722510685&type=song
+2026-03-22 15:19:35 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 3 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=2722510685&type=song
+2026-03-22 15:19:35 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 3 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=2722510685&type=song
+2026-03-22 15:19:35 | ERROR    | src.core.base_crawler:_make_request:49 | All retries failed for https://api.paugram.com/netease/comment/?id=2722510685&type=song
+2026-03-22 15:19:35 | ERROR    | src.core.base_crawler:_make_request:49 | All retries failed for https://api.paugram.com/netease/comment/?id=2722510685&type=song
+2026-03-22 15:19:35 | WARNING  | src.platforms.netease.crawler:get_comments:209 | No comments found for song 2722510685 from any endpoint
+2026-03-22 15:19:35 | WARNING  | src.platforms.netease.crawler:get_comments:209 | No comments found for song 2722510685 from any endpoint
+2026-03-22 15:19:35 | INFO     | src.platforms.netease.crawler:search_and_get_comments:244 |   -> No comments found for 耀斑
+2026-03-22 15:19:35 | INFO     | src.platforms.netease.crawler:search_and_get_comments:244 |   -> No comments found for 耀斑
+2026-03-22 15:19:36 | INFO     | src.platforms.netease.crawler:search_and_get_comments:222 | Processing 7/10: 日冕 Coronal Radiance
+2026-03-22 15:19:36 | INFO     | src.platforms.netease.crawler:search_and_get_comments:222 | Processing 7/10: 日冕 Coronal Radiance
+2026-03-22 15:19:36 | INFO     | src.platforms.netease.crawler:get_comments:147 | Getting comments for song ID: 3334058000
+2026-03-22 15:19:36 | INFO     | src.platforms.netease.crawler:get_comments:147 | Getting comments for song ID: 3334058000
+2026-03-22 15:19:37 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 1 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=3334058000&type=song
+2026-03-22 15:19:37 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 1 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=3334058000&type=song
+2026-03-22 15:19:39 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 2 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=3334058000&type=song
+2026-03-22 15:19:39 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 2 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=3334058000&type=song
+2026-03-22 15:19:41 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 3 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=3334058000&type=song
+2026-03-22 15:19:41 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 3 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=3334058000&type=song
+2026-03-22 15:19:41 | ERROR    | src.core.base_crawler:_make_request:49 | All retries failed for https://api.paugram.com/netease/comment/?id=3334058000&type=song
+2026-03-22 15:19:41 | ERROR    | src.core.base_crawler:_make_request:49 | All retries failed for https://api.paugram.com/netease/comment/?id=3334058000&type=song
+2026-03-22 15:19:41 | WARNING  | src.platforms.netease.crawler:get_comments:209 | No comments found for song 3334058000 from any endpoint
+2026-03-22 15:19:41 | WARNING  | src.platforms.netease.crawler:get_comments:209 | No comments found for song 3334058000 from any endpoint
+2026-03-22 15:19:41 | INFO     | src.platforms.netease.crawler:search_and_get_comments:244 |   -> No comments found for 日冕 Coronal Radiance
+2026-03-22 15:19:41 | INFO     | src.platforms.netease.crawler:search_and_get_comments:244 |   -> No comments found for 日冕 Coronal Radiance
+2026-03-22 15:19:42 | INFO     | src.platforms.netease.crawler:search_and_get_comments:222 | Processing 8/10: 全城通缉 Most Wanted
+2026-03-22 15:19:42 | INFO     | src.platforms.netease.crawler:search_and_get_comments:222 | Processing 8/10: 全城通缉 Most Wanted
+2026-03-22 15:19:42 | INFO     | src.platforms.netease.crawler:get_comments:147 | Getting comments for song ID: 3360834538
+2026-03-22 15:19:42 | INFO     | src.platforms.netease.crawler:get_comments:147 | Getting comments for song ID: 3360834538
+2026-03-22 15:19:43 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 1 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=3360834538&type=song
+2026-03-22 15:19:43 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 1 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=3360834538&type=song
+2026-03-22 15:19:45 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 2 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=3360834538&type=song
+2026-03-22 15:19:45 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 2 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=3360834538&type=song
+2026-03-22 15:19:47 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 3 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=3360834538&type=song
+2026-03-22 15:19:47 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 3 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=3360834538&type=song
+2026-03-22 15:19:47 | ERROR    | src.core.base_crawler:_make_request:49 | All retries failed for https://api.paugram.com/netease/comment/?id=3360834538&type=song
+2026-03-22 15:19:47 | ERROR    | src.core.base_crawler:_make_request:49 | All retries failed for https://api.paugram.com/netease/comment/?id=3360834538&type=song
+2026-03-22 15:19:47 | WARNING  | src.platforms.netease.crawler:get_comments:209 | No comments found for song 3360834538 from any endpoint
+2026-03-22 15:19:47 | WARNING  | src.platforms.netease.crawler:get_comments:209 | No comments found for song 3360834538 from any endpoint
+2026-03-22 15:19:47 | INFO     | src.platforms.netease.crawler:search_and_get_comments:244 |   -> No comments found for 全城通缉 Most Wanted
+2026-03-22 15:19:47 | INFO     | src.platforms.netease.crawler:search_and_get_comments:244 |   -> No comments found for 全城通缉 Most Wanted
+2026-03-22 15:19:48 | INFO     | src.platforms.netease.crawler:search_and_get_comments:222 | Processing 9/10: 星间旅行 Interstellar Journey (英文版)
+2026-03-22 15:19:48 | INFO     | src.platforms.netease.crawler:search_and_get_comments:222 | Processing 9/10: 星间旅行 Interstellar Journey (英文版)
+2026-03-22 15:19:48 | INFO     | src.platforms.netease.crawler:get_comments:147 | Getting comments for song ID: 2043177706
+2026-03-22 15:19:48 | INFO     | src.platforms.netease.crawler:get_comments:147 | Getting comments for song ID: 2043177706
+2026-03-22 15:19:49 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 1 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=2043177706&type=song
+2026-03-22 15:19:49 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 1 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=2043177706&type=song
+2026-03-22 15:19:51 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 2 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=2043177706&type=song
+2026-03-22 15:19:51 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 2 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=2043177706&type=song
+2026-03-22 15:19:53 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 3 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=2043177706&type=song
+2026-03-22 15:19:53 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 3 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=2043177706&type=song
+2026-03-22 15:19:53 | ERROR    | src.core.base_crawler:_make_request:49 | All retries failed for https://api.paugram.com/netease/comment/?id=2043177706&type=song
+2026-03-22 15:19:53 | ERROR    | src.core.base_crawler:_make_request:49 | All retries failed for https://api.paugram.com/netease/comment/?id=2043177706&type=song
+2026-03-22 15:19:53 | WARNING  | src.platforms.netease.crawler:get_comments:209 | No comments found for song 2043177706 from any endpoint
+2026-03-22 15:19:53 | WARNING  | src.platforms.netease.crawler:get_comments:209 | No comments found for song 2043177706 from any endpoint
+2026-03-22 15:19:53 | INFO     | src.platforms.netease.crawler:search_and_get_comments:244 |   -> No comments found for 星间旅行 Interstellar Journey (英文版)
+2026-03-22 15:19:53 | INFO     | src.platforms.netease.crawler:search_and_get_comments:244 |   -> No comments found for 星间旅行 Interstellar Journey (英文版)
+2026-03-22 15:19:54 | INFO     | src.platforms.netease.crawler:search_and_get_comments:222 | Processing 10/10: 完美偶像 Perfect Idol
+2026-03-22 15:19:54 | INFO     | src.platforms.netease.crawler:search_and_get_comments:222 | Processing 10/10: 完美偶像 Perfect Idol
+2026-03-22 15:19:54 | INFO     | src.platforms.netease.crawler:get_comments:147 | Getting comments for song ID: 3360835405
+2026-03-22 15:19:54 | INFO     | src.platforms.netease.crawler:get_comments:147 | Getting comments for song ID: 3360835405
+2026-03-22 15:19:55 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 1 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=3360835405&type=song
+2026-03-22 15:19:55 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 1 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=3360835405&type=song
+2026-03-22 15:19:56 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 2 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=3360835405&type=song
+2026-03-22 15:19:56 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 2 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=3360835405&type=song
+2026-03-22 15:19:59 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 3 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=3360835405&type=song
+2026-03-22 15:19:59 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 3 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=3360835405&type=song
+2026-03-22 15:19:59 | ERROR    | src.core.base_crawler:_make_request:49 | All retries failed for https://api.paugram.com/netease/comment/?id=3360835405&type=song
+2026-03-22 15:19:59 | ERROR    | src.core.base_crawler:_make_request:49 | All retries failed for https://api.paugram.com/netease/comment/?id=3360835405&type=song
+2026-03-22 15:19:59 | WARNING  | src.platforms.netease.crawler:get_comments:209 | No comments found for song 3360835405 from any endpoint
+2026-03-22 15:19:59 | WARNING  | src.platforms.netease.crawler:get_comments:209 | No comments found for song 3360835405 from any endpoint
+2026-03-22 15:19:59 | INFO     | src.platforms.netease.crawler:search_and_get_comments:244 |   -> No comments found for 完美偶像 Perfect Idol
+2026-03-22 15:19:59 | INFO     | src.platforms.netease.crawler:search_and_get_comments:244 |   -> No comments found for 完美偶像 Perfect Idol
+2026-03-22 15:20:00 | INFO     | src.platforms.netease.crawler:search_and_get_comments:248 | Completed. Processed 0 songs with comments
+2026-03-22 15:20:00 | INFO     | src.platforms.netease.crawler:search_and_get_comments:248 | Completed. Processed 0 songs with comments
+2026-03-22 15:20:00 | WARNING  | __main__:main:52 | No results found
+2026-03-22 15:20:00 | WARNING  | __main__:main:52 | No results found
+2026-03-22 15:25:39 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 15:25:39 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 15:25:39 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 15:25:39 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 15:25:39 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 15:25:39 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 15:25:39 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 15:25:39 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 15:25:39 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 15:25:39 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 15:25:39 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 15:25:39 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 15:25:39 | INFO     | __main__:main:33 | ==================================================
+2026-03-22 15:25:39 | INFO     | __main__:main:33 | ==================================================
+2026-03-22 15:25:39 | INFO     | __main__:main:34 | Netease Music Crawler Started
+2026-03-22 15:25:39 | INFO     | __main__:main:34 | Netease Music Crawler Started
+2026-03-22 15:25:39 | INFO     | __main__:main:35 | Keyword: mihoyo
+2026-03-22 15:25:39 | INFO     | __main__:main:35 | Keyword: mihoyo
+2026-03-22 15:25:39 | INFO     | __main__:main:36 | Max songs: 5
+2026-03-22 15:25:39 | INFO     | __main__:main:36 | Max songs: 5
+2026-03-22 15:25:39 | INFO     | __main__:main:37 | Comments per song: 10
+2026-03-22 15:25:39 | INFO     | __main__:main:37 | Comments per song: 10
+2026-03-22 15:25:39 | INFO     | __main__:main:38 | ==================================================
+2026-03-22 15:25:39 | INFO     | __main__:main:38 | ==================================================
+2026-03-22 15:25:39 | INFO     | src.core.base_crawler:__init__:31 | Crawler initialized: NeteaseCrawler
+2026-03-22 15:25:39 | INFO     | src.core.base_crawler:__init__:31 | Crawler initialized: NeteaseCrawler
+2026-03-22 15:25:39 | INFO     | src.platforms.netease.crawler:__init__:26 | NeteaseCrawler initialized
+2026-03-22 15:25:39 | INFO     | src.platforms.netease.crawler:__init__:26 | NeteaseCrawler initialized
+2026-03-22 15:25:39 | INFO     | __main__:main:48 | Starting search and comment extraction...
+2026-03-22 15:25:39 | INFO     | __main__:main:48 | Starting search and comment extraction...
+2026-03-22 15:25:39 | INFO     | src.platforms.netease.crawler:search:97 | Searching for: mihoyo
+2026-03-22 15:25:39 | INFO     | src.platforms.netease.crawler:search:97 | Searching for: mihoyo
+2026-03-22 15:25:40 | INFO     | src.platforms.netease.crawler:search:136 | Found 5 songs
+2026-03-22 15:25:40 | INFO     | src.platforms.netease.crawler:search:136 | Found 5 songs
+2026-03-22 15:25:40 | INFO     | src.platforms.netease.crawler:search_and_get_comments:222 | Processing 1/5: 痴人说梦
+2026-03-22 15:25:40 | INFO     | src.platforms.netease.crawler:search_and_get_comments:222 | Processing 1/5: 痴人说梦
+2026-03-22 15:25:40 | INFO     | src.platforms.netease.crawler:get_comments:147 | Getting comments for song ID: 3357230091
+2026-03-22 15:25:40 | INFO     | src.platforms.netease.crawler:get_comments:147 | Getting comments for song ID: 3357230091
+2026-03-22 15:25:45 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 1 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=3357230091&type=song
+2026-03-22 15:25:45 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 1 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=3357230091&type=song
+2026-03-22 15:25:46 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 2 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=3357230091&type=song
+2026-03-22 15:25:46 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 2 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=3357230091&type=song
+2026-03-22 15:25:48 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 3 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=3357230091&type=song
+2026-03-22 15:25:48 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 3 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=3357230091&type=song
+2026-03-22 15:25:48 | ERROR    | src.core.base_crawler:_make_request:49 | All retries failed for https://api.paugram.com/netease/comment/?id=3357230091&type=song
+2026-03-22 15:25:48 | ERROR    | src.core.base_crawler:_make_request:49 | All retries failed for https://api.paugram.com/netease/comment/?id=3357230091&type=song
+2026-03-22 15:25:48 | WARNING  | src.platforms.netease.crawler:get_comments:209 | No comments found for song 3357230091 from any endpoint
+2026-03-22 15:25:48 | WARNING  | src.platforms.netease.crawler:get_comments:209 | No comments found for song 3357230091 from any endpoint
+2026-03-22 15:25:48 | INFO     | src.platforms.netease.crawler:search_and_get_comments:244 |   -> No comments found for 痴人说梦
+2026-03-22 15:25:48 | INFO     | src.platforms.netease.crawler:search_and_get_comments:244 |   -> No comments found for 痴人说梦
+2026-03-22 15:25:49 | INFO     | src.platforms.netease.crawler:search_and_get_comments:222 | Processing 2/5: 挪德卡莱 Nod-Krai
+2026-03-22 15:25:49 | INFO     | src.platforms.netease.crawler:search_and_get_comments:222 | Processing 2/5: 挪德卡莱 Nod-Krai
+2026-03-22 15:25:49 | INFO     | src.platforms.netease.crawler:get_comments:147 | Getting comments for song ID: 2756019200
+2026-03-22 15:25:49 | INFO     | src.platforms.netease.crawler:get_comments:147 | Getting comments for song ID: 2756019200
+2026-03-22 15:25:51 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 1 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=2756019200&type=song
+2026-03-22 15:25:51 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 1 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=2756019200&type=song
+2026-03-22 15:25:52 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 2 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=2756019200&type=song
+2026-03-22 15:25:52 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 2 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=2756019200&type=song
+2026-03-22 15:25:54 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 3 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=2756019200&type=song
+2026-03-22 15:25:54 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 3 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=2756019200&type=song
+2026-03-22 15:25:54 | ERROR    | src.core.base_crawler:_make_request:49 | All retries failed for https://api.paugram.com/netease/comment/?id=2756019200&type=song
+2026-03-22 15:25:54 | ERROR    | src.core.base_crawler:_make_request:49 | All retries failed for https://api.paugram.com/netease/comment/?id=2756019200&type=song
+2026-03-22 15:25:54 | WARNING  | src.platforms.netease.crawler:get_comments:209 | No comments found for song 2756019200 from any endpoint
+2026-03-22 15:25:54 | WARNING  | src.platforms.netease.crawler:get_comments:209 | No comments found for song 2756019200 from any endpoint
+2026-03-22 15:25:54 | INFO     | src.platforms.netease.crawler:search_and_get_comments:244 |   -> No comments found for 挪德卡莱 Nod-Krai
+2026-03-22 15:25:54 | INFO     | src.platforms.netease.crawler:search_and_get_comments:244 |   -> No comments found for 挪德卡莱 Nod-Krai
+2026-03-22 15:25:55 | INFO     | src.platforms.netease.crawler:search_and_get_comments:222 | Processing 3/5: 笔尖幻想 Pen-Point Fantasy
+2026-03-22 15:25:55 | INFO     | src.platforms.netease.crawler:search_and_get_comments:222 | Processing 3/5: 笔尖幻想 Pen-Point Fantasy
+2026-03-22 15:25:55 | INFO     | src.platforms.netease.crawler:get_comments:147 | Getting comments for song ID: 3360835391
+2026-03-22 15:25:55 | INFO     | src.platforms.netease.crawler:get_comments:147 | Getting comments for song ID: 3360835391
+2026-03-22 15:25:57 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 1 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=3360835391&type=song
+2026-03-22 15:25:57 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 1 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=3360835391&type=song
+2026-03-22 15:25:58 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 2 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=3360835391&type=song
+2026-03-22 15:25:58 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 2 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=3360835391&type=song
+2026-03-22 15:26:01 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 3 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=3360835391&type=song
+2026-03-22 15:26:01 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 3 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=3360835391&type=song
+2026-03-22 15:26:01 | ERROR    | src.core.base_crawler:_make_request:49 | All retries failed for https://api.paugram.com/netease/comment/?id=3360835391&type=song
+2026-03-22 15:26:01 | ERROR    | src.core.base_crawler:_make_request:49 | All retries failed for https://api.paugram.com/netease/comment/?id=3360835391&type=song
+2026-03-22 15:26:01 | WARNING  | src.platforms.netease.crawler:get_comments:209 | No comments found for song 3360835391 from any endpoint
+2026-03-22 15:26:01 | WARNING  | src.platforms.netease.crawler:get_comments:209 | No comments found for song 3360835391 from any endpoint
+2026-03-22 15:26:01 | INFO     | src.platforms.netease.crawler:search_and_get_comments:244 |   -> No comments found for 笔尖幻想 Pen-Point Fantasy
+2026-03-22 15:26:01 | INFO     | src.platforms.netease.crawler:search_and_get_comments:244 |   -> No comments found for 笔尖幻想 Pen-Point Fantasy
+2026-03-22 15:26:02 | INFO     | src.platforms.netease.crawler:search_and_get_comments:222 | Processing 4/5: 不眠之夜
+2026-03-22 15:26:02 | INFO     | src.platforms.netease.crawler:search_and_get_comments:222 | Processing 4/5: 不眠之夜
+2026-03-22 15:26:02 | INFO     | src.platforms.netease.crawler:get_comments:147 | Getting comments for song ID: 2122308127
+2026-03-22 15:26:02 | INFO     | src.platforms.netease.crawler:get_comments:147 | Getting comments for song ID: 2122308127
+2026-03-22 15:26:04 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 1 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=2122308127&type=song
+2026-03-22 15:26:04 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 1 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=2122308127&type=song
+2026-03-22 15:26:05 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 2 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=2122308127&type=song
+2026-03-22 15:26:05 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 2 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=2122308127&type=song
+2026-03-22 15:26:07 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 3 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=2122308127&type=song
+2026-03-22 15:26:07 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 3 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=2122308127&type=song
+2026-03-22 15:26:07 | ERROR    | src.core.base_crawler:_make_request:49 | All retries failed for https://api.paugram.com/netease/comment/?id=2122308127&type=song
+2026-03-22 15:26:07 | ERROR    | src.core.base_crawler:_make_request:49 | All retries failed for https://api.paugram.com/netease/comment/?id=2122308127&type=song
+2026-03-22 15:26:07 | WARNING  | src.platforms.netease.crawler:get_comments:209 | No comments found for song 2122308127 from any endpoint
+2026-03-22 15:26:07 | WARNING  | src.platforms.netease.crawler:get_comments:209 | No comments found for song 2122308127 from any endpoint
+2026-03-22 15:26:07 | INFO     | src.platforms.netease.crawler:search_and_get_comments:244 |   -> No comments found for 不眠之夜
+2026-03-22 15:26:07 | INFO     | src.platforms.netease.crawler:search_and_get_comments:244 |   -> No comments found for 不眠之夜
+2026-03-22 15:26:08 | INFO     | src.platforms.netease.crawler:search_and_get_comments:222 | Processing 5/5: 轻涟 La vaguelette
+2026-03-22 15:26:08 | INFO     | src.platforms.netease.crawler:search_and_get_comments:222 | Processing 5/5: 轻涟 La vaguelette
+2026-03-22 15:26:08 | INFO     | src.platforms.netease.crawler:get_comments:147 | Getting comments for song ID: 2100334024
+2026-03-22 15:26:08 | INFO     | src.platforms.netease.crawler:get_comments:147 | Getting comments for song ID: 2100334024
+2026-03-22 15:26:10 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 1 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=2100334024&type=song
+2026-03-22 15:26:10 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 1 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=2100334024&type=song
+2026-03-22 15:26:11 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 2 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=2100334024&type=song
+2026-03-22 15:26:11 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 2 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=2100334024&type=song
+2026-03-22 15:26:13 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 3 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=2100334024&type=song
+2026-03-22 15:26:13 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 3 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=2100334024&type=song
+2026-03-22 15:26:13 | ERROR    | src.core.base_crawler:_make_request:49 | All retries failed for https://api.paugram.com/netease/comment/?id=2100334024&type=song
+2026-03-22 15:26:13 | ERROR    | src.core.base_crawler:_make_request:49 | All retries failed for https://api.paugram.com/netease/comment/?id=2100334024&type=song
+2026-03-22 15:26:13 | WARNING  | src.platforms.netease.crawler:get_comments:209 | No comments found for song 2100334024 from any endpoint
+2026-03-22 15:26:13 | WARNING  | src.platforms.netease.crawler:get_comments:209 | No comments found for song 2100334024 from any endpoint
+2026-03-22 15:26:13 | INFO     | src.platforms.netease.crawler:search_and_get_comments:244 |   -> No comments found for 轻涟 La vaguelette
+2026-03-22 15:26:13 | INFO     | src.platforms.netease.crawler:search_and_get_comments:244 |   -> No comments found for 轻涟 La vaguelette
+2026-03-22 15:26:14 | INFO     | src.platforms.netease.crawler:search_and_get_comments:248 | Completed. Processed 0 songs with comments
+2026-03-22 15:26:14 | INFO     | src.platforms.netease.crawler:search_and_get_comments:248 | Completed. Processed 0 songs with comments
+2026-03-22 15:26:14 | WARNING  | __main__:main:52 | No results found
+2026-03-22 15:26:14 | WARNING  | __main__:main:52 | No results found
+2026-03-22 20:16:36 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 20:16:36 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 20:16:36 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 20:16:36 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 20:16:45 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 20:16:45 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 20:16:45 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 20:16:45 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 20:16:45 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 20:16:45 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 20:16:45 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 20:16:45 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 20:16:45 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 20:16:45 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 20:16:45 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 20:16:45 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 20:16:45 | INFO     | __main__:main:33 | ==================================================
+2026-03-22 20:16:45 | INFO     | __main__:main:33 | ==================================================
+2026-03-22 20:16:45 | INFO     | __main__:main:34 | Netease Music Crawler Started
+2026-03-22 20:16:45 | INFO     | __main__:main:34 | Netease Music Crawler Started
+2026-03-22 20:16:45 | INFO     | __main__:main:35 | Keyword: test
+2026-03-22 20:16:45 | INFO     | __main__:main:35 | Keyword: test
+2026-03-22 20:16:45 | INFO     | __main__:main:36 | Max songs: 2
+2026-03-22 20:16:45 | INFO     | __main__:main:36 | Max songs: 2
+2026-03-22 20:16:45 | INFO     | __main__:main:37 | Comments per song: 10
+2026-03-22 20:16:45 | INFO     | __main__:main:37 | Comments per song: 10
+2026-03-22 20:16:45 | INFO     | __main__:main:38 | ==================================================
+2026-03-22 20:16:45 | INFO     | __main__:main:38 | ==================================================
+2026-03-22 20:16:45 | INFO     | src.core.base_crawler:__init__:31 | Crawler initialized: NeteaseCrawler
+2026-03-22 20:16:45 | INFO     | src.core.base_crawler:__init__:31 | Crawler initialized: NeteaseCrawler
+2026-03-22 20:16:45 | INFO     | src.platforms.netease.crawler:__init__:26 | NeteaseCrawler initialized
+2026-03-22 20:16:45 | INFO     | src.platforms.netease.crawler:__init__:26 | NeteaseCrawler initialized
+2026-03-22 20:16:45 | INFO     | __main__:main:48 | Starting search and comment extraction...
+2026-03-22 20:16:45 | INFO     | __main__:main:48 | Starting search and comment extraction...
+2026-03-22 20:16:45 | INFO     | src.platforms.netease.crawler:search:97 | Searching for: test
+2026-03-22 20:16:45 | INFO     | src.platforms.netease.crawler:search:97 | Searching for: test
+2026-03-22 20:16:45 | INFO     | src.platforms.netease.crawler:search:136 | Found 2 songs
+2026-03-22 20:16:45 | INFO     | src.platforms.netease.crawler:search:136 | Found 2 songs
+2026-03-22 20:16:45 | INFO     | src.platforms.netease.crawler:search_and_get_comments:222 | Processing 1/2: TEST
+2026-03-22 20:16:45 | INFO     | src.platforms.netease.crawler:search_and_get_comments:222 | Processing 1/2: TEST
+2026-03-22 20:16:45 | INFO     | src.platforms.netease.crawler:get_comments:147 | Getting comments for song ID: 1822070830
+2026-03-22 20:16:45 | INFO     | src.platforms.netease.crawler:get_comments:147 | Getting comments for song ID: 1822070830
+2026-03-22 20:16:50 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 1 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=1822070830&type=song
+2026-03-22 20:16:50 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 1 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=1822070830&type=song
+2026-03-22 20:16:51 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 2 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=1822070830&type=song
+2026-03-22 20:16:51 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 2 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=1822070830&type=song
+2026-03-22 20:16:53 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 3 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=1822070830&type=song
+2026-03-22 20:16:53 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 3 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=1822070830&type=song
+2026-03-22 20:16:53 | ERROR    | src.core.base_crawler:_make_request:49 | All retries failed for https://api.paugram.com/netease/comment/?id=1822070830&type=song
+2026-03-22 20:16:53 | ERROR    | src.core.base_crawler:_make_request:49 | All retries failed for https://api.paugram.com/netease/comment/?id=1822070830&type=song
+2026-03-22 20:16:53 | WARNING  | src.platforms.netease.crawler:get_comments:209 | No comments found for song 1822070830 from any endpoint
+2026-03-22 20:16:53 | WARNING  | src.platforms.netease.crawler:get_comments:209 | No comments found for song 1822070830 from any endpoint
+2026-03-22 20:16:53 | INFO     | src.platforms.netease.crawler:search_and_get_comments:244 |   -> No comments found for TEST
+2026-03-22 20:16:53 | INFO     | src.platforms.netease.crawler:search_and_get_comments:244 |   -> No comments found for TEST
+2026-03-22 20:16:54 | INFO     | src.platforms.netease.crawler:search_and_get_comments:222 | Processing 2/2: Test
+2026-03-22 20:16:54 | INFO     | src.platforms.netease.crawler:search_and_get_comments:222 | Processing 2/2: Test
+2026-03-22 20:16:54 | INFO     | src.platforms.netease.crawler:get_comments:147 | Getting comments for song ID: 3352297324
+2026-03-22 20:16:54 | INFO     | src.platforms.netease.crawler:get_comments:147 | Getting comments for song ID: 3352297324
+2026-03-22 20:16:56 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 1 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=3352297324&type=song
+2026-03-22 20:16:56 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 1 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=3352297324&type=song
+2026-03-22 20:16:57 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 2 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=3352297324&type=song
+2026-03-22 20:16:57 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 2 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=3352297324&type=song
+2026-03-22 20:16:59 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 3 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=3352297324&type=song
+2026-03-22 20:16:59 | WARNING  | src.core.base_crawler:_make_request:47 | Attempt 3 failed: 404 Client Error: Not Found for url: https://api.paugram.com/netease/comment/?id=3352297324&type=song
+2026-03-22 20:16:59 | ERROR    | src.core.base_crawler:_make_request:49 | All retries failed for https://api.paugram.com/netease/comment/?id=3352297324&type=song
+2026-03-22 20:16:59 | ERROR    | src.core.base_crawler:_make_request:49 | All retries failed for https://api.paugram.com/netease/comment/?id=3352297324&type=song
+2026-03-22 20:16:59 | WARNING  | src.platforms.netease.crawler:get_comments:209 | No comments found for song 3352297324 from any endpoint
+2026-03-22 20:16:59 | WARNING  | src.platforms.netease.crawler:get_comments:209 | No comments found for song 3352297324 from any endpoint
+2026-03-22 20:16:59 | INFO     | src.platforms.netease.crawler:search_and_get_comments:244 |   -> No comments found for Test
+2026-03-22 20:16:59 | INFO     | src.platforms.netease.crawler:search_and_get_comments:244 |   -> No comments found for Test
+2026-03-22 20:17:00 | INFO     | src.platforms.netease.crawler:search_and_get_comments:248 | Completed. Processed 0 songs with comments
+2026-03-22 20:17:00 | INFO     | src.platforms.netease.crawler:search_and_get_comments:248 | Completed. Processed 0 songs with comments
+2026-03-22 20:17:00 | WARNING  | __main__:main:52 | No results found
+2026-03-22 20:17:00 | WARNING  | __main__:main:52 | No results found
+2026-03-22 20:25:30 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 20:25:30 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 20:25:30 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 20:25:30 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 20:25:30 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 20:25:30 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 20:25:30 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 20:25:30 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 20:25:30 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 20:25:30 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 20:25:30 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 20:25:30 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 20:25:30 | INFO     | __main__:main:34 | ==================================================
+2026-03-22 20:25:30 | INFO     | __main__:main:34 | ==================================================
+2026-03-22 20:25:30 | INFO     | __main__:main:35 | Netease Music Crawler Started
+2026-03-22 20:25:30 | INFO     | __main__:main:35 | Netease Music Crawler Started
+2026-03-22 20:25:30 | INFO     | __main__:main:36 | Keyword: test
+2026-03-22 20:25:30 | INFO     | __main__:main:36 | Keyword: test
+2026-03-22 20:25:30 | INFO     | __main__:main:37 | Max songs: 2
+2026-03-22 20:25:30 | INFO     | __main__:main:37 | Max songs: 2
+2026-03-22 20:25:30 | INFO     | __main__:main:38 | Comments per song: 10
+2026-03-22 20:25:30 | INFO     | __main__:main:38 | Comments per song: 10
+2026-03-22 20:25:30 | INFO     | __main__:main:39 | Mock mode: True
+2026-03-22 20:25:30 | INFO     | __main__:main:39 | Mock mode: True
+2026-03-22 20:25:30 | INFO     | __main__:main:40 | ==================================================
+2026-03-22 20:25:30 | INFO     | __main__:main:40 | ==================================================
+2026-03-22 20:25:30 | ERROR    | __main__:main:92 | Crawler failed: NeteaseCrawler.__init__() got an unexpected keyword argument 'use_mock'
+2026-03-22 20:25:30 | ERROR    | __main__:main:92 | Crawler failed: NeteaseCrawler.__init__() got an unexpected keyword argument 'use_mock'
+2026-03-22 20:29:27 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 20:29:27 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 20:29:27 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 20:29:27 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 20:29:27 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 20:29:27 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 20:29:27 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 20:29:27 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 20:29:27 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 20:29:27 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 20:29:27 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 20:29:27 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 20:29:27 | INFO     | __main__:main:34 | ==================================================
+2026-03-22 20:29:27 | INFO     | __main__:main:34 | ==================================================
+2026-03-22 20:29:27 | INFO     | __main__:main:35 | Netease Music Crawler Started
+2026-03-22 20:29:27 | INFO     | __main__:main:35 | Netease Music Crawler Started
+2026-03-22 20:29:27 | INFO     | __main__:main:36 | Keyword: test
+2026-03-22 20:29:27 | INFO     | __main__:main:36 | Keyword: test
+2026-03-22 20:29:27 | INFO     | __main__:main:37 | Max songs: 2
+2026-03-22 20:29:27 | INFO     | __main__:main:37 | Max songs: 2
+2026-03-22 20:29:27 | INFO     | __main__:main:38 | Comments per song: 10
+2026-03-22 20:29:27 | INFO     | __main__:main:38 | Comments per song: 10
+2026-03-22 20:29:27 | INFO     | __main__:main:39 | Mock mode: True
+2026-03-22 20:29:27 | INFO     | __main__:main:39 | Mock mode: True
+2026-03-22 20:29:27 | INFO     | __main__:main:40 | ==================================================
+2026-03-22 20:29:27 | INFO     | __main__:main:40 | ==================================================
+2026-03-22 20:29:27 | ERROR    | __main__:main:92 | Crawler failed: NeteaseCrawler.__init__() got an unexpected keyword argument 'use_mock'
+2026-03-22 20:29:27 | ERROR    | __main__:main:92 | Crawler failed: NeteaseCrawler.__init__() got an unexpected keyword argument 'use_mock'
+2026-03-22 20:32:26 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 20:32:26 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 20:32:26 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 20:32:26 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 20:32:35 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 20:32:35 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 20:32:35 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 20:32:35 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 20:32:35 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 20:32:35 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 20:32:35 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 20:32:35 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 20:32:35 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 20:32:35 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 20:32:35 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 20:32:35 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 20:32:35 | INFO     | __main__:main:34 | ==================================================
+2026-03-22 20:32:35 | INFO     | __main__:main:34 | ==================================================
+2026-03-22 20:32:35 | INFO     | __main__:main:35 | Netease Music Crawler Started
+2026-03-22 20:32:35 | INFO     | __main__:main:35 | Netease Music Crawler Started
+2026-03-22 20:32:35 | INFO     | __main__:main:36 | Keyword: test
+2026-03-22 20:32:35 | INFO     | __main__:main:36 | Keyword: test
+2026-03-22 20:32:35 | INFO     | __main__:main:37 | Max songs: 2
+2026-03-22 20:32:35 | INFO     | __main__:main:37 | Max songs: 2
+2026-03-22 20:32:35 | INFO     | __main__:main:38 | Comments per song: 3
+2026-03-22 20:32:35 | INFO     | __main__:main:38 | Comments per song: 3
+2026-03-22 20:32:35 | INFO     | __main__:main:39 | Mock mode: True
+2026-03-22 20:32:35 | INFO     | __main__:main:39 | Mock mode: True
+2026-03-22 20:32:35 | INFO     | __main__:main:40 | ==================================================
+2026-03-22 20:32:35 | INFO     | __main__:main:40 | ==================================================
+2026-03-22 20:32:35 | ERROR    | __main__:main:92 | Crawler failed: NeteaseCrawler.__init__() got an unexpected keyword argument 'use_mock'
+2026-03-22 20:32:35 | ERROR    | __main__:main:92 | Crawler failed: NeteaseCrawler.__init__() got an unexpected keyword argument 'use_mock'
+2026-03-22 20:32:50 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\scripts\..\data\logs
+2026-03-22 20:32:50 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 20:32:50 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 20:32:50 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 20:35:15 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\scripts\..\data\logs
+2026-03-22 20:35:15 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 20:35:15 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 20:35:15 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 20:35:30 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 20:35:30 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 20:35:30 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 20:35:30 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 20:35:31 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 20:35:31 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 20:35:31 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 20:35:31 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 20:35:31 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 20:35:31 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 20:35:31 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 20:35:31 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 20:35:31 | INFO     | __main__:main:34 | ==================================================
+2026-03-22 20:35:31 | INFO     | __main__:main:34 | ==================================================
+2026-03-22 20:35:31 | INFO     | __main__:main:35 | Netease Music Crawler Started
+2026-03-22 20:35:31 | INFO     | __main__:main:35 | Netease Music Crawler Started
+2026-03-22 20:35:31 | INFO     | __main__:main:36 | Keyword: test
+2026-03-22 20:35:31 | INFO     | __main__:main:36 | Keyword: test
+2026-03-22 20:35:31 | INFO     | __main__:main:37 | Max songs: 2
+2026-03-22 20:35:31 | INFO     | __main__:main:37 | Max songs: 2
+2026-03-22 20:35:31 | INFO     | __main__:main:38 | Comments per song: 3
+2026-03-22 20:35:31 | INFO     | __main__:main:38 | Comments per song: 3
+2026-03-22 20:35:31 | INFO     | __main__:main:39 | Mock mode: True
+2026-03-22 20:35:31 | INFO     | __main__:main:39 | Mock mode: True
+2026-03-22 20:35:31 | INFO     | __main__:main:40 | ==================================================
+2026-03-22 20:35:31 | INFO     | __main__:main:40 | ==================================================
+2026-03-22 20:35:31 | ERROR    | __main__:main:92 | Crawler failed: NeteaseCrawler.__init__() got an unexpected keyword argument 'use_mock'
+2026-03-22 20:35:31 | ERROR    | __main__:main:92 | Crawler failed: NeteaseCrawler.__init__() got an unexpected keyword argument 'use_mock'
+2026-03-22 20:35:54 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 20:35:54 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 20:35:54 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 20:35:54 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 20:35:54 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 20:35:54 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 20:35:54 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 20:35:54 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 20:35:54 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 20:35:54 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 20:35:54 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 20:35:54 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 20:35:54 | INFO     | __main__:main:34 | ==================================================
+2026-03-22 20:35:54 | INFO     | __main__:main:34 | ==================================================
+2026-03-22 20:35:54 | INFO     | __main__:main:35 | Netease Music Crawler Started
+2026-03-22 20:35:54 | INFO     | __main__:main:35 | Netease Music Crawler Started
+2026-03-22 20:35:54 | INFO     | __main__:main:36 | Keyword: test
+2026-03-22 20:35:54 | INFO     | __main__:main:36 | Keyword: test
+2026-03-22 20:35:54 | INFO     | __main__:main:37 | Max songs: 2
+2026-03-22 20:35:54 | INFO     | __main__:main:37 | Max songs: 2
+2026-03-22 20:35:54 | INFO     | __main__:main:38 | Comments per song: 3
+2026-03-22 20:35:54 | INFO     | __main__:main:38 | Comments per song: 3
+2026-03-22 20:35:54 | INFO     | __main__:main:39 | Mock mode: True
+2026-03-22 20:35:54 | INFO     | __main__:main:39 | Mock mode: True
+2026-03-22 20:35:54 | INFO     | __main__:main:40 | ==================================================
+2026-03-22 20:35:54 | INFO     | __main__:main:40 | ==================================================
+2026-03-22 20:35:54 | ERROR    | __main__:main:92 | Crawler failed: NeteaseCrawler.__init__() got an unexpected keyword argument 'use_mock'
+2026-03-22 20:35:54 | ERROR    | __main__:main:92 | Crawler failed: NeteaseCrawler.__init__() got an unexpected keyword argument 'use_mock'
+2026-03-22 20:38:51 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 20:38:51 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 20:38:51 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 20:38:51 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 20:38:51 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 20:38:51 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 20:38:51 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 20:38:51 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 20:38:51 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 20:38:51 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 20:38:51 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 20:38:51 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 20:38:51 | INFO     | __main__:main:34 | ==================================================
+2026-03-22 20:38:51 | INFO     | __main__:main:34 | ==================================================
+2026-03-22 20:38:51 | INFO     | __main__:main:35 | Netease Music Crawler Started
+2026-03-22 20:38:51 | INFO     | __main__:main:35 | Netease Music Crawler Started
+2026-03-22 20:38:51 | INFO     | __main__:main:36 | Keyword: test
+2026-03-22 20:38:51 | INFO     | __main__:main:36 | Keyword: test
+2026-03-22 20:38:51 | INFO     | __main__:main:37 | Max songs: 2
+2026-03-22 20:38:51 | INFO     | __main__:main:37 | Max songs: 2
+2026-03-22 20:38:51 | INFO     | __main__:main:38 | Comments per song: 3
+2026-03-22 20:38:51 | INFO     | __main__:main:38 | Comments per song: 3
+2026-03-22 20:38:51 | INFO     | __main__:main:39 | Mock mode: True
+2026-03-22 20:38:51 | INFO     | __main__:main:39 | Mock mode: True
+2026-03-22 20:38:51 | INFO     | __main__:main:40 | ==================================================
+2026-03-22 20:38:51 | INFO     | __main__:main:40 | ==================================================
+2026-03-22 20:38:51 | ERROR    | __main__:main:92 | Crawler failed: NeteaseCrawler.__init__() got an unexpected keyword argument 'use_mock'
+2026-03-22 20:38:51 | ERROR    | __main__:main:92 | Crawler failed: NeteaseCrawler.__init__() got an unexpected keyword argument 'use_mock'
+2026-03-22 20:39:11 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\scripts\..\data\logs
+2026-03-22 20:39:11 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 20:39:11 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 20:39:11 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 20:39:51 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 20:39:51 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 20:39:51 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 20:39:51 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 20:40:25 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 20:40:25 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 20:40:25 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 20:40:25 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 20:40:52 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 20:40:52 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 20:40:52 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 20:40:52 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 20:43:08 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 20:43:08 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 20:43:08 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 20:43:08 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 20:43:08 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 20:43:08 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 20:43:08 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 20:43:08 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 20:43:08 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 20:43:08 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 20:43:08 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 20:43:08 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 20:43:08 | INFO     | __main__:main:34 | ==================================================
+2026-03-22 20:43:08 | INFO     | __main__:main:34 | ==================================================
+2026-03-22 20:43:08 | INFO     | __main__:main:35 | Netease Music Crawler Started
+2026-03-22 20:43:08 | INFO     | __main__:main:35 | Netease Music Crawler Started
+2026-03-22 20:43:08 | INFO     | __main__:main:36 | Keyword: test
+2026-03-22 20:43:08 | INFO     | __main__:main:36 | Keyword: test
+2026-03-22 20:43:08 | INFO     | __main__:main:37 | Max songs: 2
+2026-03-22 20:43:08 | INFO     | __main__:main:37 | Max songs: 2
+2026-03-22 20:43:08 | INFO     | __main__:main:38 | Comments per song: 3
+2026-03-22 20:43:08 | INFO     | __main__:main:38 | Comments per song: 3
+2026-03-22 20:43:08 | INFO     | __main__:main:39 | Mock mode: True
+2026-03-22 20:43:08 | INFO     | __main__:main:39 | Mock mode: True
+2026-03-22 20:43:08 | INFO     | __main__:main:40 | ==================================================
+2026-03-22 20:43:08 | INFO     | __main__:main:40 | ==================================================
+2026-03-22 20:43:08 | ERROR    | __main__:main:92 | Crawler failed: NeteaseCrawler.__init__() got an unexpected keyword argument 'use_mock'
+2026-03-22 20:43:08 | ERROR    | __main__:main:92 | Crawler failed: NeteaseCrawler.__init__() got an unexpected keyword argument 'use_mock'
+2026-03-22 20:43:24 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 20:43:24 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 20:43:24 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 20:43:24 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 20:45:36 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 20:45:36 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 20:45:36 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 20:45:36 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 20:45:36 | INFO     | src.core.base_crawler:__init__:31 | Crawler initialized: NeteaseCrawler
+2026-03-22 20:45:36 | INFO     | src.platforms.netease.crawler:__init__:26 | NeteaseCrawler initialized
+2026-03-22 20:47:33 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 20:47:33 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 20:47:33 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 20:47:33 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 20:47:33 | INFO     | src.core.base_crawler:__init__:31 | Crawler initialized: NeteaseCrawlerFixed
+2026-03-22 20:47:33 | INFO     | src.platforms.netease.crawler_fixed:__init__:29 | NeteaseCrawler initialized (mock mode: True)
+2026-03-22 20:50:49 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 20:50:49 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 20:50:49 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 20:50:49 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log

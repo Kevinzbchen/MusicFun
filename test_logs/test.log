@@ -1,0 +1,10 @@
+2026-03-22 13:14:02 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: test_logs
+2026-03-22 13:14:02 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 13:14:02 | INFO     | src.core.logger:setup_logger:128 | Log file: test.log
+2026-03-22 13:14:02 | INFO     | src.core.logger:setup_logger:129 | Error file: test_error.log
+2026-03-22 13:14:02 | INFO     | __main__:<module>:46 | Test info message from logger
+2026-03-22 13:14:02 | WARNING  | __main__:<module>:47 | Test warning message
+2026-03-22 13:14:02 | ERROR    | src.core.logger:log_exception:190 | Data parsing failed | Context: file=data.json, line=42
+2026-03-22 13:14:02 | ERROR    | src.core.logger:log_exception:191 | Exception details: [PARSE_ERROR] Parse error for json data: Invalid JSON format (data: {invalid json})
+2026-03-22 13:14:02 | ERROR    | src.core.logger:log_exception:194 | Exception traceback:
+src.core.exceptions.ParseError: [PARSE_ERROR] Parse error for json data: Invalid JSON format (data: {invalid json})

@@ -1,0 +1,4 @@
+2026-03-22 13:14:02 | ERROR    | src.core.logger:log_exception:190 | Data parsing failed | Context: file=data.json, line=42
+2026-03-22 13:14:02 | ERROR    | src.core.logger:log_exception:191 | Exception details: [PARSE_ERROR] Parse error for json data: Invalid JSON format (data: {invalid json})
+2026-03-22 13:14:02 | ERROR    | src.core.logger:log_exception:194 | Exception traceback:
+src.core.exceptions.ParseError: [PARSE_ERROR] Parse error for json data: Invalid JSON format (data: {invalid json})
