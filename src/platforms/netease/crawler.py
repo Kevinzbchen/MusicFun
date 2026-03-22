@@ -245,17 +245,92 @@ class NeteaseCrawler(BaseCrawler):
         logger.info(f"Using mock comments for song {item_id}")
         return self._generate_mock_comments(item_id, limit)
 
-    def search_and_get_comments(self, keyword: str, max_songs: int = 30) -> Dict[str, Any]:
-        """Complete workflow: search and get comments."""
-        songs = self.search(keyword, limit=max_songs)
+    def search_and_get_comments(self, keyword: str, max_songs: int = 30, sort_by_comments: bool = True) -> Dict[str, Any]:
+        """Complete workflow: search and get comments for top commented songs."""
+        # Get more songs initially so we can sort them
+        fetch_limit = max_songs * 3 if sort_by_comments else max_songs
+        songs = self.search(keyword, limit=fetch_limit)
 
         if not songs:
             logger.warning(f"No songs found for keyword: {keyword}")
             return {}
 
-        result = {}
+        # If sorting by comments is disabled, just return first N songs
+        if not sort_by_comments or self.use_mock:
+            result = {}
+            for idx, song in enumerate(songs[:max_songs], 1):
+                logger.info(f"Processing {idx}/{min(max_songs, len(songs))}: {song.title}")
+                comments = self.get_comments(int(song.id), limit=self.config.get("max_comments_per_song", 10))
+
+                result[song.title] = {
+                    "id": song.id,
+                    "artist": song.artist,
+                    "album": song.album,
+                    "duration": song.duration,
+                    "hot_comments": [
+                        {
+                            "user_id": c.user_id,
+                            "username": c.username,
+                            "content": c.content,
+                            "likes": c.like_count,
+                            "time": c.created_at.isoformat() if hasattr(c.created_at, 'isoformat') else str(c.created_at)
+                        }
+                        for c in comments
+                    ]
+                }
+                self._delay()
+
+            logger.info(f"Completed. Processed {len(result)} songs")
+            return result
+
+        # Fetch comment counts for each song to find the most commented ones
+        logger.info(f"Fetching comment counts for {len(songs)} songs to find top commented...")
+
+        song_with_counts = []
         for idx, song in enumerate(songs, 1):
-            logger.info(f"Processing {idx}/{len(songs)}: {song.title}")
+            logger.info(f"Checking {idx}/{len(songs)}: {song.title}")
+
+            try:
+                url = f"{self.api_url}/comment/music?id={song.id}&limit=1"
+                response = requests.get(url, timeout=10)
+
+                if response.status_code == 200:
+                    data = response.json()
+                    total_comments = data.get('total', 0)
+                    song_with_counts.append({
+                        'song': song,
+                        'comment_count': total_comments
+                    })
+                    logger.debug(f"  Comments: {total_comments}")
+                else:
+                    song_with_counts.append({'song': song, 'comment_count': 0})
+
+            except Exception as e:
+                logger.debug(f"Failed to get comment count for {song.id}: {e}")
+                song_with_counts.append({'song': song, 'comment_count': 0})
+
+            # Be polite to the API
+            self._delay()
+
+        # Sort by comment count (descending)
+        song_with_counts.sort(key=lambda x: x['comment_count'], reverse=True)
+
+        # Take top N songs
+        top_songs = song_with_counts[:max_songs]
+
+        logger.info(f"Top {len(top_songs)} songs by comment count:")
+        for i, item in enumerate(top_songs[:10], 1):
+            logger.info(f"  {i}. {item['song'].title} - {item['comment_count']} comments")
+
+        # Now fetch full comments for the top songs
+        result = {}
+        for idx, item in enumerate(top_songs, 1):
+            song = item['song']
+            comment_count = item['comment_count']
+
+            logger.info(f"Processing {idx}/{len(top_songs)}: {song.title} ({comment_count} comments)")
+
+            # Get actual comments
             comments = self.get_comments(int(song.id), limit=self.config.get("max_comments_per_song", 10))
 
             result[song.title] = {
@@ -263,6 +338,7 @@ class NeteaseCrawler(BaseCrawler):
                 "artist": song.artist,
                 "album": song.album,
                 "duration": song.duration,
+                "total_comments": comment_count,
                 "hot_comments": [
                     {
                         "user_id": c.user_id,
@@ -276,7 +352,7 @@ class NeteaseCrawler(BaseCrawler):
             }
             self._delay()
 
-        logger.info(f"Completed. Processed {len(result)} songs")
+        logger.info(f"Completed. Processed {len(result)} top commented songs")
         return result
 
     def get_song(self, song_id: int) -> Optional[Song]:

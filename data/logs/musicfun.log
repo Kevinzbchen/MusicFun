@@ -3163,3 +3163,185 @@ created_at
 2026-03-22 23:32:08 | INFO     | __main__:main:70 | SUCCESS! Processed 5 songs
 2026-03-22 23:32:08 | INFO     | __main__:main:71 | Output saved to: data\processed\netease_mihoyo_20260322_233208.json
 2026-03-22 23:32:08 | INFO     | __main__:main:72 | ==================================================
+2026-03-22 23:48:36 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-22 23:48:36 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-22 23:48:36 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-22 23:48:36 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-22 23:48:36 | INFO     | __main__:main:35 | ==================================================
+2026-03-22 23:48:36 | INFO     | __main__:main:36 | Netease Music Crawler Started
+2026-03-22 23:48:36 | INFO     | __main__:main:37 | Keyword: 米哈游
+2026-03-22 23:48:36 | INFO     | __main__:main:38 | Max songs: 5
+2026-03-22 23:48:36 | INFO     | __main__:main:39 | Comments per song: 10
+2026-03-22 23:48:36 | INFO     | __main__:main:40 | Mock only: False
+2026-03-22 23:48:36 | INFO     | __main__:main:41 | ==================================================
+2026-03-22 23:48:36 | INFO     | src.core.base_crawler:__init__:36 | Crawler initialized: NeteaseCrawler
+2026-03-22 23:48:36 | INFO     | src.platforms.netease.crawler:__init__:30 | NeteaseCrawler initialized (mock mode: False, api: http://localhost:3000)
+2026-03-22 23:48:36 | INFO     | __main__:main:48 | Starting search and comment extraction...
+2026-03-22 23:48:36 | INFO     | src.platforms.netease.crawler:search:34 | Searching: 米哈游
+2026-03-22 23:48:36 | INFO     | src.platforms.netease.crawler:search:61 | Found 15 songs from local API
+2026-03-22 23:48:36 | INFO     | src.platforms.netease.crawler:search_and_get_comments:287 | Fetching comment counts for 15 songs to find top commented...
+2026-03-22 23:48:36 | INFO     | src.platforms.netease.crawler:search_and_get_comments:291 | Checking 1/15: 完美偶像 Perfect Idol
+2026-03-22 23:48:37 | INFO     | src.platforms.netease.crawler:search_and_get_comments:291 | Checking 2/15: 世界尽头酒馆 World's End Tavern
+2026-03-22 23:48:38 | INFO     | src.platforms.netease.crawler:search_and_get_comments:291 | Checking 3/15: 生活在这里的理由 Reasons to Live Here
+2026-03-22 23:48:40 | INFO     | src.platforms.netease.crawler:search_and_get_comments:291 | Checking 4/15: 痴人说梦
+2026-03-22 23:48:41 | INFO     | src.platforms.netease.crawler:search_and_get_comments:291 | Checking 5/15: 耀斑
+2026-03-22 23:48:42 | INFO     | src.platforms.netease.crawler:search_and_get_comments:291 | Checking 6/15: 拂晓 Proi Proi
+2026-03-22 23:48:43 | INFO     | src.platforms.netease.crawler:search_and_get_comments:291 | Checking 7/15: 独角戏 Monodrama
+2026-03-22 23:48:45 | INFO     | src.platforms.netease.crawler:search_and_get_comments:291 | Checking 8/15: 不乱不破
+2026-03-22 23:48:46 | INFO     | src.platforms.netease.crawler:search_and_get_comments:291 | Checking 9/15: WHITE NIGHT (不眠之夜)
+2026-03-22 23:48:47 | INFO     | src.platforms.netease.crawler:search_and_get_comments:291 | Checking 10/15: Da Capo
+2026-03-22 23:48:48 | INFO     | src.platforms.netease.crawler:search_and_get_comments:291 | Checking 11/15: 日冕 Coronal Radiance
+2026-03-22 23:48:49 | INFO     | src.platforms.netease.crawler:search_and_get_comments:291 | Checking 12/15: 轻涟 La vaguelette
+2026-03-22 23:48:51 | INFO     | src.platforms.netease.crawler:search_and_get_comments:291 | Checking 13/15: 早上好，二相乐园！ Morning, Planarcadia!
+2026-03-22 23:48:52 | INFO     | src.platforms.netease.crawler:search_and_get_comments:291 | Checking 14/15: 新月的摇篮曲（其一）：伴月同眠 Lullaby of the New Moon (I): Somnias a Luna
+2026-03-22 23:48:53 | INFO     | src.platforms.netease.crawler:search_and_get_comments:291 | Checking 15/15: 七见断灭智论抄 Prajnaparamitopadesa to Quell Seven Calamities
+2026-03-22 23:48:54 | INFO     | src.platforms.netease.crawler:search_and_get_comments:321 | Top 5 songs by comment count:
+2026-03-22 23:48:54 | INFO     | src.platforms.netease.crawler:search_and_get_comments:323 |   1. Da Capo - 52462 comments
+2026-03-22 23:48:54 | INFO     | src.platforms.netease.crawler:search_and_get_comments:323 |   2. 耀斑 - 21725 comments
+2026-03-22 23:48:54 | INFO     | src.platforms.netease.crawler:search_and_get_comments:323 |   3. 拂晓 Proi Proi - 11788 comments
+2026-03-22 23:48:54 | INFO     | src.platforms.netease.crawler:search_and_get_comments:323 |   4. 轻涟 La vaguelette - 9466 comments
+2026-03-22 23:48:54 | INFO     | src.platforms.netease.crawler:search_and_get_comments:323 |   5. 不乱不破 - 6105 comments
+2026-03-22 23:48:54 | INFO     | src.platforms.netease.crawler:search_and_get_comments:331 | Processing 1/5: Da Capo (52462 comments)
+2026-03-22 23:48:54 | INFO     | src.platforms.netease.crawler:get_comments:165 | Getting comments for song: 2026565329
+2026-03-22 23:48:54 | INFO     | src.platforms.netease.crawler:get_comments:232 | Got 15 real comments from local API
+2026-03-22 23:48:55 | INFO     | src.platforms.netease.crawler:search_and_get_comments:331 | Processing 2/5: 耀斑 (21725 comments)
+2026-03-22 23:48:55 | INFO     | src.platforms.netease.crawler:get_comments:165 | Getting comments for song: 2722510685
+2026-03-22 23:48:55 | INFO     | src.platforms.netease.crawler:get_comments:232 | Got 15 real comments from local API
+2026-03-22 23:48:56 | INFO     | src.platforms.netease.crawler:search_and_get_comments:331 | Processing 3/5: 拂晓 Proi Proi (11788 comments)
+2026-03-22 23:48:56 | INFO     | src.platforms.netease.crawler:get_comments:165 | Getting comments for song: 2709812973
+2026-03-22 23:48:57 | INFO     | src.platforms.netease.crawler:get_comments:232 | Got 15 real comments from local API
+2026-03-22 23:48:58 | INFO     | src.platforms.netease.crawler:search_and_get_comments:331 | Processing 4/5: 轻涟 La vaguelette (9466 comments)
+2026-03-22 23:48:58 | INFO     | src.platforms.netease.crawler:get_comments:165 | Getting comments for song: 2100334024
+2026-03-22 23:48:58 | INFO     | src.platforms.netease.crawler:get_comments:232 | Got 15 real comments from local API
+2026-03-22 23:48:59 | INFO     | src.platforms.netease.crawler:search_and_get_comments:331 | Processing 5/5: 不乱不破 (6105 comments)
+2026-03-22 23:48:59 | INFO     | src.platforms.netease.crawler:get_comments:165 | Getting comments for song: 2639639291
+2026-03-22 23:48:59 | INFO     | src.platforms.netease.crawler:get_comments:232 | Got 15 real comments from local API
+2026-03-22 23:49:00 | INFO     | src.platforms.netease.crawler:search_and_get_comments:355 | Completed. Processed 5 top commented songs
+2026-03-22 23:49:00 | INFO     | __main__:main:69 | ==================================================
+2026-03-22 23:49:00 | INFO     | __main__:main:70 | SUCCESS! Processed 5 songs
+2026-03-22 23:49:00 | INFO     | __main__:main:71 | Output saved to: data\processed\netease_米哈游_20260322_234900.json
+2026-03-22 23:49:00 | INFO     | __main__:main:72 | ==================================================
+2026-03-23 00:02:17 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-23 00:02:17 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-23 00:02:17 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-23 00:02:17 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-23 00:02:17 | INFO     | __main__:main:35 | ==================================================
+2026-03-23 00:02:17 | INFO     | __main__:main:36 | Netease Music Crawler Started
+2026-03-23 00:02:17 | INFO     | __main__:main:37 | Keyword: mihoyo
+2026-03-23 00:02:17 | INFO     | __main__:main:38 | Max songs: 2
+2026-03-23 00:02:17 | INFO     | __main__:main:39 | Comments per song: 10
+2026-03-23 00:02:17 | INFO     | __main__:main:40 | Mock only: True
+2026-03-23 00:02:17 | INFO     | __main__:main:41 | ==================================================
+2026-03-23 00:02:17 | INFO     | src.core.base_crawler:__init__:36 | Crawler initialized: NeteaseCrawler
+2026-03-23 00:02:17 | INFO     | src.platforms.netease.crawler:__init__:30 | NeteaseCrawler initialized (mock mode: True, api: http://localhost:3000)
+2026-03-23 00:02:17 | INFO     | __main__:main:48 | Starting search and comment extraction...
+2026-03-23 00:02:17 | INFO     | src.platforms.netease.crawler:search:34 | Searching: mihoyo
+2026-03-23 00:02:17 | INFO     | src.platforms.netease.crawler:search:93 | Found 6 songs from direct search
+2026-03-23 00:02:17 | INFO     | src.platforms.netease.crawler:search_and_get_comments:262 | Processing 1/2: 痴人说梦
+2026-03-23 00:02:17 | INFO     | src.platforms.netease.crawler:get_comments:165 | Getting comments for song: 3357230091
+2026-03-23 00:02:17 | INFO     | src.platforms.netease.crawler:get_comments:245 | Using mock comments for song 3357230091
+2026-03-23 00:02:17 | INFO     | src.platforms.netease.crawler:_generate_mock_comments:160 | Generated 5 mock comments
+2026-03-23 00:02:18 | INFO     | src.platforms.netease.crawler:search_and_get_comments:262 | Processing 2/2: 挪德卡莱 Nod-Krai
+2026-03-23 00:02:18 | INFO     | src.platforms.netease.crawler:get_comments:165 | Getting comments for song: 2756019200
+2026-03-23 00:02:18 | INFO     | src.platforms.netease.crawler:get_comments:245 | Using mock comments for song 2756019200
+2026-03-23 00:02:18 | INFO     | src.platforms.netease.crawler:_generate_mock_comments:160 | Generated 5 mock comments
+2026-03-23 00:02:19 | INFO     | src.platforms.netease.crawler:search_and_get_comments:283 | Completed. Processed 2 songs
+2026-03-23 00:02:19 | INFO     | __main__:main:69 | ==================================================
+2026-03-23 00:02:19 | INFO     | __main__:main:70 | SUCCESS! Processed 2 songs
+2026-03-23 00:02:19 | INFO     | __main__:main:71 | Output saved to: data\processed\netease_mihoyo_20260323_000219.json
+2026-03-23 00:02:19 | INFO     | __main__:main:72 | ==================================================
+2026-03-23 00:02:33 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-23 00:02:33 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-23 00:02:33 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-23 00:02:33 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-23 00:02:33 | INFO     | __main__:main:35 | ==================================================
+2026-03-23 00:02:33 | INFO     | __main__:main:36 | Netease Music Crawler Started
+2026-03-23 00:02:33 | INFO     | __main__:main:37 | Keyword: mihoyo
+2026-03-23 00:02:33 | INFO     | __main__:main:38 | Max songs: 2
+2026-03-23 00:02:33 | INFO     | __main__:main:39 | Comments per song: 10
+2026-03-23 00:02:33 | INFO     | __main__:main:40 | Mock only: False
+2026-03-23 00:02:33 | INFO     | __main__:main:41 | ==================================================
+2026-03-23 00:02:33 | INFO     | src.core.base_crawler:__init__:36 | Crawler initialized: NeteaseCrawler
+2026-03-23 00:02:33 | INFO     | src.platforms.netease.crawler:__init__:30 | NeteaseCrawler initialized (mock mode: False, api: http://localhost:3000)
+2026-03-23 00:02:33 | INFO     | __main__:main:48 | Starting search and comment extraction...
+2026-03-23 00:02:33 | INFO     | src.platforms.netease.crawler:search:34 | Searching: mihoyo
+2026-03-23 00:02:33 | INFO     | src.platforms.netease.crawler:search:61 | Found 6 songs from local API
+2026-03-23 00:02:33 | INFO     | src.platforms.netease.crawler:search_and_get_comments:287 | Fetching comment counts for 6 songs to find top commented...
+2026-03-23 00:02:33 | INFO     | src.platforms.netease.crawler:search_and_get_comments:291 | Checking 1/6: 痴人说梦
+2026-03-23 00:02:34 | INFO     | src.platforms.netease.crawler:search_and_get_comments:291 | Checking 2/6: 挪德卡莱 Nod-Krai
+2026-03-23 00:02:35 | INFO     | src.platforms.netease.crawler:search_and_get_comments:291 | Checking 3/6: 不眠之夜
+2026-03-23 00:02:37 | INFO     | src.platforms.netease.crawler:search_and_get_comments:291 | Checking 4/6: 轻涟 La vaguelette
+2026-03-23 00:02:38 | INFO     | src.platforms.netease.crawler:search_and_get_comments:291 | Checking 5/6: 火力全开 Maximum Firepower
+2026-03-23 00:02:39 | INFO     | src.platforms.netease.crawler:search_and_get_comments:291 | Checking 6/6: 耀斑
+2026-03-23 00:02:40 | INFO     | src.platforms.netease.crawler:search_and_get_comments:321 | Top 2 songs by comment count:
+2026-03-23 00:02:40 | INFO     | src.platforms.netease.crawler:search_and_get_comments:323 |   1. 不眠之夜 - 35154 comments
+2026-03-23 00:02:40 | INFO     | src.platforms.netease.crawler:search_and_get_comments:323 |   2. 耀斑 - 21725 comments
+2026-03-23 00:02:40 | INFO     | src.platforms.netease.crawler:search_and_get_comments:331 | Processing 1/2: 不眠之夜 (35154 comments)
+2026-03-23 00:02:40 | INFO     | src.platforms.netease.crawler:get_comments:165 | Getting comments for song: 2122308127
+2026-03-23 00:02:41 | INFO     | src.platforms.netease.crawler:get_comments:232 | Got 15 real comments from local API
+2026-03-23 00:02:42 | INFO     | src.platforms.netease.crawler:search_and_get_comments:331 | Processing 2/2: 耀斑 (21725 comments)
+2026-03-23 00:02:42 | INFO     | src.platforms.netease.crawler:get_comments:165 | Getting comments for song: 2722510685
+2026-03-23 00:02:42 | INFO     | src.platforms.netease.crawler:get_comments:232 | Got 15 real comments from local API
+2026-03-23 00:02:43 | INFO     | src.platforms.netease.crawler:search_and_get_comments:355 | Completed. Processed 2 top commented songs
+2026-03-23 00:02:43 | INFO     | __main__:main:69 | ==================================================
+2026-03-23 00:02:43 | INFO     | __main__:main:70 | SUCCESS! Processed 2 songs
+2026-03-23 00:02:43 | INFO     | __main__:main:71 | Output saved to: data\processed\netease_mihoyo_20260323_000243.json
+2026-03-23 00:02:43 | INFO     | __main__:main:72 | ==================================================
+2026-03-23 00:03:16 | INFO     | src.core.logger:setup_logger:126 | Logger initialized. Log directory: C:\Users\Admin\IdeaProjects\MusicFun\data\logs
+2026-03-23 00:03:16 | INFO     | src.core.logger:setup_logger:127 | Log level: INFO
+2026-03-23 00:03:16 | INFO     | src.core.logger:setup_logger:128 | Log file: musicfun.log
+2026-03-23 00:03:16 | INFO     | src.core.logger:setup_logger:129 | Error file: musicfun_error.log
+2026-03-23 00:03:16 | INFO     | __main__:main:35 | ==================================================
+2026-03-23 00:03:16 | INFO     | __main__:main:36 | Netease Music Crawler Started
+2026-03-23 00:03:16 | INFO     | __main__:main:37 | Keyword: mihoyo
+2026-03-23 00:03:16 | INFO     | __main__:main:38 | Max songs: 5
+2026-03-23 00:03:16 | INFO     | __main__:main:39 | Comments per song: 10
+2026-03-23 00:03:16 | INFO     | __main__:main:40 | Mock only: False
+2026-03-23 00:03:16 | INFO     | __main__:main:41 | ==================================================
+2026-03-23 00:03:16 | INFO     | src.core.base_crawler:__init__:36 | Crawler initialized: NeteaseCrawler
+2026-03-23 00:03:16 | INFO     | src.platforms.netease.crawler:__init__:30 | NeteaseCrawler initialized (mock mode: False, api: http://localhost:3000)
+2026-03-23 00:03:16 | INFO     | __main__:main:48 | Starting search and comment extraction...
+2026-03-23 00:03:16 | INFO     | src.platforms.netease.crawler:search:34 | Searching: mihoyo
+2026-03-23 00:03:17 | INFO     | src.platforms.netease.crawler:search:61 | Found 15 songs from local API
+2026-03-23 00:03:17 | INFO     | src.platforms.netease.crawler:search_and_get_comments:287 | Fetching comment counts for 15 songs to find top commented...
+2026-03-23 00:03:17 | INFO     | src.platforms.netease.crawler:search_and_get_comments:291 | Checking 1/15: 痴人说梦
+2026-03-23 00:03:18 | INFO     | src.platforms.netease.crawler:search_and_get_comments:291 | Checking 2/15: 挪德卡莱 Nod-Krai
+2026-03-23 00:03:19 | INFO     | src.platforms.netease.crawler:search_and_get_comments:291 | Checking 3/15: 不眠之夜
+2026-03-23 00:03:20 | INFO     | src.platforms.netease.crawler:search_and_get_comments:291 | Checking 4/15: 轻涟 La vaguelette
+2026-03-23 00:03:21 | INFO     | src.platforms.netease.crawler:search_and_get_comments:291 | Checking 5/15: 火力全开 Maximum Firepower
+2026-03-23 00:03:22 | INFO     | src.platforms.netease.crawler:search_and_get_comments:291 | Checking 6/15: 耀斑
+2026-03-23 00:03:23 | INFO     | src.platforms.netease.crawler:search_and_get_comments:291 | Checking 7/15: 不乱不破
+2026-03-23 00:03:24 | INFO     | src.platforms.netease.crawler:search_and_get_comments:291 | Checking 8/15: Nightglow
+2026-03-23 00:03:25 | INFO     | src.platforms.netease.crawler:search_and_get_comments:291 | Checking 9/15: 日冕 Coronal Radiance
+2026-03-23 00:03:27 | INFO     | src.platforms.netease.crawler:search_and_get_comments:291 | Checking 10/15: 节目效果 All for the Show
+2026-03-23 00:03:28 | INFO     | src.platforms.netease.crawler:search_and_get_comments:291 | Checking 11/15: Nameless Faces
+2026-03-23 00:03:29 | INFO     | src.platforms.netease.crawler:search_and_get_comments:291 | Checking 12/15: 拂晓 Proi Proi
+2026-03-23 00:03:30 | INFO     | src.platforms.netease.crawler:search_and_get_comments:291 | Checking 13/15: 星间旅行 Interstellar Journey (中文版)
+2026-03-23 00:03:32 | INFO     | src.platforms.netease.crawler:search_and_get_comments:291 | Checking 14/15: 使一颗心免于哀伤
+2026-03-23 00:03:33 | INFO     | src.platforms.netease.crawler:search_and_get_comments:291 | Checking 15/15: 白日梦 Daydream
+2026-03-23 00:03:34 | INFO     | src.platforms.netease.crawler:search_and_get_comments:321 | Top 5 songs by comment count:
+2026-03-23 00:03:34 | INFO     | src.platforms.netease.crawler:search_and_get_comments:323 |   1. Nightglow - 46910 comments
+2026-03-23 00:03:34 | INFO     | src.platforms.netease.crawler:search_and_get_comments:323 |   2. 不眠之夜 - 35154 comments
+2026-03-23 00:03:34 | INFO     | src.platforms.netease.crawler:search_and_get_comments:323 |   3. 耀斑 - 21725 comments
+2026-03-23 00:03:34 | INFO     | src.platforms.netease.crawler:search_and_get_comments:323 |   4. 拂晓 Proi Proi - 11788 comments
+2026-03-23 00:03:34 | INFO     | src.platforms.netease.crawler:search_and_get_comments:323 |   5. 使一颗心免于哀伤 - 11633 comments
+2026-03-23 00:03:34 | INFO     | src.platforms.netease.crawler:search_and_get_comments:331 | Processing 1/5: Nightglow (46910 comments)
+2026-03-23 00:03:34 | INFO     | src.platforms.netease.crawler:get_comments:165 | Getting comments for song: 1333199831
+2026-03-23 00:03:34 | INFO     | src.platforms.netease.crawler:get_comments:232 | Got 15 real comments from local API
+2026-03-23 00:03:35 | INFO     | src.platforms.netease.crawler:search_and_get_comments:331 | Processing 2/5: 不眠之夜 (35154 comments)
+2026-03-23 00:03:35 | INFO     | src.platforms.netease.crawler:get_comments:165 | Getting comments for song: 2122308127
+2026-03-23 00:03:35 | INFO     | src.platforms.netease.crawler:get_comments:232 | Got 15 real comments from local API
+2026-03-23 00:03:36 | INFO     | src.platforms.netease.crawler:search_and_get_comments:331 | Processing 3/5: 耀斑 (21725 comments)
+2026-03-23 00:03:36 | INFO     | src.platforms.netease.crawler:get_comments:165 | Getting comments for song: 2722510685
+2026-03-23 00:03:36 | INFO     | src.platforms.netease.crawler:get_comments:232 | Got 15 real comments from local API
+2026-03-23 00:03:37 | INFO     | src.platforms.netease.crawler:search_and_get_comments:331 | Processing 4/5: 拂晓 Proi Proi (11788 comments)
+2026-03-23 00:03:37 | INFO     | src.platforms.netease.crawler:get_comments:165 | Getting comments for song: 2709812973
+2026-03-23 00:03:38 | INFO     | src.platforms.netease.crawler:get_comments:232 | Got 15 real comments from local API
+2026-03-23 00:03:39 | INFO     | src.platforms.netease.crawler:search_and_get_comments:331 | Processing 5/5: 使一颗心免于哀伤 (11633 comments)
+2026-03-23 00:03:39 | INFO     | src.platforms.netease.crawler:get_comments:165 | Getting comments for song: 2155422573
+2026-03-23 00:03:39 | INFO     | src.platforms.netease.crawler:get_comments:232 | Got 15 real comments from local API
+2026-03-23 00:03:40 | INFO     | src.platforms.netease.crawler:search_and_get_comments:355 | Completed. Processed 5 top commented songs
+2026-03-23 00:03:40 | INFO     | __main__:main:69 | ==================================================
+2026-03-23 00:03:40 | INFO     | __main__:main:70 | SUCCESS! Processed 5 songs
+2026-03-23 00:03:40 | INFO     | __main__:main:71 | Output saved to: data\processed\netease_mihoyo_20260323_000340.json
+2026-03-23 00:03:40 | INFO     | __main__:main:72 | ==================================================
